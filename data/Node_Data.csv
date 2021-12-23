@@ -1,0 +1,351 @@
+City,Latitude,Longitude
+Aberdeen,45.449,-98.422
+Abilene,32.411,-99.682
+Akron,40.916,-81.442
+Alamosa,37.435,-105.867
+Albany,37.142,-78.998
+Albuquerque,35.04,-106.609
+Alexandria,31.327,-92.55
+Allentown/Bethlehem/Easton,40.652,-75.441
+Alpena,45.078,-83.56
+Amarillo,35.219,-101.706
+Anchorage,61.174,-149.996
+Appleton,44.258,-88.519
+Arcata/Eureka,40.978,-124.109
+Asheville,35.436,-82.542
+Ashland,38.367,-82.558
+Aspen,39.223,-106.869
+Atlanta,33.637,-84.428
+Atlantic City,39.458,-74.577
+Augusta,33.37,-81.965
+Austin,30.194,-97.67
+Bakersfield,35.434,-119.057
+Baltimore,39.175,-76.668
+Bangor,44.807,-68.828
+Barrow,71.285,-156.766
+Baton Rouge,30.533,-91.15
+Beaumont/Port Arthur,29.951,-94.021
+Belleville,38.545,-89.835
+Bellingham,48.793,-122.538
+Bemidji,47.509,-94.934
+Bend/Redmond,44.254,-121.15
+Bethel,60.78,-161.838
+Billings,45.808,-108.543
+Binghamton,42.209,-75.98
+Birmingham,33.563,-86.754
+Bismarck/Mandan,46.773,-100.746
+Bloomington/Normal,40.477,-88.916
+Boise,43.564,-116.223
+Boston,42.364,-71.005
+Bozeman,45.778,-111.153
+Brainerd,46.398,-94.138
+Bristol/Johnson City/Kingsport,36.475,-82.407
+Brownsville,25.907,-97.426
+Brunswick,31.259,-81.466
+Buffalo,42.94,-78.732
+Burbank,34.201,-118.359
+Burlington,44.472,-73.153
+Butte,45.955,-112.497
+Cape Girardeau,37.225,-89.571
+Casper,42.908,-106.464
+Cedar City,37.701,-113.099
+Cedar Rapids/Iowa City,41.885,-91.711
+Champaign/Urbana,40.039,-88.278
+Charleston,32.899,-80.04
+Charleston/Dunbar,38.373,-81.593
+Charlotte,35.214,-80.943
+Charlotte Amalie,18.337,-64.973
+Charlottesville,38.139,-78.453
+Chattanooga,35.035,-85.204
+Cheyenne,41.156,-104.812
+Chicago,41.882,-87.829
+Christiansted,17.702,-64.799
+Cincinnati,39.049,-84.668
+Clarksburg/Fairmont,39.297,-80.228
+Cleveland,41.412,-81.85
+Cody,44.52,-109.024
+Cold Bay,55.206,-162.725
+College Station/Bryan,30.589,-96.364
+Colorado Springs,38.806,-104.701
+Columbia,36.378,-86.67
+Columbus,36.445,-84.838
+Concord,35.388,-80.709
+Cordova,60.492,-145.478
+Corpus Christi,27.77,-97.501
+Dallas,32.847,-96.852
+Dallas/Fort Worth,32.897,-97.038
+Dayton,39.902,-84.219
+Daytona Beach,29.18,-81.058
+Deadhorse,70.195,-148.465
+Decatur,39.835,-88.866
+Del Rio,29.374,-100.927
+Denver,39.862,-104.673
+Des Moines,41.534,-93.663
+Detroit,42.212,-83.353
+Devils Lake,48.114,-98.909
+Dickinson,46.797,-102.802
+Dillingham,59.045,-158.505
+Dodge City,37.763,-99.966
+Dothan,31.321,-85.45
+Dubuque,42.402,-90.71
+Duluth,46.842,-92.194
+Durango,37.152,-107.754
+Eagle,39.643,-106.918
+Eau Claire,44.866,-91.484
+El Paso,31.807,-106.378
+Elko,40.825,-115.792
+Elmira/Corning,42.16,-76.892
+Erie,42.083,-80.174
+Escanaba,45.723,-87.094
+Eugene,44.125,-123.212
+Evansville,38.037,-87.532
+Everett,47.906,-122.282
+Fairbanks,64.815,-147.856
+Fargo,46.921,-96.816
+Fayetteville,35.637,-86.594
+Flagstaff,35.139,-111.671
+Flint,42.965,-83.744
+Florence,34.185,-79.724
+Fort Lauderdale,26.073,-80.153
+Fort Myers,26.536,-81.755
+Fort Smith,35.337,-94.367
+Fort Wayne,40.979,-85.195
+Fresno,36.776,-119.718
+Gainesville,29.69,-82.272
+Garden City,37.928,-100.724
+Gillette,44.349,-105.539
+Grand Forks,47.949,-97.176
+Grand Island,40.967,-98.31
+Grand Junction,39.122,-108.527
+Grand Rapids,42.881,-85.523
+Great Falls,47.482,-111.371
+Green Bay,44.485,-88.13
+Greensboro/High Point,36.098,-79.937
+Greenville,35.635,-77.385
+Greer,34.896,-82.219
+Guam,13.483,144.796
+Gulfport/Biloxi,30.407,-89.07
+Gunnison,38.534,-106.933
+Hagerstown,39.708,-77.729
+Hancock/Houghton,47.168,-88.489
+Harlingen/San Benito,26.229,-97.654
+Harrisburg,40.194,-76.763
+Hartford,41.939,-72.683
+Hattiesburg/Laurel,31.467,-89.337
+Hayden,40.481,-107.218
+Hays,38.842,-99.273
+Helena,46.607,-111.983
+Hibbing,47.387,-92.839
+Hilo,19.721,-155.048
+Hilton Head,32.224,-80.698
+Hobbs,32.688,-103.217
+Honolulu,21.321,-157.924
+Hoolehua,21.153,-157.096
+Houston,29.815,-95.31
+Huntsville,34.637,-86.775
+Idaho Falls,43.515,-112.071
+Indianapolis,39.717,-86.294
+International Falls,48.566,-93.403
+Iron Mountain/Kingsfd,45.818,-88.115
+Islip,40.795,-73.1
+Ithaca/Cortland,42.491,-76.458
+Jackson,43.607,-110.738
+Jackson/Vicksburg,32.311,-90.076
+Jacksonville,30.494,-81.688
+Jacksonville/Camp Lejeune,34.829,-77.612
+Jamestown,46.93,-98.678
+Johnstown,40.316,-78.834
+Joplin,37.152,-94.498
+Juneau,58.355,-134.576
+Kahului,20.899,-156.43
+Kalamazoo,42.235,-85.552
+Kalispell,48.311,-114.256
+Kansas City,39.298,-94.714
+Kearney,40.727,-99.007
+Ketchikan,55.356,-131.714
+Key West,24.556,-81.76
+Killeen,31.067,-97.829
+King Salmon,58.677,-156.649
+Knoxville,35.811,-83.994
+Kodiak,57.75,-152.494
+Kona,19.739,-156.046
+Kotzebue,66.885,-162.599
+La Crosse,43.879,-91.257
+Lafayette,30.205,-91.988
+Lake Charles,30.126,-93.223
+Lanai,20.786,-156.951
+Lansing,42.779,-84.587
+Laramie,41.312,-105.675
+Laredo,27.544,-99.462
+Las Vegas,36.08,-115.152
+Latrobe,40.276,-79.405
+Lawton/Fort Sill,34.568,-98.417
+Lewisburg,37.858,-80.399
+Lewiston,46.375,-117.015
+Lexington,38.036,-84.606
+Liberal,37.044,-100.96
+Lihue,21.976,-159.339
+Lincoln,40.851,-96.759
+Little Rock,34.729,-92.224
+Long Beach,33.818,-118.152
+Longview,32.384,-94.712
+Los Angeles,33.943,-118.408
+Louisville,38.174,-85.736
+Lubbock,33.664,-101.823
+Lynchburg,37.327,-79.2
+Madison,43.14,-89.338
+Manchester,42.933,-71.436
+Manhattan/Ft. Riley,39.141,-96.671
+Marquette,46.354,-87.395
+Medford,42.374,-122.873
+Melbourne,28.103,-80.645
+Memphis,35.042,-89.977
+Meridian,32.333,-88.752
+Miami,25.793,-80.291
+Midland/Odessa,31.942,-102.202
+Milwaukee,42.947,-87.897
+Minneapolis,44.882,-93.222
+Minot,48.259,-101.28
+Mission/McAllen/Edinburg,26.176,-98.239
+Missoula,46.916,-114.091
+Moab,38.755,-109.755
+Mobile,30.691,-88.243
+Moline,41.449,-90.507
+Monroe,32.511,-92.038
+Monterey,36.587,-121.843
+Montgomery,32.301,-86.394
+Montrose/Delta,38.51,-107.894
+Mosinee,44.778,-89.667
+Muskegon,43.169,-86.238
+Myrtle Beach,33.68,-78.928
+Nantucket,41.253,-70.06
+Nashville,36.125,-86.678
+New Bern/Morehead/Beaufort,35.073,-77.043
+New Haven,41.264,-72.887
+New Orleans,29.993,-90.258
+New York,40.708,-73.826
+Newark,40.693,-74.169
+Newburgh/Poughkeepsie,41.504,-74.105
+Newport News/Williamsburg,37.132,-76.493
+Niagara Falls,43.107,-78.946
+Nome,64.512,-165.445
+Norfolk,36.895,-76.201
+North Bend/Coos Bay,43.417,-124.246
+North Platte,41.126,-100.684
+Oakland,37.721,-122.221
+Ogden,41.196,-112.012
+Ogdensburg,44.682,-75.465
+Oklahoma City,35.393,-97.601
+Omaha,41.303,-95.894
+Ontario,34.056,-117.601
+Orlando,28.429,-81.309
+Owensboro,37.74,-87.167
+Paducah,37.061,-88.774
+Palm Springs,33.83,-116.507
+Panama City,30.357,-85.795
+Pasco/Kennewick/Richland,46.265,-119.119
+Pellston,45.571,-84.797
+Pensacola,30.473,-87.187
+Peoria,40.664,-89.693
+Petersburg,56.802,-132.945
+Philadelphia,39.872,-75.241
+Phoenix,33.371,-111.833
+Pierre,44.383,-100.286
+Pittsburgh,40.492,-80.233
+Plattsburgh,44.651,-73.468
+Pocatello,42.91,-112.596
+Portland,44.617,-96.454
+Portsmouth,43.078,-70.823
+Prescott,34.654,-112.42
+Presque Isle/Houlton,46.689,-68.045
+Providence,41.733,-71.42
+Provo,40.219,-111.723
+Pueblo,38.289,-104.497
+Pullman,46.744,-117.11
+Punta Gorda,26.92,-81.991
+Raleigh/Durham,35.878,-78.787
+Rapid City,44.045,-103.057
+Redding,40.509,-122.293
+Reno,39.499,-119.768
+Rhinelander,45.631,-89.467
+Richmond,37.505,-77.32
+Riverton/Lander,43.064,-108.46
+Roanoke,37.325,-79.975
+Rochester,43.514,-85.086
+Rock Springs,41.594,-109.065
+Rockford,42.195,-89.097
+Roswell,33.302,-104.531
+Sacramento,38.695,-121.591
+Saginaw/Bay City/Midland,43.533,-84.08
+Saipan,15.119,145.729
+Salina,38.791,-97.652
+Salisbury,38.34,-75.51
+Salt Lake City,40.788,-111.978
+San Angelo,31.358,-100.496
+San Antonio,29.534,-98.47
+San Diego,32.734,-117.19
+San Francisco,37.619,-122.375
+San Jose,37.363,-121.929
+San Juan,18.439,-66.002
+San Luis Obispo,35.237,-120.642
+Sanford,28.778,-81.238
+Santa Ana,33.676,-117.868
+Santa Barbara,34.426,-119.84
+Santa Fe,35.617,-106.089
+Santa Maria,34.899,-120.457
+Santa Rosa,38.509,-122.813
+Sarasota/Bradenton,27.395,-82.554
+Sault Ste. Marie,46.251,-84.472
+Savannah,32.128,-81.202
+Scottsbluff,41.874,-103.596
+Scranton/Wilkes-Barre,41.339,-75.723
+Seattle,47.449,-122.309
+Sheridan,44.769,-106.98
+Shreveport,32.447,-93.826
+Sioux City,42.403,-96.384
+Sioux Falls,43.582,-96.742
+Sitka,57.047,-135.362
+South Bend,41.709,-86.317
+Spokane,47.62,-117.534
+Springfield,38.545,-91.533
+St. Cloud,45.547,-94.06
+St. George,37.036,-113.51
+St. Louis,38.749,-90.37
+St. Petersburg,27.91,-82.687
+State College,40.849,-77.849
+Staunton,38.264,-78.896
+Stillwater,36.161,-97.086
+Stockton,37.894,-121.238
+Sun Valley/Hailey/Ketchum,43.504,-114.296
+Syracuse,43.111,-76.106
+Tallahassee,30.396,-84.35
+Tampa,27.976,-82.533
+Texarkana,33.454,-93.991
+Toledo,41.587,-83.808
+Traverse City,44.741,-85.582
+Trenton,40.277,-74.813
+Tucson,32.116,-110.941
+Tulsa,36.198,-95.888
+Twin Falls,42.482,-114.488
+Tyler,32.354,-95.402
+Valdosta,30.782,-83.277
+Valparaiso,30.483,-86.525
+Vernal,40.441,-109.51
+Victoria,28.853,-96.919
+Waco,31.611,-97.23
+Walla Walla,46.095,-118.288
+Washington,38.898,-77.247
+Waterloo,42.557,-92.4
+Watertown,44.453,-86.588
+Wenatchee,47.399,-120.207
+West Palm Beach/Palm Beach,26.683,-80.096
+White Plains,41.067,-73.708
+Wichita,37.65,-97.433
+Wichita Falls,33.989,-98.492
+Williamsport,41.242,-76.921
+Williston,48.26,-103.751
+Wilmington,34.271,-77.903
+Wrangell,56.484,-132.37
+Yakima,46.568,-120.544
+Yakutat,59.503,-139.66
+Yuma,32.657,-114.606

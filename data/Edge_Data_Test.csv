@@ -1,0 +1,13 @@
+City1,City2,Distance,Time,Cost
+CityA,CityB,10,10,10
+CityB,CityC,7,7,7
+CityA,CityD,3,3,3
+CityB,CityD,5,5,5
+CityA,CityF,7,7,7
+CityC,CityE,6,6,6
+CityC,CityH,4,4,4
+CityE,CityH,3,3,3
+CityE,CityF,5,5,5
+CityF,CityG,4,4,4
+CityG,CityH,5,5,5
+CityE,CityG,2,2,2

@@ -1,0 +1,2404 @@
+City1,City2,Distance,Time,Cost
+Aberdeen,Minneapolis,257,71,458
+Abilene,Dallas/Fort Worth,158,64,179
+Abilene,Houston,307,76,107
+Akron,Charlotte,394,100,155
+Akron,Chicago,343,83,163
+Akron,Fort Myers,991,152,143
+Akron,Orlando,861,136,103
+Akron,Philadelphia,335,81,189
+Akron,Tampa,894,141,155
+Akron,Washington,251,74,138
+Alamosa,Denver,179,59,7
+Albany,Atlanta,332,76,194
+Albany,Baltimore,289,72,147
+Albany,Charlotte,646,128,184
+Albany,Chicago,721,132,162
+Albany,Denver,1610,226,191
+Albany,Detroit,489,98,197
+Albany,Fort Lauderdale,1204,185,177
+Albany,Hartford,80,39,238
+Albany,Newark,143,66,147
+Albany,Orlando,1073,170,128
+Albany,Philadelphia,212,71,178
+Albany,Punta Gorda,1185,181,76
+Albany,St. Petersburg,1138,175,65
+Albany,Tampa,1130,173,179
+Albany,Washington,323,90,139
+Albuquerque,Atlanta,1269,184,224
+Albuquerque,Austin,619,104,132
+Albuquerque,Baltimore,1670,230,170
+Albuquerque,Chicago,1120,176,194
+Albuquerque,Dallas,580,101,154
+Albuquerque,Dallas/Fort Worth,569,114,158
+Albuquerque,Denver,349,77,124
+Albuquerque,Houston,751,129,179
+Albuquerque,Kansas City,718,110,146
+Albuquerque,Las Vegas,486,85,135
+Albuquerque,Los Angeles,677,115,171
+Albuquerque,New York,1826,262,188
+Albuquerque,Oakland,889,136,152
+Albuquerque,Phoenix,328,75,146
+Albuquerque,Portland,1111,165,131
+Albuquerque,Salt Lake City,493,100,180
+Albuquerque,San Antonio,609,105,151
+Albuquerque,San Diego,628,99,136
+Albuquerque,San Francisco,896,144,174
+Albuquerque,Seattle,1180,176,136
+Alexandria,Atlanta,500,97,262
+Alexandria,Dallas/Fort Worth,285,78,203
+Alexandria,Houston,190,63,261
+Allentown/Bethlehem/Easton,Atlanta,692,119,192
+Allentown/Bethlehem/Easton,Charlotte,481,104,171
+Allentown/Bethlehem/Easton,Chicago,654,119,243
+Allentown/Bethlehem/Easton,Detroit,425,95,262
+Allentown/Bethlehem/Easton,Fort Lauderdale,1041,182,99
+Allentown/Bethlehem/Easton,Nashville,685,112,99
+Allentown/Bethlehem/Easton,Punta Gorda,1018,161,88
+Allentown/Bethlehem/Easton,Sanford,882,144,75
+Allentown/Bethlehem/Easton,Sarasota/Bradenton,1000,163,91
+Allentown/Bethlehem/Easton,St. Petersburg,970,155,78
+Allentown/Bethlehem/Easton,Washington,159,62,172
+Alpena,Detroit,198,60,173
+Amarillo,Dallas,323,67,133
+Amarillo,Dallas/Fort Worth,312,80,152
+Amarillo,Denver,359,85,170
+Amarillo,Houston,517,109,209
+Amarillo,Las Vegas,758,118,141
+Anchorage,Barrow,725,114,237
+Anchorage,Bethel,399,73,186
+Anchorage,Cold Bay,620,105,354
+Anchorage,Cordova,160,51,174
+Anchorage,Deadhorse,626,101,376
+Anchorage,Denver,2405,319,286
+Anchorage,Dillingham,329,64,274
+Anchorage,Fairbanks,261,61,155
+Anchorage,Honolulu,2777,365,319
+Anchorage,Juneau,571,102,223
+Anchorage,Kahului,2797,362,359
+Anchorage,King Salmon,288,68,275
+Anchorage,Kodiak,253,59,194
+Anchorage,Kona,2874,370,341
+Anchorage,Kotzebue,548,91,242
+Anchorage,Los Angeles,2345,316,239
+Anchorage,Minneapolis,2519,332,313
+Anchorage,Nome,539,94,228
+Anchorage,Phoenix,2552,336,239
+Anchorage,Portland,1542,217,239
+Anchorage,Salt Lake City,2125,287,259
+Anchorage,Seattle,1448,208,230
+Appleton,Atlanta,765,131,225
+Appleton,Charlotte,742,139,192
+Appleton,Chicago,161,69,215
+Appleton,Detroit,296,81,202
+Appleton,Las Vegas,1510,217,149
+Appleton,Minneapolis,236,71,184
+Appleton,Nashville,570,96,100
+Appleton,Phoenix,1452,200,153
+Appleton,Punta Gorda,1250,183,134
+Appleton,Sanford,1141,168,121
+Appleton,St. Petersburg,1173,173,120
+Arcata/Eureka,Los Angeles,577,106,193
+Arcata/Eureka,San Francisco,250,62,221
+Asheville,Atlanta,164,54,200
+Asheville,Baltimore,414,79,93
+Asheville,Boston,783,128,118
+Asheville,Charlotte,91,63,157
+Asheville,Chicago,536,115,157
+Asheville,Dallas/Fort Worth,848,143,195
+Asheville,Fort Lauderdale,660,113,79
+Asheville,Houston,843,133,138
+Asheville,Newark,583,108,120
+Asheville,Philadelphia,504,98,172
+Asheville,Punta Gorda,588,98,60
+Asheville,Sanford,465,86,49
+Asheville,Sarasota/Bradenton,554,97,75
+Asheville,St. Petersburg,519,94,54
+Asheville,Washington,370,93,170
+Asheville,West Palm Beach/Palm Beach,620,108,92
+Ashland,Charlotte,235,82,67
+Ashland,Punta Gorda,790,117,74
+Ashland,Sanford,665,106,57
+Ashland,St. Petersburg,721,111,67
+Aspen,Chicago,1013,176,247
+Aspen,Dallas/Fort Worth,701,140,308
+Aspen,Denver,125,57,244
+Aspen,Houston,913,159,330
+Aspen,Los Angeles,737,127,256
+Aspen,Phoenix,491,111,221
+Aspen,San Francisco,848,146,276
+Atlanta,Augusta,143,52,128
+Atlanta,Austin,813,131,162
+Atlanta,Baltimore,577,105,128
+Atlanta,Baton Rouge,448,87,226
+Atlanta,Birmingham,134,52,215
+Atlanta,Bloomington/Normal,533,101,227
+Atlanta,Boise,1838,255,242
+Atlanta,Boston,946,152,175
+Atlanta,Bozeman,1640,229,310
+Atlanta,Bristol/Johnson City/Kingsport,227,60,192
+Atlanta,Brunswick,238,62,167
+Atlanta,Buffalo,712,122,183
+Atlanta,Charleston,259,68,205
+Atlanta,Charleston/Dunbar,363,80,169
+Atlanta,Charlotte,226,69,148
+Atlanta,Charlotte Amalie,1599,224,223
+Atlanta,Charlottesville,457,90,203
+Atlanta,Chattanooga,106,44,166
+Atlanta,Chicago,600,116,139
+Atlanta,Christiansted,1638,233,166
+Atlanta,Cincinnati,373,83,224
+Atlanta,Cleveland,554,102,130
+Atlanta,Columbia,192,61,205
+Atlanta,Columbus,321,73,150
+Atlanta,Dallas,721,121,132
+Atlanta,Dallas/Fort Worth,731,133,132
+Atlanta,Dayton,432,92,224
+Atlanta,Daytona Beach,366,76,199
+Atlanta,Denver,1199,180,163
+Atlanta,Des Moines,743,126,212
+Atlanta,Detroit,594,112,172
+Atlanta,Dothan,170,55,135
+Atlanta,Eagle,1312,189,355
+Atlanta,El Paso,1282,183,228
+Atlanta,Evansville,350,78,182
+Atlanta,Fayetteville,457,90,240
+Atlanta,Fort Lauderdale,581,108,115
+Atlanta,Fort Myers,515,97,195
+Atlanta,Fort Wayne,508,101,200
+Atlanta,Gainesville,300,69,207
+Atlanta,Grand Rapids,640,114,204
+Atlanta,Green Bay,774,133,293
+Atlanta,Greensboro/High Point,306,75,162
+Atlanta,Greer,153,53,137
+Atlanta,Gulfport/Biloxi,352,76,219
+Atlanta,Harrisburg,620,111,242
+Atlanta,Hartford,859,137,201
+Atlanta,Hilton Head,238,71,161
+Atlanta,Honolulu,4502,548,496
+Atlanta,Houston,692,120,135
+Atlanta,Huntsville,151,53,196
+Atlanta,Indianapolis,432,87,156
+Atlanta,Jackson,1572,225,263
+Atlanta,Jackson/Vicksburg,341,75,249
+Atlanta,Jacksonville,270,65,142
+Atlanta,Jacksonville/Camp Lejeune,399,84,217
+Atlanta,Kansas City,692,121,171
+Atlanta,Key West,646,113,254
+Atlanta,Knoxville,152,52,174
+Atlanta,Lafayette,503,97,220
+Atlanta,Las Vegas,1747,241,164
+Atlanta,Lexington,304,80,210
+Atlanta,Little Rock,453,88,154
+Atlanta,Los Angeles,1947,266,214
+Atlanta,Louisville,321,79,149
+Atlanta,Madison,707,120,225
+Atlanta,Melbourne,442,86,188
+Atlanta,Memphis,332,74,151
+Atlanta,Miami,594,109,139
+Atlanta,Milwaukee,669,116,182
+Atlanta,Minneapolis,907,147,188
+Atlanta,Mobile,302,69,236
+Atlanta,Moline,633,111,228
+Atlanta,Monroe,448,90,258
+Atlanta,Montgomery,147,52,169
+Atlanta,Myrtle Beach,317,71,222
+Atlanta,Nashville,214,60,148
+Atlanta,New Orleans,425,84,118
+Atlanta,New York,761,128,163
+Atlanta,Newark,746,126,160
+Atlanta,Norfolk,516,98,162
+Atlanta,Oklahoma City,761,123,183
+Atlanta,Omaha,821,135,176
+Atlanta,Ontario,1900,258,244
+Atlanta,Orlando,404,84,116
+Atlanta,Palm Springs,1840,250,237
+Atlanta,Panama City,240,63,191
+Atlanta,Pensacola,271,67,180
+Atlanta,Philadelphia,666,118,124
+Atlanta,Phoenix,1587,225,248
+Atlanta,Pittsburgh,526,98,180
+Atlanta,Portland,1859,253,242
+Atlanta,Raleigh/Durham,356,78,133
+Atlanta,Reno,1993,273,213
+Atlanta,Richmond,481,93,152
+Atlanta,Roanoke,357,81,190
+Atlanta,Rochester,749,127,190
+Atlanta,Sacramento,2092,280,239
+Atlanta,Salt Lake City,1590,228,298
+Atlanta,San Antonio,874,140,191
+Atlanta,San Diego,1892,256,234
+Atlanta,San Francisco,2139,286,285
+Atlanta,San Juan,1547,218,153
+Atlanta,Santa Ana,1919,265,274
+Atlanta,Sarasota/Bradenton,444,90,162
+Atlanta,Savannah,214,61,196
+Atlanta,Seattle,2182,297,225
+Atlanta,Shreveport,551,100,259
+Atlanta,South Bend,566,110,224
+Atlanta,Spokane,1969,269,219
+Atlanta,Springfield,563,105,239
+Atlanta,St. Louis,484,93,160
+Atlanta,Syracuse,794,133,208
+Atlanta,Tallahassee,223,64,190
+Atlanta,Tampa,406,84,138
+Atlanta,Trenton,701,123,40
+Atlanta,Tucson,1541,218,235
+Atlanta,Tulsa,674,116,191
+Atlanta,Valdosta,208,62,137
+Atlanta,Valparaiso,250,67,209
+Atlanta,Washington,541,101,168
+Atlanta,West Palm Beach/Palm Beach,545,103,196
+Atlanta,Wichita,782,128,236
+Atlanta,Wilmington,377,80,235
+Atlantic City,Fort Lauderdale,977,154,68
+Atlantic City,Fort Myers,982,157,61
+Atlantic City,Myrtle Beach,466,88,49
+Atlantic City,Orlando,852,138,65
+Atlantic City,Tampa,913,146,56
+Atlantic City,West Palm Beach/Palm Beach,936,146,74
+Augusta,Charlotte,140,64,104
+Augusta,Dallas/Fort Worth,874,152,196
+Austin,Baltimore,1342,196,173
+Austin,Boston,1698,245,187
+Austin,Charlotte,1032,167,203
+Austin,Chicago,975,160,162
+Austin,Cincinnati,958,148,142
+Austin,Dallas,189,53,158
+Austin,Dallas/Fort Worth,190,70,153
+Austin,Denver,775,127,144
+Austin,Detroit,1149,181,201
+Austin,El Paso,528,89,166
+Austin,Fort Lauderdale,1105,166,116
+Austin,Harlingen/San Benito,273,66,140
+Austin,Houston,143,55,168
+Austin,Indianapolis,919,157,152
+Austin,Kansas City,650,112,165
+Austin,Knoxville,882,147,174
+Austin,Las Vegas,1090,162,130
+Austin,Long Beach,1226,175,110
+Austin,Los Angeles,1242,183,133
+Austin,Memphis,559,103,116
+Austin,Miami,1103,172,154
+Austin,Minneapolis,1042,162,195
+Austin,Nashville,756,124,163
+Austin,New Orleans,444,82,133
+Austin,New York,1521,227,226
+Austin,Newark,1504,222,151
+Austin,Oakland,1497,212,163
+Austin,Orlando,994,155,118
+Austin,Phoenix,872,139,190
+Austin,Raleigh/Durham,1162,166,160
+Austin,Sacramento,1481,207,180
+Austin,Salt Lake City,1086,168,222
+Austin,San Diego,1164,175,160
+Austin,San Francisco,1504,218,197
+Austin,San Jose,1476,217,165
+Austin,Seattle,1770,252,183
+Austin,St. Louis,721,122,153
+Austin,Tampa,928,144,177
+Austin,Washington,1298,201,206
+Bakersfield,Dallas/Fort Worth,1271,202,218
+Bakersfield,Denver,845,143,241
+Bakersfield,Phoenix,425,100,133
+Bakersfield,San Francisco,238,61,206
+Baltimore,Birmingham,682,112,158
+Baltimore,Boston,369,80,120
+Baltimore,Buffalo,281,68,122
+Baltimore,Charleston,472,89,148
+Baltimore,Charlotte,361,86,111
+Baltimore,Chicago,615,114,124
+Baltimore,Cincinnati,430,89,130
+Baltimore,Cleveland,314,72,129
+Baltimore,Columbus,337,74,153
+Baltimore,Dallas,1209,177,155
+Baltimore,Dallas/Fort Worth,1217,191,143
+Baltimore,Denver,1491,214,145
+Baltimore,Detroit,409,89,134
+Baltimore,Fort Lauderdale,925,146,131
+Baltimore,Fort Myers,919,146,190
+Baltimore,Grand Rapids,528,98,136
+Baltimore,Greer,426,82,119
+Baltimore,Hartford,283,66,140
+Baltimore,Houston,1242,185,143
+Baltimore,Indianapolis,516,97,160
+Baltimore,Islip,220,65,132
+Baltimore,Jacksonville,663,110,174
+Baltimore,Kansas City,967,150,171
+Baltimore,Las Vegas,2106,285,156
+Baltimore,Los Angeles,2329,311,139
+Baltimore,Louisville,495,95,133
+Baltimore,Manchester,377,81,125
+Baltimore,Miami,946,151,137
+Baltimore,Milwaukee,641,110,155
+Baltimore,Minneapolis,936,149,160
+Baltimore,Myrtle Beach,399,78,78
+Baltimore,Nashville,587,103,150
+Baltimore,New Orleans,998,149,140
+Baltimore,Norfolk,159,51,134
+Baltimore,Oakland,2447,329,186
+Baltimore,Orlando,787,129,118
+Baltimore,Phoenix,1999,272,199
+Baltimore,Pittsburgh,210,60,108
+Baltimore,Portland,452,88,171
+Baltimore,Providence,327,71,140
+Baltimore,Raleigh/Durham,255,61,134
+Baltimore,Rochester,277,70,128
+Baltimore,Salt Lake City,1865,263,210
+Baltimore,San Antonio,1407,202,201
+Baltimore,San Diego,2295,305,192
+Baltimore,San Juan,1565,239,139
+Baltimore,Sarasota/Bradenton,880,140,146
+Baltimore,Savannah,549,105,121
+Baltimore,Seattle,2335,320,195
+Baltimore,St. Louis,738,122,164
+Baltimore,Tampa,842,136,143
+Baltimore,West Palm Beach/Palm Beach,883,140,207
+Bangor,Charlotte,921,156,177
+Bangor,Philadelphia,473,107,164
+Bangor,Sanford,1299,189,104
+Bangor,St. Petersburg,1394,201,101
+Bangor,Washington,597,115,152
+Baton Rouge,Charlotte,675,129,215
+Baton Rouge,Dallas/Fort Worth,383,93,166
+Baton Rouge,Houston,253,69,237
+Beaumont/Port Arthur,Dallas/Fort Worth,270,81,148
+Belleville,Fort Lauderdale,1028,160,78
+Belleville,Phoenix,1272,183,66
+Belleville,Punta Gorda,921,143,86
+Belleville,Sanford,835,132,75
+Belleville,Sarasota/Bradenton,876,136,74
+Belleville,St. Petersburg,841,131,78
+Belleville,Valparaiso,587,102,78
+Bellingham,Las Vegas,954,149,73
+Bellingham,Los Angeles,1047,162,128
+Bellingham,Oakland,764,123,84
+Bellingham,Palm Springs,1078,166,95
+Bellingham,Phoenix,1208,178,113
+Bellingham,Seattle,93,40,121
+Bemidji,Minneapolis,199,60,246
+Bend/Redmond,Denver,898,155,200
+Bend/Redmond,Los Angeles,726,126,166
+Bend/Redmond,Phoenix,895,154,142
+Bend/Redmond,Portland,116,45,174
+Bend/Redmond,Salt Lake City,525,101,165
+Bend/Redmond,San Diego,823,135,145
+Bend/Redmond,San Francisco,462,93,177
+Bend/Redmond,Seattle,228,66,105
+Billings,Dallas/Fort Worth,1081,177,207
+Billings,Denver,455,92,197
+Billings,Las Vegas,754,123,136
+Billings,Minneapolis,748,130,213
+Billings,Phoenix,874,142,136
+Billings,Portland,679,117,153
+Billings,Salt Lake City,387,83,235
+Billings,Seattle,664,134,153
+Binghamton,Detroit,378,87,137
+Birmingham,Charlotte,350,95,189
+Birmingham,Chicago,578,113,142
+Birmingham,Dallas,587,98,125
+Birmingham,Dallas/Fort Worth,597,120,157
+Birmingham,Denver,1083,173,197
+Birmingham,Houston,562,107,175
+Birmingham,Las Vegas,1618,220,208
+Birmingham,Miami,661,120,192
+Birmingham,Orlando,479,88,164
+Birmingham,Tampa,459,81,176
+Bismarck/Mandan,Dallas/Fort Worth,977,171,217
+Bismarck/Mandan,Denver,516,108,253
+Bismarck/Mandan,Las Vegas,1048,165,118
+Bismarck/Mandan,Minneapolis,386,85,226
+Bismarck/Mandan,Phoenix,1093,173,135
+Bismarck/Mandan,Sanford,1628,228,112
+Bloomington/Normal,Chicago,116,54,212
+Bloomington/Normal,Dallas/Fort Worth,690,139,177
+Bloomington/Normal,Denver,834,136,190
+Bloomington/Normal,Detroit,313,82,298
+Bloomington/Normal,Orlando,936,157,98
+Bloomington/Normal,Sanford,917,147,73
+Bloomington/Normal,St. Petersburg,936,147,97
+Boise,Chicago,1437,221,200
+Boise,Dallas/Fort Worth,1272,197,207
+Boise,Denver,649,114,167
+Boise,Houston,1482,220,220
+Boise,Las Vegas,519,99,132
+Boise,Los Angeles,674,124,109
+Boise,Minneapolis,1142,177,196
+Boise,Oakland,512,92,127
+Boise,Palm Springs,672,126,114
+Boise,Phoenix,736,129,134
+Boise,Portland,344,80,149
+Boise,Sacramento,437,90,117
+Boise,Salt Lake City,290,71,208
+Boise,San Diego,749,131,139
+Boise,San Francisco,522,100,131
+Boise,San Jose,523,101,143
+Boise,Seattle,399,89,104
+Boise,Spokane,287,72,135
+Boston,Bozeman,1991,270,203
+Boston,Buffalo,395,79,137
+Boston,Charleston,818,134,187
+Boston,Charlotte,728,134,165
+Boston,Charlotte Amalie,1693,242,234
+Boston,Chicago,866,149,119
+Boston,Cincinnati,752,131,196
+Boston,Cleveland,563,109,156
+Boston,Dallas/Fort Worth,1562,236,200
+Boston,Denver,1754,245,207
+Boston,Detroit,632,117,182
+Boston,Fort Lauderdale,1237,191,142
+Boston,Fort Myers,1249,194,167
+Boston,Hayden,1871,268,190
+Boston,Honolulu,5095,630,402
+Boston,Houston,1597,233,213
+Boston,Jacksonville,1010,160,136
+Boston,Key West,1373,217,189
+Boston,Las Vegas,2381,320,197
+Boston,Los Angeles,2611,347,263
+Boston,Miami,1258,197,143
+Boston,Minneapolis,1124,173,212
+Boston,Montrose/Delta,1947,270,210
+Boston,Myrtle Beach,738,121,106
+Boston,Nashville,942,151,167
+Boston,New Orleans,1368,201,150
+Boston,New York,186,64,139
+Boston,Newark,200,68,128
+Boston,Orlando,1121,177,117
+Boston,Palm Springs,2517,330,224
+Boston,Philadelphia,280,82,172
+Boston,Phoenix,2300,312,230
+Boston,Pittsburgh,496,100,154
+Boston,Raleigh/Durham,612,117,154
+Boston,Richmond,474,97,125
+Boston,Rochester,343,75,140
+Boston,Salt Lake City,2105,293,252
+Boston,San Diego,2588,341,209
+Boston,San Francisco,2704,359,280
+Boston,San Juan,1674,241,157
+Boston,Sarasota/Bradenton,1220,190,149
+Boston,Savannah,901,147,183
+Boston,Seattle,2496,340,225
+Boston,St. Louis,1047,153,200
+Boston,Tampa,1185,183,135
+Boston,Valparaiso,1187,178,166
+Boston,Washington,402,88,129
+Boston,West Palm Beach/Palm Beach,1197,186,191
+Bozeman,Charlotte,1736,260,213
+Bozeman,Chicago,1186,190,236
+Bozeman,Dallas/Fort Worth,1163,187,246
+Bozeman,Denver,524,103,170
+Bozeman,Fort Lauderdale,2183,296,213
+Bozeman,Houston,1385,207,278
+Bozeman,Las Vegas,701,120,120
+Bozeman,Los Angeles,902,153,177
+Bozeman,Minneapolis,874,140,217
+Bozeman,Nashville,1435,207,139
+Bozeman,New York,1902,262,180
+Bozeman,Newark,1882,267,341
+Bozeman,Pasco/Kennewick/Richland,385,81,144
+Bozeman,Phoenix,861,137,144
+Bozeman,Portland,554,98,119
+Bozeman,Salt Lake City,347,79,160
+Bozeman,San Francisco,807,141,223
+Bozeman,Seattle,543,106,140
+Brainerd,Minneapolis,114,48,100
+Bristol/Johnson City/Kingsport,Charlotte,119,69,162
+Bristol/Johnson City/Kingsport,Dallas/Fort Worth,868,150,178
+Bristol/Johnson City/Kingsport,Sanford,535,91,46
+Brownsville,Dallas/Fort Worth,482,103,147
+Brownsville,Houston,308,79,157
+Buffalo,Charlotte,546,112,163
+Buffalo,Chicago,471,102,137
+Buffalo,Dallas/Fort Worth,1212,200,240
+Buffalo,Denver,1359,193,165
+Buffalo,Detroit,241,70,173
+Buffalo,Fort Lauderdale,1166,176,181
+Buffalo,Fort Myers,1144,176,164
+Buffalo,Las Vegas,1986,265,191
+Buffalo,Los Angeles,2218,301,194
+Buffalo,New York,301,81,167
+Buffalo,Newark,282,80,154
+Buffalo,Orlando,1011,154,141
+Buffalo,Philadelphia,279,79,181
+Buffalo,Phoenix,1912,268,206
+Buffalo,Tampa,1053,159,167
+Buffalo,Washington,283,77,140
+Burbank,Chicago,1740,241,183
+Burbank,Dallas,1243,187,171
+Burbank,Dallas/Fort Worth,1231,194,220
+Burbank,Denver,850,137,137
+Burbank,Houston,1389,196,143
+Burbank,Las Vegas,223,59,117
+Burbank,Nashville,1791,248,158
+Burbank,Oakland,325,67,130
+Burbank,Phoenix,369,89,120
+Burbank,Portland,817,134,164
+Burbank,Sacramento,358,71,131
+Burbank,Salt Lake City,574,112,181
+Burbank,San Francisco,326,68,108
+Burbank,San Jose,296,61,125
+Burbank,Seattle,937,152,152
+Burlington,Charlotte,761,144,178
+Burlington,Chicago,763,143,265
+Burlington,Detroit,537,109,239
+Burlington,New York,266,70,150
+Burlington,Newark,266,76,154
+Burlington,Orlando,1194,193,141
+Burlington,Philadelphia,335,89,145
+Burlington,Washington,441,100,202
+Butte,Salt Lake City,358,79,140
+Cape Girardeau,Chicago,339,89,0
+Casper,Denver,230,69,226
+Casper,Salt Lake City,320,78,130
+Cedar City,Salt Lake City,221,61,92
+Cedar Rapids/Iowa City,Charlotte,742,145,215
+Cedar Rapids/Iowa City,Chicago,196,70,208
+Cedar Rapids/Iowa City,Dallas/Fort Worth,685,133,215
+Cedar Rapids/Iowa City,Denver,692,129,142
+Cedar Rapids/Iowa City,Detroit,430,95,268
+Cedar Rapids/Iowa City,Las Vegas,1319,191,121
+Cedar Rapids/Iowa City,Minneapolis,220,70,205
+Cedar Rapids/Iowa City,Nashville,481,96,83
+Cedar Rapids/Iowa City,Phoenix,1250,191,166
+Cedar Rapids/Iowa City,Punta Gorda,1170,178,129
+Cedar Rapids/Iowa City,Sanford,1078,170,111
+Cedar Rapids/Iowa City,St. Petersburg,1090,161,112
+Champaign/Urbana,Charlotte,522,118,141
+Champaign/Urbana,Chicago,135,62,215
+Champaign/Urbana,Dallas/Fort Worth,692,136,179
+Charleston,Charlotte,168,67,203
+Charleston,Chicago,754,133,163
+Charleston,Cincinnati,497,88,116
+Charleston,Columbus,503,100,128
+Charleston,Dallas,977,149,148
+Charleston,Dallas/Fort Worth,987,170,201
+Charleston,Denver,1449,221,179
+Charleston,Detroit,667,125,203
+Charleston,Fort Lauderdale,470,93,145
+Charleston,Houston,926,150,176
+Charleston,Los Angeles,2206,304,168
+Charleston,Miami,489,99,175
+Charleston,Nashville,439,83,134
+Charleston,New York,636,117,177
+Charleston,Newark,628,117,161
+Charleston,Philadelphia,550,107,171
+Charleston,Pittsburgh,524,108,133
+Charleston,Punta Gorda,428,81,38
+Charleston,Seattle,2415,326,194
+Charleston,Washington,442,98,144
+Charleston/Dunbar,Charlotte,221,79,171
+Charleston/Dunbar,Chicago,416,100,291
+Charlotte,Charlotte Amalie,1520,221,184
+Charlotte,Charlottesville,245,79,128
+Charlotte,Chattanooga,241,84,172
+Charlotte,Chicago,597,116,155
+Charlotte,Christiansted,1562,228,202
+Charlotte,Cincinnati,335,95,170
+Charlotte,Cleveland,430,102,145
+Charlotte,Columbia,88,62,173
+Charlotte,Columbus,347,88,172
+Charlotte,Dallas,926,149,145
+Charlotte,Dallas/Fort Worth,936,158,204
+Charlotte,Dayton,370,97,172
+Charlotte,Daytona Beach,416,96,200
+Charlotte,Denver,1337,204,125
+Charlotte,Des Moines,815,154,202
+Charlotte,Detroit,500,107,143
+Charlotte,Erie,476,102,152
+Charlotte,Evansville,414,111,168
+Charlotte,Fayetteville,311,86,213
+Charlotte,Flint,555,122,140
+Charlotte,Florence,99,66,315
+Charlotte,Fort Lauderdale,632,119,131
+Charlotte,Fort Myers,600,115,167
+Charlotte,Fort Wayne,460,104,193
+Charlotte,Gainesville,388,91,156
+Charlotte,Grand Rapids,583,116,185
+Charlotte,Greensboro/High Point,83,60,138
+Charlotte,Greenville,203,81,139
+Charlotte,Greer,75,58,136
+Charlotte,Gulfport/Biloxi,577,116,165
+Charlotte,Harrisburg,413,103,175
+Charlotte,Hartford,644,121,181
+Charlotte,Hilton Head,207,74,139
+Charlotte,Houston,912,154,186
+Charlotte,Huntsville,333,93,169
+Charlotte,Indianapolis,427,103,183
+Charlotte,Ithaca/Cortland,557,138,167
+Charlotte,Jackson,1685,260,201
+Charlotte,Jackson/Vicksburg,562,121,177
+Charlotte,Jacksonville,328,86,169
+Charlotte,Jacksonville/Camp Lejeune,191,70,168
+Charlotte,Kansas City,808,146,208
+Charlotte,Key West,736,132,241
+Charlotte,Knoxville,177,73,191
+Charlotte,Las Vegas,1916,267,212
+Charlotte,Lexington,281,88,182
+Charlotte,Little Rock,640,131,183
+Charlotte,Los Angeles,2125,291,234
+Charlotte,Louisville,335,92,177
+Charlotte,Lynchburg,175,72,100
+Charlotte,Madison,708,140,189
+Charlotte,Manchester,737,141,160
+Charlotte,Melbourne,490,107,183
+Charlotte,Memphis,511,107,162
+Charlotte,Miami,650,118,161
+Charlotte,Milwaukee,651,131,191
+Charlotte,Minneapolis,930,155,198
+Charlotte,Mobile,526,113,157
+Charlotte,Montgomery,372,95,173
+Charlotte,Montrose/Delta,1505,228,209
+Charlotte,Myrtle Beach,157,67,182
+Charlotte,Nashville,328,87,141
+Charlotte,New Bern/Morehead/Beaufort,221,72,206
+Charlotte,New Orleans,651,120,148
+Charlotte,New York,543,108,148
+Charlotte,Newark,529,108,133
+Charlotte,Newport News/Williamsburg,282,84,101
+Charlotte,Norfolk,290,78,135
+Charlotte,Oklahoma City,940,164,193
+Charlotte,Omaha,913,167,207
+Charlotte,Orlando,468,98,118
+Charlotte,Panama City,437,99,138
+Charlotte,Pensacola,488,109,138
+Charlotte,Peoria,607,125,163
+Charlotte,Philadelphia,449,96,146
+Charlotte,Phoenix,1773,250,231
+Charlotte,Pittsburgh,366,91,153
+Charlotte,Portland,1308,196,221
+Charlotte,Providence,683,124,171
+Charlotte,Raleigh/Durham,130,62,159
+Charlotte,Richmond,257,79,144
+Charlotte,Roanoke,155,76,143
+Charlotte,Rochester,573,120,169
+Charlotte,Sacramento,2244,303,241
+Charlotte,Salisbury,371,95,160
+Charlotte,Salt Lake City,1727,252,238
+Charlotte,San Antonio,1095,173,205
+Charlotte,San Diego,2077,289,250
+Charlotte,San Francisco,2296,313,261
+Charlotte,San Juan,1475,225,161
+Charlotte,Sarasota/Bradenton,547,111,176
+Charlotte,Savannah,213,72,127
+Charlotte,Scranton/Wilkes-Barre,509,112,173
+Charlotte,Seattle,2279,313,236
+Charlotte,Shreveport,764,146,218
+Charlotte,Sioux Falls,1021,181,179
+Charlotte,South Bend,534,110,181
+Charlotte,Springfield,708,140,192
+Charlotte,St. Louis,575,116,142
+Charlotte,Syracuse,603,125,175
+Charlotte,Tallahassee,386,90,127
+Charlotte,Tampa,507,100,157
+Charlotte,Toledo,466,108,147
+Charlotte,Tulsa,842,149,186
+Charlotte,Valparaiso,460,108,158
+Charlotte,Washington,327,85,130
+Charlotte,West Palm Beach/Palm Beach,590,111,290
+Charlotte,White Plains,564,111,182
+Charlotte,Wilmington,185,67,224
+Charlotte Amalie,Chicago,2115,295,271
+Charlotte Amalie,Dallas/Fort Worth,2225,307,204
+Charlotte Amalie,Fort Lauderdale,1107,165,78
+Charlotte Amalie,Houston,2070,282,242
+Charlotte Amalie,Miami,1107,165,170
+Charlotte Amalie,Minneapolis,2449,331,252
+Charlotte Amalie,New York,1623,236,213
+Charlotte Amalie,Newark,1634,242,220
+Charlotte Amalie,Orlando,1246,180,116
+Charlotte Amalie,Philadelphia,1605,236,201
+Charlotte Amalie,San Juan,68,34,134
+Charlotte Amalie,Washington,1606,235,317
+Charlottesville,Washington,77,44,114
+Chattanooga,Chicago,500,106,284
+Chattanooga,Dallas/Fort Worth,695,129,205
+Chattanooga,Houston,686,123,181
+Chattanooga,Sanford,490,90,48
+Chattanooga,St. Petersburg,513,91,48
+Cheyenne,Denver,90,39,2
+Chicago,Cincinnati,261,77,126
+Chicago,Clarksburg/Fairmont,444,102,62
+Chicago,Cleveland,312,78,127
+Chicago,Colorado Springs,911,157,147
+Chicago,Columbia,493,109,188
+Chicago,Columbus,292,77,144
+Chicago,Dallas,793,128,133
+Chicago,Dallas/Fort Worth,801,144,150
+Chicago,Dayton,240,76,164
+Chicago,Decatur,156,61,0
+Chicago,Denver,891,145,136
+Chicago,Des Moines,299,85,140
+Chicago,Detroit,234,79,154
+Chicago,Dubuque,147,64,199
+Chicago,Duluth,397,102,234
+Chicago,Eagle,1007,165,242
+Chicago,Eau Claire,269,77,1
+Chicago,El Paso,1236,195,195
+Chicago,Erie,398,96,245
+Chicago,Evansville,272,84,190
+Chicago,Fargo,557,121,283
+Chicago,Fayetteville,522,112,242
+Chicago,Flint,223,75,154
+Chicago,Fort Lauderdale,1177,184,140
+Chicago,Fort Myers,1113,173,207
+Chicago,Fort Wayne,157,68,139
+Chicago,Grand Rapids,137,61,128
+Chicago,Green Bay,174,67,191
+Chicago,Greensboro/High Point,589,117,228
+Chicago,Greer,577,115,161
+Chicago,Hancock/Houghton,360,91,14
+Chicago,Harrisburg,594,114,220
+Chicago,Hartford,781,140,188
+Chicago,Hayden,1009,174,163
+Chicago,Honolulu,4243,527,391
+Chicago,Houston,929,154,145
+Chicago,Huntsville,510,106,195
+Chicago,Indianapolis,177,69,139
+Chicago,Jackson,1162,187,249
+Chicago,Jacksonville,863,152,195
+Chicago,Johnstown,487,105,0
+Chicago,Kahului,4184,519,425
+Chicago,Kalamazoo,122,65,140
+Chicago,Kalispell,1352,224,242
+Chicago,Kansas City,404,91,140
+Chicago,Kearney,583,121,62
+Chicago,Key West,1251,196,274
+Chicago,Knoxville,475,104,150
+Chicago,La Crosse,215,76,169
+Chicago,Lansing,179,74,166
+Chicago,Las Vegas,1517,217,158
+Chicago,Lewisburg,489,104,70
+Chicago,Lexington,323,86,165
+Chicago,Lincoln,466,106,211
+Chicago,Little Rock,552,110,171
+Chicago,Los Angeles,1746,245,174
+Chicago,Louisville,282,79,126
+Chicago,Madison,109,58,155
+Chicago,Manchester,842,148,180
+Chicago,Marquette,303,88,184
+Chicago,Memphis,487,104,127
+Chicago,Miami,1195,185,169
+Chicago,Milwaukee,67,56,122
+Chicago,Minneapolis,338,89,142
+Chicago,Moline,139,63,181
+Chicago,Montrose/Delta,1081,182,179
+Chicago,Mosinee,213,78,211
+Chicago,Muskegon,119,59,0
+Chicago,Nashville,404,93,121
+Chicago,New Orleans,832,141,123
+Chicago,New York,732,133,148
+Chicago,Newark,719,132,167
+Chicago,Norfolk,714,134,147
+Chicago,Oakland,1844,257,148
+Chicago,Ogdensburg,654,129,14
+Chicago,Oklahoma City,692,127,153
+Chicago,Omaha,418,96,132
+Chicago,Ontario,1706,241,209
+Chicago,Orlando,999,161,149
+Chicago,Paducah,342,87,33
+Chicago,Palm Springs,1652,246,257
+Chicago,Panama City,809,150,179
+Chicago,Pensacola,794,155,185
+Chicago,Peoria,130,65,311
+Chicago,Philadelphia,676,124,166
+Chicago,Phoenix,1442,208,197
+Chicago,Pittsburgh,411,92,131
+Chicago,Portland,1693,245,198
+Chicago,Providence,847,149,176
+Chicago,Punta Gorda,1076,162,75
+Chicago,Raleigh/Durham,641,120,150
+Chicago,Rapid City,780,141,302
+Chicago,Richmond,642,127,155
+Chicago,Roanoke,530,113,238
+Chicago,Rochester,371,92,142
+Chicago,Sacramento,1786,251,211
+Chicago,Saginaw/Bay City/Midland,222,72,272
+Chicago,Salina,559,117,24
+Chicago,Salt Lake City,1251,201,227
+Chicago,San Antonio,1041,171,194
+Chicago,San Diego,1725,243,170
+Chicago,San Francisco,1847,259,199
+Chicago,San Jose,1838,256,205
+Chicago,San Juan,2072,290,177
+Chicago,Santa Ana,1726,244,231
+Chicago,Sarasota/Bradenton,1050,176,203
+Chicago,Savannah,773,141,150
+Chicago,Scranton/Wilkes-Barre,632,127,221
+Chicago,Seattle,1723,253,142
+Chicago,Sioux City,436,98,155
+Chicago,Sioux Falls,463,104,239
+Chicago,South Bend,84,55,103
+Chicago,Springfield,366,93,208
+Chicago,St. Louis,255,72,143
+Chicago,State College,528,111,240
+Chicago,Staunton,541,111,7
+Chicago,Sun Valley/Hailey/Ketchum,1341,218,333
+Chicago,Syracuse,607,130,193
+Chicago,Tampa,1005,158,154
+Chicago,Toledo,213,72,125
+Chicago,Traverse City,224,76,218
+Chicago,Tucson,1437,218,220
+Chicago,Tulsa,585,116,159
+Chicago,Valparaiso,783,137,152
+Chicago,Washington,602,114,156
+Chicago,Waterloo,234,70,218
+Chicago,Watertown,507,106,68
+Chicago,West Palm Beach/Palm Beach,1143,183,222
+Chicago,Wichita,588,119,162
+Christiansted,Fort Lauderdale,1140,166,79
+Christiansted,Miami,1139,171,144
+Cincinnati,Dallas/Fort Worth,812,148,192
+Cincinnati,Denver,1069,169,129
+Cincinnati,Detroit,229,68,285
+Cincinnati,Fort Lauderdale,932,153,147
+Cincinnati,Fort Myers,879,143,180
+Cincinnati,Houston,875,148,178
+Cincinnati,Jacksonville,613,105,127
+Cincinnati,Las Vegas,1678,235,123
+Cincinnati,Los Angeles,1900,260,209
+Cincinnati,Miami,948,161,123
+Cincinnati,Minneapolis,596,111,243
+Cincinnati,New Orleans,701,120,123
+Cincinnati,New York,585,112,194
+Cincinnati,Newark,569,116,160
+Cincinnati,Orlando,757,128,137
+Cincinnati,Philadelphia,507,105,197
+Cincinnati,Phoenix,1564,225,138
+Cincinnati,Punta Gorda,850,135,94
+Cincinnati,Salt Lake City,1450,212,250
+Cincinnati,Sanford,735,125,73
+Cincinnati,Sarasota/Bradenton,812,131,106
+Cincinnati,Savannah,515,94,98
+Cincinnati,St. Petersburg,776,124,90
+Cincinnati,Tampa,773,129,150
+Cincinnati,Valparaiso,600,108,111
+Cincinnati,Washington,394,89,132
+Cincinnati,West Palm Beach/Palm Beach,892,140,141
+Clarksburg/Fairmont,Sanford,727,113,60
+Clarksburg/Fairmont,Washington,151,58,20
+Cleveland,Dallas,1015,149,187
+Cleveland,Dallas/Fort Worth,1021,174,221
+Cleveland,Denver,1201,182,157
+Cleveland,Detroit,95,50,261
+Cleveland,Fort Lauderdale,1062,165,116
+Cleveland,Fort Myers,1025,162,142
+Cleveland,Houston,1091,172,223
+Cleveland,Las Vegas,1824,252,135
+Cleveland,Los Angeles,2052,277,162
+Cleveland,Miami,1080,170,121
+Cleveland,Minneapolis,622,113,221
+Cleveland,Nashville,448,87,129
+Cleveland,New York,419,85,178
+Cleveland,Newark,404,87,141
+Cleveland,Orlando,895,144,113
+Cleveland,Philadelphia,363,88,175
+Cleveland,Phoenix,1737,243,182
+Cleveland,Punta Gorda,999,150,79
+Cleveland,Sarasota/Bradenton,967,153,124
+Cleveland,Savannah,641,112,105
+Cleveland,St. Louis,487,81,131
+Cleveland,Tampa,927,150,119
+Cleveland,Washington,295,74,142
+Cody,Denver,391,87,181
+College Station/Bryan,Dallas/Fort Worth,164,66,113
+College Station/Bryan,Houston,74,47,82
+Colorado Springs,Dallas/Fort Worth,592,119,155
+Colorado Springs,Denver,73,48,84
+Colorado Springs,Houston,809,143,206
+Colorado Springs,Las Vegas,604,112,94
+Colorado Springs,Phoenix,551,104,101
+Colorado Springs,Salt Lake City,411,100,166
+Columbia,Dallas/Fort Worth,722,136,210
+Columbia,Washington,401,93,200
+Columbus,Dallas,919,143,146
+Columbus,Dallas/Fort Worth,926,161,184
+Columbus,Denver,1154,179,158
+Columbus,Detroit,155,58,212
+Columbus,Fort Lauderdale,971,152,130
+Columbus,Fort Myers,930,149,170
+Columbus,Houston,986,162,203
+Columbus,Las Vegas,1771,243,179
+Columbus,Miami,990,165,145
+Columbus,Minneapolis,626,114,200
+Columbus,Nashville,337,75,126
+Columbus,New York,479,95,184
+Columbus,Newark,463,102,152
+Columbus,Orlando,802,128,135
+Columbus,Philadelphia,406,92,173
+Columbus,Phoenix,1670,237,217
+Columbus,Punta Gorda,890,137,88
+Columbus,Sanford,767,130,67
+Columbus,Sarasota/Bradenton,856,137,147
+Columbus,Savannah,539,93,121
+Columbus,Seattle,2016,280,199
+Columbus,St. Louis,409,74,144
+Columbus,St. Petersburg,821,136,84
+Columbus,Tampa,829,131,165
+Columbus,Valparaiso,675,111,134
+Columbus,Washington,308,76,144
+Concord,Fort Lauderdale,643,118,65
+Concord,Punta Gorda,588,104,58
+Concord,Sanford,457,86,47
+Concord,St. Petersburg,528,96,60
+Cordova,Yakutat,213,54,261
+Corpus Christi,Dallas/Fort Worth,354,89,209
+Corpus Christi,Houston,195,58,141
+Dallas,Denver,651,112,137
+Dallas,Detroit,981,147,107
+Dallas,El Paso,562,96,163
+Dallas,Fort Lauderdale,1108,167,145
+Dallas,Fort Myers,1005,158,145
+Dallas,Hayden,779,134,165
+Dallas,Houston,239,59,165
+Dallas,Indianapolis,755,120,171
+Dallas,Kansas City,461,86,151
+Dallas,Las Vegas,1067,158,159
+Dallas,Little Rock,296,62,131
+Dallas,Los Angeles,1246,183,124
+Dallas,Louisville,725,116,141
+Dallas,Lubbock,293,65,146
+Dallas,Memphis,423,79,125
+Dallas,Midland/Odessa,319,67,148
+Dallas,Milwaukee,850,137,167
+Dallas,Montrose/Delta,733,123,142
+Dallas,Nashville,623,103,161
+Dallas,New Orleans,436,79,135
+Dallas,New York,1381,199,103
+Dallas,Oakland,1468,210,166
+Dallas,Omaha,586,98,147
+Dallas,Ontario,1200,175,166
+Dallas,Orlando,973,151,153
+Dallas,Panama City,674,109,167
+Dallas,Pensacola,592,98,156
+Dallas,Philadelphia,1295,190,188
+Dallas,Phoenix,879,139,156
+Dallas,Pittsburgh,1060,154,157
+Dallas,Raleigh/Durham,1052,158,183
+Dallas,Reno,1356,197,166
+Dallas,Sacramento,1442,205,179
+Dallas,Salt Lake City,999,158,167
+Dallas,San Antonio,247,58,149
+Dallas,San Diego,1182,173,192
+Dallas,San Francisco,1476,216,168
+Dallas,San Jose,1450,206,175
+Dallas,Santa Ana,1216,177,176
+Dallas,Seattle,1670,240,159
+Dallas,St. Louis,546,96,166
+Dallas,Tampa,917,143,141
+Dallas,Tulsa,238,58,121
+Dallas,Washington,1184,173,181
+Dallas/Fort Worth,Dayton,861,152,199
+Dallas/Fort Worth,Daytona Beach,981,163,182
+Dallas/Fort Worth,Del Rio,335,84,151
+Dallas/Fort Worth,Denver,641,119,135
+Dallas/Fort Worth,Des Moines,624,125,164
+Dallas/Fort Worth,Detroit,986,164,141
+Dallas/Fort Worth,Durango,674,131,261
+Dallas/Fort Worth,Eagle,721,135,347
+Dallas/Fort Worth,El Paso,551,107,180
+Dallas/Fort Worth,Evansville,642,127,201
+Dallas/Fort Worth,Fargo,968,170,226
+Dallas/Fort Worth,Fayetteville,280,80,199
+Dallas/Fort Worth,Flagstaff,853,154,178
+Dallas/Fort Worth,Fort Lauderdale,1119,177,135
+Dallas/Fort Worth,Fort Myers,1017,168,252
+Dallas/Fort Worth,Fort Smith,227,73,122
+Dallas/Fort Worth,Fort Wayne,859,153,214
+Dallas/Fort Worth,Fresno,1313,201,250
+Dallas/Fort Worth,Gainesville,900,157,176
+Dallas/Fort Worth,Garden City,404,90,203
+Dallas/Fort Worth,Grand Island,561,116,152
+Dallas/Fort Worth,Grand Junction,773,139,212
+Dallas/Fort Worth,Grand Rapids,931,164,214
+Dallas/Fort Worth,Greensboro/High Point,999,171,197
+Dallas/Fort Worth,Greer,862,153,208
+Dallas/Fort Worth,Gulfport/Biloxi,500,107,188
+Dallas/Fort Worth,Gunnison,678,130,215
+Dallas/Fort Worth,Harlingen/San Benito,461,96,138
+Dallas/Fort Worth,Harrisburg,1231,200,266
+Dallas/Fort Worth,Hartford,1471,221,245
+Dallas/Fort Worth,Hayden,769,140,199
+Dallas/Fort Worth,Honolulu,3784,464,422
+Dallas/Fort Worth,Houston,232,79,146
+Dallas/Fort Worth,Huntsville,603,122,170
+Dallas/Fort Worth,Indianapolis,761,138,196
+Dallas/Fort Worth,Jackson,1047,175,276
+Dallas/Fort Worth,Jackson/Vicksburg,408,92,188
+Dallas/Fort Worth,Jacksonville,918,154,211
+Dallas/Fort Worth,Joplin,327,88,120
+Dallas/Fort Worth,Kahului,3711,455,546
+Dallas/Fort Worth,Kansas City,460,103,150
+Dallas/Fort Worth,Key West,1089,173,259
+Dallas/Fort Worth,Killeen,134,65,223
+Dallas/Fort Worth,Knoxville,771,136,210
+Dallas/Fort Worth,Kona,3724,460,503
+Dallas/Fort Worth,Lafayette,351,90,196
+Dallas/Fort Worth,Lake Charles,295,80,171
+Dallas/Fort Worth,Laredo,396,89,178
+Dallas/Fort Worth,Las Vegas,1055,165,147
+Dallas/Fort Worth,Lawton/Fort Sill,140,63,185
+Dallas/Fort Worth,Lexington,785,142,204
+Dallas/Fort Worth,Little Rock,304,82,140
+Dallas/Fort Worth,Longview,140,62,182
+Dallas/Fort Worth,Los Angeles,1235,185,149
+Dallas/Fort Worth,Louisville,733,136,191
+Dallas/Fort Worth,Lubbock,282,79,150
+Dallas/Fort Worth,Madison,821,146,188
+Dallas/Fort Worth,Manhattan/Ft. Riley,431,99,155
+Dallas/Fort Worth,Memphis,431,103,139
+Dallas/Fort Worth,Miami,1121,176,196
+Dallas/Fort Worth,Midland/Odessa,309,80,163
+Dallas/Fort Worth,Milwaukee,853,154,218
+Dallas/Fort Worth,Minneapolis,852,151,153
+Dallas/Fort Worth,Mission/McAllen/Edinburg,469,102,158
+Dallas/Fort Worth,Missoula,1320,207,177
+Dallas/Fort Worth,Mobile,539,113,194
+Dallas/Fort Worth,Moline,691,133,164
+Dallas/Fort Worth,Monroe,293,79,178
+Dallas/Fort Worth,Monterey,1430,218,284
+Dallas/Fort Worth,Montgomery,622,124,190
+Dallas/Fort Worth,Montrose/Delta,722,131,219
+Dallas/Fort Worth,Myrtle Beach,1048,178,175
+Dallas/Fort Worth,Nashville,631,119,169
+Dallas/Fort Worth,New Orleans,447,97,133
+Dallas/Fort Worth,New York,1389,213,147
+Dallas/Fort Worth,Newark,1372,215,176
+Dallas/Fort Worth,Norfolk,1212,198,213
+Dallas/Fort Worth,Oklahoma City,175,69,200
+Dallas/Fort Worth,Omaha,583,119,194
+Dallas/Fort Worth,Ontario,1188,185,202
+Dallas/Fort Worth,Orlando,985,164,146
+Dallas/Fort Worth,Palm Springs,1126,178,263
+Dallas/Fort Worth,Panama City,685,131,199
+Dallas/Fort Worth,Pensacola,604,120,183
+Dallas/Fort Worth,Peoria,672,126,151
+Dallas/Fort Worth,Philadelphia,1303,201,204
+Dallas/Fort Worth,Phoenix,868,148,174
+Dallas/Fort Worth,Pittsburgh,1067,176,214
+Dallas/Fort Worth,Portland,1616,236,201
+Dallas/Fort Worth,Raleigh/Durham,1061,178,230
+Dallas/Fort Worth,Rapid City,835,142,214
+Dallas/Fort Worth,Reno,1345,206,213
+Dallas/Fort Worth,Richmond,1158,192,209
+Dallas/Fort Worth,Roswell,435,95,110
+Dallas/Fort Worth,Sacramento,1431,212,211
+Dallas/Fort Worth,Salt Lake City,989,164,222
+Dallas/Fort Worth,San Angelo,229,71,179
+Dallas/Fort Worth,San Antonio,247,73,173
+Dallas/Fort Worth,San Diego,1171,182,205
+Dallas/Fort Worth,San Francisco,1464,221,206
+Dallas/Fort Worth,San Jose,1438,217,225
+Dallas/Fort Worth,San Juan,2165,298,167
+Dallas/Fort Worth,San Luis Obispo,1360,209,225
+Dallas/Fort Worth,Santa Ana,1205,188,237
+Dallas/Fort Worth,Santa Barbara,1316,198,214
+Dallas/Fort Worth,Santa Fe,551,112,183
+Dallas/Fort Worth,Santa Rosa,1495,218,227
+Dallas/Fort Worth,Sarasota/Bradenton,945,172,224
+Dallas/Fort Worth,Savannah,925,159,205
+Dallas/Fort Worth,Seattle,1660,246,186
+Dallas/Fort Worth,Shreveport,190,71,187
+Dallas/Fort Worth,Sioux Falls,737,136,190
+Dallas/Fort Worth,South Bend,846,152,230
+Dallas/Fort Worth,Spokane,1477,228,212
+Dallas/Fort Worth,Springfield,429,101,166
+Dallas/Fort Worth,St. Louis,550,112,159
+Dallas/Fort Worth,Stillwater,225,68,161
+Dallas/Fort Worth,Tallahassee,767,141,197
+Dallas/Fort Worth,Tampa,929,155,156
+Dallas/Fort Worth,Texarkana,181,66,178
+Dallas/Fort Worth,Tucson,813,136,204
+Dallas/Fort Worth,Tulsa,237,74,144
+Dallas/Fort Worth,Tyler,102,54,154
+Dallas/Fort Worth,Valparaiso,641,130,227
+Dallas/Fort Worth,Waco,89,50,148
+Dallas/Fort Worth,Washington,1184,187,221
+Dallas/Fort Worth,West Palm Beach/Palm Beach,1102,178,251
+Dallas/Fort Worth,Wichita,328,83,195
+Dallas/Fort Worth,Wichita Falls,113,61,140
+Dallas/Fort Worth,Wilmington,1106,183,195
+Dallas/Fort Worth,Yuma,1022,167,180
+Dayton,Detroit,166,61,318
+Dayton,Miami,998,173,163
+Dayton,Philadelphia,477,100,164
+Dayton,Punta Gorda,904,144,83
+Dayton,St. Petersburg,831,134,75
+Dayton,Washington,374,90,165
+Daytona Beach,Philadelphia,808,142,149
+Denver,Des Moines,589,109,121
+Denver,Detroit,1123,178,150
+Denver,Devils Lake,638,120,61
+Denver,Dickinson,488,101,236
+Denver,Dodge City,292,74,10
+Denver,Durango,251,73,231
+Denver,Eagle,120,58,267
+Denver,El Paso,563,112,127
+Denver,Eugene,996,166,208
+Denver,Everett,1036,170,128
+Denver,Fargo,627,124,160
+Denver,Fayetteville,616,114,165
+Denver,Flagstaff,503,98,216
+Denver,Fort Lauderdale,1703,242,162
+Denver,Fort Myers,1607,230,179
+Denver,Fresno,844,139,166
+Denver,Gillette,313,76,36
+Denver,Grand Junction,212,66,268
+Denver,Grand Rapids,1015,164,171
+Denver,Great Falls,623,113,298
+Denver,Green Bay,905,146,173
+Denver,Greer,1278,204,173
+Denver,Gunnison,152,58,180
+Denver,Harlingen/San Benito,1023,155,149
+Denver,Hartford,1671,236,222
+Denver,Hayden,141,56,120
+Denver,Hays,298,73,4
+Denver,Helena,594,111,283
+Denver,Honolulu,3365,424,357
+Denver,Houston,870,141,155
+Denver,Huntsville,1048,172,284
+Denver,Idaho Falls,458,98,236
+Denver,Indianapolis,977,156,154
+Denver,Jackson,406,93,287
+Denver,Jacksonville,1447,218,214
+Denver,Jamestown,573,108,60
+Denver,Kahului,3302,419,400
+Denver,Kalispell,752,133,258
+Denver,Kansas City,533,102,130
+Denver,Kearney,305,84,11
+Denver,Knoxville,1162,179,160
+Denver,Kona,3329,418,372
+Denver,Laramie,113,53,0
+Denver,Las Vegas,628,108,131
+Denver,Liberal,280,69,8
+Denver,Lincoln,423,97,165
+Denver,Little Rock,771,133,132
+Denver,Long Beach,854,136,96
+Denver,Los Angeles,862,137,126
+Denver,Louisville,1024,166,176
+Denver,Lubbock,456,90,176
+Denver,Madison,826,146,157
+Denver,Medford,964,156,194
+Denver,Memphis,872,147,136
+Denver,Miami,1709,243,153
+Denver,Midland/Odessa,563,110,219
+Denver,Milwaukee,896,149,144
+Denver,Minneapolis,680,119,125
+Denver,Minot,604,116,262
+Denver,Missoula,679,125,255
+Denver,Moab,283,71,5
+Denver,Monterey,959,152,171
+Denver,Montrose/Delta,196,58,105
+Denver,Nashville,1014,160,155
+Denver,New Orleans,1062,160,154
+Denver,New York,1622,231,193
+Denver,Newark,1605,231,226
+Denver,Norfolk,1553,236,191
+Denver,North Platte,228,67,0
+Denver,Oakland,957,146,123
+Denver,Oklahoma City,495,97,122
+Denver,Omaha,472,94,120
+Denver,Ontario,819,129,116
+Denver,Orlando,1546,222,160
+Denver,Palm Springs,776,125,156
+Denver,Pasco/Kennewick/Richland,852,145,225
+Denver,Pensacola,1179,179,146
+Denver,Philadelphia,1558,223,142
+Denver,Phoenix,602,106,152
+Denver,Pierre,385,84,30
+Denver,Pittsburgh,1290,189,200
+Denver,Portland,991,153,134
+Denver,Prescott,557,103,65
+Denver,Provo,375,79,31
+Denver,Pueblo,109,51,0
+Denver,Raleigh/Durham,1436,210,152
+Denver,Rapid City,300,75,261
+Denver,Reno,804,134,171
+Denver,Richmond,1482,227,223
+Denver,Riverton/Lander,296,74,32
+Denver,Rochester,686,123,192
+Denver,Rock Springs,260,66,0
+Denver,Sacramento,909,141,129
+Denver,Salina,383,86,15
+Denver,Salt Lake City,391,87,123
+Denver,San Antonio,794,130,146
+Denver,San Diego,853,134,134
+Denver,San Francisco,967,150,156
+Denver,San Jose,948,148,169
+Denver,San Luis Obispo,931,154,237
+Denver,Santa Ana,846,134,137
+Denver,Santa Barbara,916,150,231
+Denver,Santa Fe,303,73,229
+Denver,Savannah,1414,214,212
+Denver,Scottsbluff,150,57,6
+Denver,Seattle,1024,164,116
+Denver,Sheridan,359,79,30
+Denver,Sioux City,466,99,36
+Denver,Sioux Falls,483,102,144
+Denver,Spokane,836,133,142
+Denver,Springfield,637,121,244
+Denver,St. George,517,99,77
+Denver,St. Louis,770,131,140
+Denver,Sun Valley/Hailey/Ketchum,557,112,252
+Denver,Tampa,1506,217,181
+Denver,Tucson,639,113,143
+Denver,Tulsa,541,104,128
+Denver,Twin Falls,542,96,168
+Denver,Vernal,259,69,0
+Denver,Washington,1461,211,191
+Denver,Watertown,519,105,20
+Denver,Wichita,420,92,117
+Denver,Williston,582,118,270
+Des Moines,Detroit,534,106,233
+Des Moines,Houston,802,142,216
+Des Moines,Las Vegas,1216,176,142
+Des Moines,Miami,1327,209,205
+Des Moines,Minneapolis,232,67,206
+Des Moines,Orlando,1141,181,157
+Des Moines,Phoenix,1148,178,167
+Des Moines,Punta Gorda,1206,177,134
+Des Moines,Sanford,1124,167,105
+Des Moines,Sarasota/Bradenton,1160,172,154
+Des Moines,St. Louis,259,59,127
+Des Moines,St. Petersburg,1126,160,118
+Detroit,Elmira/Corning,332,78,264
+Detroit,Escanaba,306,76,184
+Detroit,Evansville,363,85,239
+Detroit,Fort Lauderdale,1127,179,173
+Detroit,Fort Myers,1084,167,240
+Detroit,Fort Wayne,128,53,76
+Detroit,Grand Rapids,120,53,96
+Detroit,Green Bay,287,72,220
+Detroit,Greer,508,105,220
+Detroit,Harrisburg,371,89,230
+Detroit,Hartford,549,105,226
+Detroit,Houston,1075,172,144
+Detroit,Indianapolis,231,68,242
+Detroit,Iron Mountain/Kingsfd,344,82,135
+Detroit,Ithaca/Cortland,353,84,170
+Detroit,Jacksonville,813,138,183
+Detroit,Kalamazoo,113,54,61
+Detroit,Kansas City,629,122,189
+Detroit,Knoxville,443,91,259
+Detroit,La Crosse,416,87,221
+Detroit,Lansing,74,49,98
+Detroit,Las Vegas,1749,244,155
+Detroit,Lexington,296,76,220
+Detroit,Los Angeles,1979,273,196
+Detroit,Louisville,306,83,251
+Detroit,Madison,311,76,231
+Detroit,Marquette,349,85,157
+Detroit,Memphis,610,114,221
+Detroit,Miami,1145,178,197
+Detroit,Milwaukee,237,70,237
+Detroit,Minneapolis,528,104,211
+Detroit,Mosinee,363,84,199
+Detroit,Myrtle Beach,636,119,122
+Detroit,Nashville,456,95,159
+Detroit,New Orleans,926,147,124
+Detroit,New York,505,103,153
+Detroit,Newark,488,102,167
+Detroit,Norfolk,529,107,174
+Detroit,Omaha,651,122,222
+Detroit,Orlando,957,155,158
+Detroit,Pellston,243,66,107
+Detroit,Philadelphia,453,99,147
+Detroit,Phoenix,1671,237,216
+Detroit,Pittsburgh,201,66,202
+Detroit,Portland,738,126,225
+Detroit,Raleigh/Durham,501,103,170
+Detroit,Richmond,456,104,184
+Detroit,Rochester,296,80,195
+Detroit,Saginaw/Bay City/Midland,98,51,73
+Detroit,Salt Lake City,1481,219,262
+Detroit,San Antonio,1214,187,231
+Detroit,San Diego,1956,270,230
+Detroit,San Francisco,2079,283,289
+Detroit,San Juan,1930,288,164
+Detroit,Sarasota/Bradenton,1022,167,239
+Detroit,Sault Ste. Marie,284,76,174
+Detroit,Seattle,1927,269,223
+Detroit,South Bend,157,61,189
+Detroit,St. Louis,440,95,181
+Detroit,State College,301,76,165
+Detroit,Syracuse,374,88,217
+Detroit,Tampa,983,156,178
+Detroit,Traverse City,207,67,143
+Detroit,Washington,392,88,139
+Detroit,West Palm Beach/Palm Beach,1086,173,252
+Devils Lake,Jamestown,83,45,0
+Dillingham,King Salmon,71,33,6
+Duluth,Minneapolis,144,60,75
+Durango,Phoenix,351,85,191
+Eagle,Houston,934,155,332
+Eagle,Los Angeles,748,133,229
+Eagle,Miami,1810,258,366
+Eagle,New York,1746,254,267
+Eagle,Newark,1725,249,319
+Eagle,Philadelphia,1678,254,283
+Eagle,Phoenix,513,110,200
+Eagle,San Francisco,847,143,290
+El Paso,Houston,671,114,177
+El Paso,Las Vegas,583,97,131
+El Paso,Phoenix,347,76,129
+El Paso,San Antonio,496,83,152
+El Paso,Seattle,1368,209,170
+Elko,Salt Lake City,200,58,187
+Elmira/Corning,Punta Gorda,1090,167,68
+Elmira/Corning,Sanford,954,149,79
+Elmira/Corning,St. Petersburg,1035,155,68
+Erie,Washington,259,76,181
+Escanaba,Minneapolis,304,71,86
+Eugene,Las Vegas,700,114,117
+Eugene,Los Angeles,748,129,123
+Eugene,Oakland,445,84,81
+Eugene,Palm Springs,796,130,114
+Eugene,Phoenix,954,162,136
+Eugene,Salt Lake City,618,113,157
+Eugene,San Francisco,451,92,249
+Eugene,Seattle,234,64,112
+Evansville,Sanford,734,115,79
+Everett,Las Vegas,894,149,127
+Everett,Palm Springs,1017,166,156
+Everett,Phoenix,1133,176,161
+Everett,San Diego,1080,166,140
+Everett,Santa Ana,1008,165,162
+Fairbanks,Seattle,1533,218,230
+Fargo,Las Vegas,1205,177,154
+Fargo,Minneapolis,223,66,245
+Fargo,Nashville,910,140,109
+Fargo,Phoenix,1223,186,159
+Fargo,Sanford,1508,222,116
+Fayetteville,Houston,438,100,229
+Fayetteville,Las Vegas,1163,171,163
+Fayetteville,Nashville,426,76,147
+Fayetteville,Phoenix,1006,150,191
+Fayetteville,Sanford,920,138,86
+Flagstaff,Phoenix,119,55,171
+Flint,Nashville,497,94,80
+Flint,Punta Gorda,1111,172,123
+Flint,Sanford,988,160,110
+Flint,Sarasota/Bradenton,1075,172,118
+Flint,St. Petersburg,1040,162,111
+Fort Lauderdale,Greer,620,113,136
+Fort Lauderdale,Hartford,1173,178,125
+Fort Lauderdale,Hayden,1843,277,218
+Fort Lauderdale,Houston,963,152,137
+Fort Lauderdale,Indianapolis,1005,159,139
+Fort Lauderdale,Islip,1092,169,196
+Fort Lauderdale,Jacksonville,319,71,135
+Fort Lauderdale,Kansas City,1242,185,171
+Fort Lauderdale,Knoxville,708,123,119
+Fort Lauderdale,Las Vegas,2173,295,110
+Fort Lauderdale,Latrobe,980,154,69
+Fort Lauderdale,Lexington,865,138,130
+Fort Lauderdale,Los Angeles,2343,314,189
+Fort Lauderdale,Louisville,895,153,142
+Fort Lauderdale,Memphis,851,137,159
+Fort Lauderdale,Milwaukee,1243,186,157
+Fort Lauderdale,Minneapolis,1487,218,137
+Fort Lauderdale,Myrtle Beach,529,102,84
+Fort Lauderdale,Nashville,793,132,110
+Fort Lauderdale,New Orleans,674,114,94
+Fort Lauderdale,New York,1072,167,165
+Fort Lauderdale,Newark,1065,170,162
+Fort Lauderdale,Norfolk,781,131,154
+Fort Lauderdale,Orlando,177,55,90
+Fort Lauderdale,Philadelphia,992,158,137
+Fort Lauderdale,Phoenix,1972,271,175
+Fort Lauderdale,Pittsburgh,994,157,111
+Fort Lauderdale,Portland,2694,359,168
+Fort Lauderdale,Providence,1188,182,135
+Fort Lauderdale,Raleigh/Durham,680,120,105
+Fort Lauderdale,Richmond,805,131,104
+Fort Lauderdale,Salt Lake City,2084,289,218
+Fort Lauderdale,San Antonio,1145,170,170
+Fort Lauderdale,San Diego,2269,306,178
+Fort Lauderdale,San Francisco,2584,345,254
+Fort Lauderdale,San Juan,1046,155,108
+Fort Lauderdale,Seattle,2717,365,174
+Fort Lauderdale,St. Louis,1057,161,206
+Fort Lauderdale,Syracuse,1197,183,158
+Fort Lauderdale,Tampa,197,57,93
+Fort Lauderdale,Washington,900,149,182
+Fort Lauderdale,White Plains,1097,171,185
+Fort Myers,Grand Rapids,1147,174,181
+Fort Myers,Hartford,1180,185,139
+Fort Myers,Houston,858,140,185
+Fort Myers,Indianapolis,945,149,178
+Fort Myers,Islip,1101,177,96
+Fort Myers,Kansas City,1155,176,189
+Fort Myers,Latrobe,956,154,77
+Fort Myers,Los Angeles,2238,308,259
+Fort Myers,Louisville,835,146,167
+Fort Myers,Milwaukee,1183,181,180
+Fort Myers,Minneapolis,1416,206,223
+Fort Myers,Nashville,722,122,167
+Fort Myers,New York,1075,169,171
+Fort Myers,Newark,1068,172,178
+Fort Myers,Orlando,133,46,114
+Fort Myers,Philadelphia,993,165,148
+Fort Myers,Pittsburgh,966,152,149
+Fort Myers,Portland,1343,195,176
+Fort Myers,Providence,1200,186,153
+Fort Myers,Raleigh/Durham,667,123,148
+Fort Myers,Rochester,1166,185,192
+Fort Myers,Seattle,2623,353,206
+Fort Myers,St. Louis,979,150,186
+Fort Myers,Syracuse,1186,185,160
+Fort Myers,Trenton,1028,164,61
+Fort Myers,Washington,891,146,195
+Fort Myers,White Plains,1102,177,187
+Fort Wayne,Philadelphia,530,114,255
+Fort Wayne,Phoenix,1546,214,166
+Fort Wayne,Punta Gorda,986,150,135
+Fort Wayne,Sanford,870,137,102
+Fort Wayne,Sarasota/Bradenton,948,144,121
+Fort Wayne,St. Petersburg,912,139,104
+Fresno,Las Vegas,259,62,83
+Fresno,Los Angeles,209,60,143
+Fresno,Phoenix,493,106,175
+Fresno,Portland,626,123,143
+Fresno,Salt Lake City,501,97,224
+Fresno,San Diego,314,69,151
+Fresno,San Francisco,158,51,156
+Fresno,Seattle,748,130,141
+Grand Forks,Las Vegas,1230,179,121
+Grand Forks,Minneapolis,284,72,201
+Grand Forks,Phoenix,1260,183,120
+Grand Island,Las Vegas,971,145,80
+Grand Island,Phoenix,905,139,110
+Grand Junction,Las Vegas,420,80,93
+Grand Junction,Phoenix,438,94,110
+Grand Junction,Salt Lake City,216,63,150
+Grand Rapids,Las Vegas,1642,229,164
+Grand Rapids,Miami,1214,197,208
+Grand Rapids,Minneapolis,408,87,197
+Grand Rapids,Nashville,470,86,114
+Grand Rapids,Orlando,1024,160,145
+Grand Rapids,Philadelphia,573,123,175
+Grand Rapids,Phoenix,1571,228,185
+Grand Rapids,Punta Gorda,1118,168,139
+Grand Rapids,Sanford,1001,156,115
+Grand Rapids,Sarasota/Bradenton,1080,164,151
+Grand Rapids,Savannah,778,125,145
+Grand Rapids,St. Petersburg,1044,158,111
+Grand Rapids,Tampa,1041,161,162
+Grand Rapids,Washington,524,112,152
+Great Falls,Las Vegas,811,127,108
+Great Falls,Minneapolis,887,143,208
+Great Falls,Phoenix,978,144,110
+Great Falls,Salt Lake City,463,92,173
+Great Falls,Seattle,512,110,146
+Green Bay,Minneapolis,252,67,213
+Green Bay,Orlando,1169,181,151
+Greensboro/High Point,Miami,710,128,149
+Greensboro/High Point,Philadelphia,365,86,153
+Greensboro/High Point,Sanford,510,101,39
+Greensboro/High Point,St. Petersburg,587,101,38
+Greensboro/High Point,Washington,239,70,164
+Greer,Houston,841,139,183
+Greer,Philadelphia,515,106,176
+Greer,Sanford,425,78,40
+Greer,St. Petersburg,482,83,42
+Greer,Washington,384,93,135
+Guam,Honolulu,3801,440,1049
+Guam,Saipan,129,44,149
+Gulfport/Biloxi,Houston,376,88,206
+Gulfport/Biloxi,Sanford,485,96,44
+Gunnison,Houston,886,153,258
+Hagerstown,Sanford,780,125,65
+Harlingen/San Benito,Houston,288,69,149
+Harrisburg,Orlando,851,146,126
+Harrisburg,Philadelphia,84,49,105
+Harrisburg,Punta Gorda,963,151,84
+Harrisburg,Sanford,827,140,68
+Harrisburg,Sarasota/Bradenton,942,146,123
+Harrisburg,St. Petersburg,912,143,81
+Harrisburg,Washington,94,50,205
+Hartford,Las Vegas,2297,312,185
+Hartford,Los Angeles,2527,339,202
+Hartford,Miami,1194,183,134
+Hartford,Minneapolis,1050,164,212
+Hartford,Orlando,1050,165,124
+Hartford,Philadelphia,196,68,219
+Hartford,San Francisco,2625,340,183
+Hartford,San Juan,1666,232,176
+Hartford,St. Louis,957,140,193
+Hartford,Tampa,1111,171,143
+Hartford,Washington,326,80,136
+Hartford,West Palm Beach/Palm Beach,1133,173,183
+Hattiesburg/Laurel,Houston,372,80,82
+Hayden,Houston,985,166,225
+Hayden,Los Angeles,763,130,200
+Hayden,New York,1749,254,172
+Hayden,Newark,1728,254,243
+Hayden,San Diego,769,126,157
+Hayden,San Francisco,838,137,175
+Hayden,Seattle,891,145,147
+Hayden,Washington,1582,254,214
+Helena,Salt Lake City,402,85,174
+Helena,Seattle,491,110,149
+Hibbing,Minneapolis,174,55,157
+Hilo,Honolulu,216,53,79
+Hobbs,Houston,501,102,129
+Honolulu,Hoolehua,54,29,38
+Honolulu,Houston,3904,494,418
+Honolulu,Kahului,100,39,83
+Honolulu,Kona,163,45,86
+Honolulu,Lanai,72,32,39
+Honolulu,Las Vegas,2762,356,267
+Honolulu,Lihue,102,37,98
+Honolulu,Long Beach,2569,341,214
+Honolulu,Los Angeles,2556,334,256
+Honolulu,Minneapolis,3972,492,388
+Honolulu,New York,4983,615,429
+Honolulu,Newark,4962,600,424
+Honolulu,Oakland,2409,316,197
+Honolulu,Phoenix,2917,376,282
+Honolulu,Portland,2603,349,248
+Honolulu,Sacramento,2462,324,229
+Honolulu,Salt Lake City,2994,380,295
+Honolulu,San Diego,2614,344,212
+Honolulu,San Francisco,2398,311,274
+Honolulu,San Jose,2417,319,192
+Honolulu,Seattle,2677,361,288
+Houston,Huntsville,595,117,173
+Houston,Indianapolis,848,141,193
+Houston,Jackson,1265,192,291
+Houston,Jackson/Vicksburg,351,84,218
+Houston,Jacksonville,817,136,193
+Houston,Kansas City,651,120,175
+Houston,Key West,915,167,252
+Houston,Killeen,166,64,161
+Houston,Knoxville,772,136,177
+Houston,Lafayette,201,66,226
+Houston,Lake Charles,127,53,270
+Houston,Laredo,301,79,259
+Houston,Las Vegas,1226,181,157
+Houston,Little Rock,374,87,138
+Houston,Los Angeles,1382,199,157
+Houston,Louisville,788,139,195
+Houston,Lubbock,458,99,157
+Houston,Memphis,472,99,133
+Houston,Meridian,422,85,75
+Houston,Miami,961,154,146
+Houston,Midland/Odessa,433,86,166
+Houston,Milwaukee,985,167,193
+Houston,Minneapolis,1034,169,199
+Houston,Mission/McAllen/Edinburg,316,76,160
+Houston,Mobile,427,93,282
+Houston,Monroe,262,67,210
+Houston,Montrose/Delta,927,153,250
+Houston,Nashville,664,118,166
+Houston,New Orleans,304,68,140
+Houston,New York,1416,212,175
+Houston,Newark,1400,209,170
+Houston,Oakland,1642,230,174
+Houston,Oklahoma City,405,83,146
+Houston,Omaha,789,135,179
+Houston,Ontario,1335,195,207
+Houston,Orlando,852,139,145
+Houston,Palm Springs,1269,193,246
+Houston,Panama City,572,107,172
+Houston,Pensacola,489,96,147
+Houston,Philadelphia,1325,205,204
+Houston,Phoenix,1014,158,189
+Houston,Pittsburgh,1117,176,215
+Houston,Portland,1825,256,228
+Houston,Punta Gorda,831,133,40
+Houston,Raleigh/Durham,1042,167,196
+Houston,Reno,1531,224,219
+Houston,Richmond,1157,189,212
+Houston,Sacramento,1610,231,216
+Houston,Salt Lake City,1199,188,227
+Houston,San Antonio,191,58,171
+Houston,San Diego,1307,190,192
+Houston,San Francisco,1635,233,246
+Houston,San Jose,1608,231,218
+Houston,San Juan,2007,270,199
+Houston,Santa Ana,1349,196,219
+Houston,Savannah,851,142,183
+Houston,Seattle,1874,267,229
+Houston,Shreveport,192,65,212
+Houston,St. Louis,675,122,176
+Houston,Tallahassee,658,118,151
+Houston,Tampa,785,130,150
+Houston,Tucson,940,147,190
+Houston,Tulsa,438,90,144
+Houston,Valparaiso,528,113,176
+Houston,Victoria,123,50,10
+Houston,Washington,1198,184,222
+Houston,West Palm Beach/Palm Beach,956,162,212
+Houston,Wichita,542,110,201
+Huntsville,Orlando,535,104,165
+Huntsville,Washington,601,120,218
+Idaho Falls,Las Vegas,538,97,86
+Idaho Falls,Phoenix,704,119,133
+Idaho Falls,Salt Lake City,188,61,161
+Indianapolis,Las Vegas,1590,221,141
+Indianapolis,Miami,1020,165,167
+Indianapolis,Minneapolis,503,101,243
+Indianapolis,New York,660,120,201
+Indianapolis,Newark,645,120,200
+Indianapolis,Orlando,829,137,137
+Indianapolis,Philadelphia,588,114,210
+Indianapolis,Phoenix,1488,214,223
+Indianapolis,Punta Gorda,916,146,121
+Indianapolis,Salt Lake City,1355,221,239
+Indianapolis,Sanford,807,134,76
+Indianapolis,Sarasota/Bradenton,876,140,145
+Indianapolis,Seattle,1866,260,214
+Indianapolis,St. Petersburg,840,139,96
+Indianapolis,Tampa,837,133,164
+Indianapolis,Washington,485,99,147
+Indianapolis,West Palm Beach/Palm Beach,967,152,157
+International Falls,Minneapolis,255,66,178
+Iron Mountain/Kingsfd,Minneapolis,257,63,126
+Islip,Miami,1113,180,90
+Islip,Orlando,971,156,131
+Islip,Philadelphia,130,66,174
+Islip,Tampa,1034,171,116
+Islip,West Palm Beach/Palm Beach,1052,165,159
+Ithaca/Cortland,Philadelphia,192,69,154
+Jackson,Los Angeles,784,143,206
+Jackson,Minneapolis,872,147,210
+Jackson,New York,1887,332,217
+Jackson,Newark,1874,267,324
+Jackson,Salt Lake City,205,69,211
+Jackson,San Diego,828,148,169
+Jackson,San Francisco,737,140,299
+Jackson,San Jose,729,139,168
+Jackson,Seattle,621,125,186
+Jacksonville,Miami,335,77,163
+Jacksonville,Nashville,483,88,141
+Jacksonville,New York,828,138,167
+Jacksonville,Newark,820,137,167
+Jacksonville,Orlando,144,52,13
+Jacksonville,Philadelphia,742,132,149
+Jacksonville,Pittsburgh,694,114,125
+Jacksonville,Washington,631,119,160
+Juneau,Ketchikan,234,64,169
+Juneau,Petersburg,123,47,144
+Juneau,Seattle,909,146,224
+Juneau,Sitka,95,44,127
+Juneau,Yakutat,198,57,116
+Kahului,Kona,84,34,87
+Kahului,Lihue,201,48,127
+Kahului,Los Angeles,2486,325,296
+Kahului,Oakland,2349,306,221
+Kahului,Phoenix,2845,363,322
+Kahului,Portland,2562,343,306
+Kahului,Sacramento,2404,316,269
+Kahului,Salt Lake City,2935,378,343
+Kahului,San Diego,2541,340,251
+Kahului,San Francisco,2338,309,321
+Kahului,San Jose,2355,308,208
+Kahului,Seattle,2640,356,349
+Kalamazoo,Minneapolis,426,102,232
+Kalispell,Las Vegas,845,139,125
+Kalispell,Minneapolis,1026,172,212
+Kalispell,Phoenix,1044,160,152
+Kalispell,Salt Lake City,531,102,181
+Kalispell,Seattle,379,92,182
+Kansas City,Las Vegas,1139,166,164
+Kansas City,Los Angeles,1363,197,154
+Kansas City,Miami,1251,196,199
+Kansas City,Milwaukee,436,84,149
+Kansas City,Minneapolis,393,88,225
+Kansas City,Nashville,491,91,144
+Kansas City,New York,1107,178,205
+Kansas City,Newark,1092,177,219
+Kansas City,Oakland,1489,210,198
+Kansas City,Orlando,1072,165,142
+Kansas City,Philadelphia,1038,166,223
+Kansas City,Phoenix,1044,159,225
+Kansas City,Portland,1482,206,152
+Kansas City,Punta Gorda,1125,169,87
+Kansas City,Salt Lake City,920,151,212
+Kansas City,San Diego,1334,187,191
+Kansas City,Seattle,1489,220,189
+Kansas City,St. Louis,237,58,113
+Kansas City,St. Petersburg,1045,158,89
+Kansas City,Tampa,1048,160,200
+Kansas City,Washington,926,152,181
+Ketchikan,Seattle,680,116,247
+Ketchikan,Wrangell,82,42,127
+Key West,Miami,126,49,182
+Key West,New York,1207,192,217
+Key West,Newark,1196,193,230
+Key West,Orlando,268,65,131
+Key West,Philadelphia,1121,179,252
+Key West,Tampa,240,63,138
+Key West,Washington,1023,171,249
+Knoxville,Las Vegas,1739,236,184
+Knoxville,Newark,631,130,153
+Knoxville,Philadelphia,554,111,166
+Knoxville,Punta Gorda,624,103,75
+Knoxville,Roanoke,247,55,224
+Knoxville,Sanford,511,94,65
+Knoxville,St. Petersburg,550,95,68
+Knoxville,Washington,420,99,180
+Kona,Los Angeles,2504,326,332
+Kona,Oakland,2378,309,187
+Kona,Phoenix,2860,369,302
+Kona,Portland,2607,348,264
+Kona,San Diego,2556,335,230
+Kona,San Francisco,2367,313,356
+Kona,San Jose,2384,310,206
+Kona,Seattle,2688,361,305
+La Crosse,Minneapolis,119,53,181
+Laredo,Las Vegas,1092,159,122
+Las Vegas,Little Rock,1294,180,169
+Las Vegas,Long Beach,231,58,90
+Las Vegas,Los Angeles,236,63,98
+Las Vegas,Louisville,1624,224,187
+Las Vegas,Lubbock,775,120,171
+Las Vegas,Medford,600,114,109
+Las Vegas,Memphis,1416,203,156
+Las Vegas,Miami,2174,291,165
+Las Vegas,Midland/Odessa,795,124,182
+Las Vegas,Milwaukee,1524,212,181
+Las Vegas,Minneapolis,1299,188,150
+Las Vegas,Minot,1098,160,123
+Las Vegas,Mission/McAllen/Edinburg,1210,177,147
+Las Vegas,Missoula,750,128,119
+Las Vegas,Moline,1376,199,116
+Las Vegas,Monterey,375,76,56
+Las Vegas,Nashville,1587,222,164
+Las Vegas,New Orleans,1500,207,144
+Las Vegas,New York,2248,309,221
+Las Vegas,Newark,2227,299,161
+Las Vegas,Oakland,407,82,102
+Las Vegas,Oklahoma City,986,146,154
+Las Vegas,Omaha,1099,163,158
+Las Vegas,Ontario,197,52,106
+Las Vegas,Orlando,2039,278,136
+Las Vegas,Pasco/Kennewick/Richland,732,126,123
+Las Vegas,Peoria,1413,200,117
+Las Vegas,Philadelphia,2176,292,143
+Las Vegas,Phoenix,256,66,111
+Las Vegas,Pittsburgh,1910,263,175
+Las Vegas,Portland,763,128,131
+Las Vegas,Raleigh/Durham,2026,272,169
+Las Vegas,Rapid City,843,126,134
+Las Vegas,Reno,345,73,118
+Las Vegas,Richmond,2086,279,179
+Las Vegas,Rockford,1455,204,84
+Las Vegas,Sacramento,397,80,117
+Las Vegas,Salt Lake City,368,79,139
+Las Vegas,San Antonio,1069,157,167
+Las Vegas,San Diego,258,63,102
+Las Vegas,San Francisco,414,86,110
+Las Vegas,San Jose,386,77,122
+Las Vegas,Santa Ana,226,59,101
+Las Vegas,Santa Maria,310,74,57
+Las Vegas,Seattle,867,148,117
+Las Vegas,Shreveport,1243,181,146
+Las Vegas,Sioux Falls,1104,162,127
+Las Vegas,South Bend,1594,226,128
+Las Vegas,Spokane,806,132,131
+Las Vegas,Springfield,1209,174,143
+Las Vegas,St. Louis,1371,195,171
+Las Vegas,Stockton,359,73,71
+Las Vegas,Tampa,1984,269,149
+Las Vegas,Tucson,365,72,121
+Las Vegas,Tulsa,1076,158,152
+Las Vegas,Washington,2065,280,236
+Las Vegas,Wichita,986,145,126
+Latrobe,Orlando,823,136,55
+Latrobe,Tampa,866,136,36
+Lewiston,Salt Lake City,461,90,181
+Lexington,Miami,880,155,144
+Lexington,Philadelphia,520,111,229
+Lexington,Punta Gorda,781,123,94
+Lexington,Sanford,667,112,77
+Lexington,St. Petersburg,707,116,80
+Lihue,Los Angeles,2615,340,322
+Lihue,San Francisco,2447,325,325
+Lihue,Seattle,2701,353,302
+Little Rock,Phoenix,1136,173,172
+Little Rock,Sanford,765,128,83
+Little Rock,St. Louis,296,63,114
+Long Beach,Oakland,353,73,118
+Long Beach,Phoenix,355,80,87
+Long Beach,Reno,402,81,82
+Long Beach,Sacramento,387,76,114
+Long Beach,Salt Lake City,588,110,164
+Long Beach,San Jose,324,67,92
+Los Angeles,Medford,630,113,128
+Los Angeles,Memphis,1619,227,216
+Los Angeles,Miami,2342,309,250
+Los Angeles,Minneapolis,1535,218,176
+Los Angeles,Missoula,923,162,168
+Los Angeles,Monterey,266,67,215
+Los Angeles,Montrose/Delta,666,123,141
+Los Angeles,Nashville,1797,246,174
+Los Angeles,New Orleans,1670,227,151
+Los Angeles,New York,2475,331,285
+Los Angeles,Newark,2454,322,246
+Los Angeles,Oakland,337,70,94
+Los Angeles,Oklahoma City,1187,190,203
+Los Angeles,Orlando,2218,297,171
+Los Angeles,Palm Springs,110,48,104
+Los Angeles,Philadelphia,2402,321,198
+Los Angeles,Phoenix,370,80,106
+Los Angeles,Pittsburgh,2136,287,224
+Los Angeles,Portland,834,138,159
+Los Angeles,Prescott,346,73,40
+Los Angeles,Provo,569,100,47
+Los Angeles,Raleigh/Durham,2239,300,191
+Los Angeles,Reno,391,86,113
+Los Angeles,Richmond,2305,310,189
+Los Angeles,Sacramento,373,80,124
+Los Angeles,Salt Lake City,590,112,151
+Los Angeles,San Antonio,1211,177,196
+Los Angeles,San Diego,109,47,189
+Los Angeles,San Francisco,337,75,114
+Los Angeles,San Jose,308,69,107
+Los Angeles,San Luis Obispo,156,50,132
+Los Angeles,Santa Rosa,400,84,135
+Los Angeles,Seattle,954,157,123
+Los Angeles,Spokane,945,157,140
+Los Angeles,Springfield,1423,195,171
+Los Angeles,St. Louis,1592,221,225
+Los Angeles,Sun Valley/Hailey/Ketchum,696,132,281
+Los Angeles,Tampa,2158,291,225
+Los Angeles,Tucson,451,89,158
+Los Angeles,Tulsa,1283,184,166
+Los Angeles,Twin Falls,626,134,171
+Los Angeles,Washington,2300,308,213
+Los Angeles,West Palm Beach/Palm Beach,2330,320,244
+Louisville,Miami,910,155,169
+Louisville,Minneapolis,604,119,200
+Louisville,Orlando,719,122,146
+Louisville,Philadelphia,576,120,194
+Louisville,Phoenix,1506,216,191
+Louisville,Punta Gorda,806,135,88
+Louisville,Sanford,698,124,70
+Louisville,Sarasota/Bradenton,765,134,128
+Louisville,St. Petersburg,729,120,84
+Louisville,Tampa,727,122,164
+Louisville,Washington,451,102,145
+Lubbock,Phoenix,588,112,198
+Madison,Minneapolis,228,64,163
+Madison,Orlando,1109,178,133
+Madison,Phoenix,1396,205,239
+Manchester,Orlando,1142,177,170
+Manchester,Philadelphia,289,84,149
+Manchester,Tampa,1204,189,161
+Marquette,Minneapolis,300,77,164
+Medford,Phoenix,854,147,181
+Medford,Portland,222,60,169
+Medford,Salt Lake City,575,107,197
+Medford,San Francisco,329,78,213
+Medford,Seattle,352,81,95
+Memphis,Miami,859,146,167
+Memphis,Minneapolis,700,125,243
+Memphis,Orlando,684,118,145
+Memphis,Phoenix,1264,192,187
+Memphis,Punta Gorda,733,120,48
+Memphis,Salt Lake City,1262,185,231
+Memphis,Sanford,671,114,55
+Memphis,St. Petersburg,653,108,53
+Memphis,Tampa,655,109,158
+Miami,Milwaukee,1258,201,154
+Miami,Minneapolis,1501,221,177
+Miami,Nashville,806,138,122
+Miami,New Orleans,675,118,125
+Miami,New York,1093,171,185
+Miami,Newark,1085,175,178
+Miami,Norfolk,802,139,175
+Miami,Omaha,1393,211,193
+Miami,Orlando,192,61,121
+Miami,Pensacola,530,105,194
+Miami,Philadelphia,1013,161,172
+Miami,Phoenix,1972,275,228
+Miami,Pittsburgh,1013,163,140
+Miami,Portland,1353,212,181
+Miami,Raleigh/Durham,700,126,118
+Miami,Richmond,825,146,136
+Miami,Rochester,1203,193,173
+Miami,Salt Lake City,2088,284,228
+Miami,San Diego,2267,301,214
+Miami,San Francisco,2585,347,228
+Miami,San Juan,1045,157,158
+Miami,Savannah,440,89,155
+Miami,Seattle,2724,361,179
+Miami,St. Louis,1068,166,149
+Miami,Tallahassee,402,82,187
+Miami,Tampa,204,58,121
+Miami,Washington,920,151,217
+Midland/Odessa,Phoenix,581,109,185
+Milwaukee,Minneapolis,297,75,198
+Milwaukee,Nashville,475,92,126
+Milwaukee,Orlando,1066,167,161
+Milwaukee,Philadelphia,690,126,190
+Milwaukee,Phoenix,1460,210,227
+Milwaukee,Seattle,1694,247,201
+Milwaukee,St. Louis,317,73,127
+Milwaukee,Tampa,1075,165,163
+Milwaukee,Washington,634,102,167
+Minneapolis,Minot,449,93,237
+Minneapolis,Missoula,1013,166,195
+Minneapolis,Mosinee,175,62,122
+Minneapolis,Nashville,695,127,178
+Minneapolis,New Orleans,1039,155,168
+Minneapolis,New York,1024,161,194
+Minneapolis,Newark,1008,162,187
+Minneapolis,Oklahoma City,694,121,214
+Minneapolis,Omaha,282,75,248
+Minneapolis,Orlando,1310,196,140
+Minneapolis,Palm Springs,1454,210,218
+Minneapolis,Pasco/Kennewick/Richland,1254,198,230
+Minneapolis,Philadelphia,980,160,203
+Minneapolis,Phoenix,1276,188,170
+Minneapolis,Pittsburgh,726,128,220
+Minneapolis,Portland,1426,204,178
+Minneapolis,Raleigh/Durham,980,163,218
+Minneapolis,Rapid City,489,97,244
+Minneapolis,Rhinelander,190,56,136
+Minneapolis,Rochester,76,46,188
+Minneapolis,Sacramento,1517,217,206
+Minneapolis,Salt Lake City,991,159,243
+Minneapolis,San Antonio,1097,171,192
+Minneapolis,San Diego,1532,219,155
+Minneapolis,San Francisco,1589,228,201
+Minneapolis,Santa Ana,1522,220,218
+Minneapolis,Sarasota/Bradenton,1342,201,178
+Minneapolis,Sault Ste. Marie,435,92,149
+Minneapolis,Seattle,1399,208,170
+Minneapolis,Sioux Falls,196,66,264
+Minneapolis,Spokane,1175,175,202
+Minneapolis,St. Louis,448,92,168
+Minneapolis,Tampa,1306,193,165
+Minneapolis,Tucson,1298,191,171
+Minneapolis,Washington,919,151,171
+Minneapolis,West Palm Beach/Palm Beach,1451,222,218
+Minneapolis,Wichita,545,105,248
+Minot,Phoenix,1164,170,143
+Mission/McAllen/Edinburg,Sanford,1059,164,94
+Missoula,Phoenix,948,145,143
+Missoula,Portland,418,94,199
+Missoula,Salt Lake City,436,92,181
+Missoula,Seattle,389,95,153
+Moline,Phoenix,1288,182,141
+Moline,Punta Gorda,1113,165,111
+Moline,Sanford,1018,156,95
+Moline,St. Petersburg,1033,155,106
+Monterey,Phoenix,598,115,164
+Monterey,San Diego,375,76,159
+Montrose/Delta,New York,1810,292,214
+Montrose/Delta,Newark,1795,254,304
+Montrose/Delta,Phoenix,419,96,117
+Montrose/Delta,San Francisco,791,131,201
+Myrtle Beach,New York,563,100,88
+Myrtle Beach,Newark,550,100,69
+Myrtle Beach,Orlando,388,78,150
+Myrtle Beach,Philadelphia,473,98,115
+Nantucket,New York,199,60,230
+Nashville,New Orleans,471,86,137
+Nashville,New York,764,131,175
+Nashville,Newark,748,134,133
+Nashville,Norfolk,585,107,138
+Nashville,Oakland,1959,265,181
+Nashville,Oklahoma City,616,102,145
+Nashville,Orlando,616,109,126
+Nashville,Panama City,401,76,147
+Nashville,Pensacola,391,77,137
+Nashville,Peoria,353,82,97
+Nashville,Philadelphia,675,121,137
+Nashville,Phoenix,1449,208,198
+Nashville,Pittsburgh,462,88,117
+Nashville,Punta Gorda,692,118,62
+Nashville,Raleigh/Durham,442,87,135
+Nashville,Richmond,527,96,140
+Nashville,Salt Lake City,1404,210,212
+Nashville,San Antonio,822,131,172
+Nashville,San Diego,1751,238,191
+Nashville,San Jose,1947,264,168
+Nashville,Sanford,598,106,42
+Nashville,Santa Ana,1772,243,190
+Nashville,Sarasota/Bradenton,648,111,126
+Nashville,Seattle,1978,277,174
+Nashville,St. Louis,272,63,156
+Nashville,St. Petersburg,612,103,57
+Nashville,Syracuse,741,130,131
+Nashville,Tampa,612,104,166
+Nashville,Washington,555,102,153
+New Haven,Philadelphia,157,59,114
+New Orleans,New York,1182,180,205
+New Orleans,Newark,1167,182,168
+New Orleans,Orlando,551,100,111
+New Orleans,Philadelphia,1089,176,144
+New Orleans,Phoenix,1300,190,185
+New Orleans,Raleigh/Durham,779,122,138
+New Orleans,Salt Lake City,1428,206,229
+New Orleans,San Antonio,494,82,138
+New Orleans,Seattle,2086,284,153
+New Orleans,St. Louis,604,100,153
+New Orleans,Tampa,488,90,118
+New Orleans,Washington,960,153,177
+New York,Orlando,947,152,138
+New York,Palm Springs,2378,326,217
+New York,Phoenix,2153,299,247
+New York,Pittsburgh,335,79,173
+New York,Portland,879,144,227
+New York,Raleigh/Durham,429,88,147
+New York,Reno,2411,326,183
+New York,Richmond,292,72,151
+New York,Rochester,264,76,164
+New York,Sacramento,2521,336,220
+New York,Salt Lake City,1990,278,285
+New York,San Diego,2446,332,241
+New York,San Francisco,2586,347,252
+New York,San Juan,1598,226,195
+New York,Sarasota/Bradenton,1046,169,178
+New York,Savannah,718,122,178
+New York,Seattle,2422,332,243
+New York,St. Louis,888,141,187
+New York,Syracuse,209,71,183
+New York,Tampa,1007,160,149
+New York,Washington,217,65,144
+New York,West Palm Beach/Palm Beach,1033,163,227
+Newark,Norfolk,284,79,133
+Newark,Orlando,937,155,139
+Newark,Phoenix,2133,288,233
+Newark,Pittsburgh,319,80,149
+Newark,Portland,545,108,203
+Newark,Presque Isle/Houlton,515,117,186
+Newark,Providence,160,69,314
+Newark,Raleigh/Durham,416,90,125
+Newark,Richmond,277,78,168
+Newark,Rochester,246,77,167
+Newark,Salt Lake City,1969,275,278
+Newark,San Diego,2425,323,236
+Newark,San Francisco,2565,336,248
+Newark,San Juan,1608,232,158
+Newark,Sarasota/Bradenton,1034,173,171
+Newark,Savannah,708,128,151
+Newark,Seattle,2402,328,233
+Newark,St. Louis,872,147,204
+Newark,Syracuse,195,74,157
+Newark,Tampa,997,160,146
+Newark,Valparaiso,988,160,143
+Newark,Washington,208,68,210
+Newark,West Palm Beach/Palm Beach,1023,164,213
+Newburgh/Poughkeepsie,Philadelphia,127,62,120
+Newburgh/Poughkeepsie,Punta Gorda,1101,175,98
+Newburgh/Poughkeepsie,Sanford,965,194,86
+Newburgh/Poughkeepsie,St. Petersburg,1055,167,80
+Newport News/Williamsburg,Philadelphia,201,62,5
+Niagara Falls,Punta Gorda,1129,164,82
+Niagara Falls,Sanford,996,150,54
+Niagara Falls,St. Petersburg,1069,164,78
+Norfolk,Orlando,655,113,127
+Norfolk,Philadelphia,212,66,178
+Norfolk,Sanford,631,106,47
+Norfolk,St. Petersburg,726,122,62
+Norfolk,Washington,150,58,139
+North Bend/Coos Bay,San Francisco,412,88,227
+Oakland,Ontario,362,72,145
+Oakland,Palm Springs,418,81,131
+Oakland,Phoenix,646,110,122
+Oakland,Portland,543,96,135
+Oakland,Reno,181,56,118
+Oakland,Salt Lake City,588,109,137
+Oakland,San Diego,446,82,145
+Oakland,Santa Ana,371,79,121
+Oakland,Seattle,672,120,120
+Oakland,Spokane,723,118,118
+Oakland,St. Louis,1725,232,192
+Ogden,Phoenix,544,95,53
+Ogdensburg,Washington,409,97,22
+Oklahoma City,Orlando,1069,174,179
+Oklahoma City,Phoenix,833,138,186
+Oklahoma City,Salt Lake City,866,145,211
+Oklahoma City,Seattle,1519,228,165
+Oklahoma City,St. Louis,462,83,135
+Omaha,Orlando,1211,176,151
+Omaha,Phoenix,1036,162,171
+Omaha,Punta Gorda,1269,189,95
+Omaha,Salt Lake City,840,147,230
+Omaha,Sanford,1195,179,81
+Omaha,Seattle,1368,214,166
+Omaha,St. Louis,342,68,138
+Omaha,St. Petersburg,1188,167,98
+Omaha,Washington,1012,154,189
+Ontario,Phoenix,325,78,114
+Ontario,Portland,838,135,152
+Ontario,Sacramento,390,74,139
+Ontario,Salt Lake City,558,104,135
+Ontario,San Francisco,363,77,146
+Ontario,San Jose,333,65,123
+Ontario,Seattle,956,157,124
+Orlando,Philadelphia,861,144,122
+Orlando,Phoenix,1849,262,205
+Orlando,Pittsburgh,834,135,127
+Orlando,Portland,2226,304,165
+Orlando,Providence,1072,165,115
+Orlando,Raleigh/Durham,534,98,102
+Orlando,Richmond,667,116,105
+Orlando,Rochester,1033,156,169
+Orlando,Salt Lake City,1931,268,196
+Orlando,San Antonio,1041,157,177
+Orlando,San Diego,2149,298,192
+Orlando,San Francisco,2446,330,191
+Orlando,San Juan,1189,172,128
+Orlando,Seattle,2554,347,200
+Orlando,St. Louis,882,138,153
+Orlando,Syracuse,1053,166,117
+Orlando,Trenton,896,152,54
+Orlando,Washington,759,130,133
+Orlando,White Plains,972,162,155
+Owensboro,Sanford,706,114,53
+Palm Springs,Philadelphia,2304,309,182
+Palm Springs,Phoenix,261,70,98
+Palm Springs,Portland,873,146,168
+Palm Springs,Reno,431,89,122
+Palm Springs,Salt Lake City,541,101,195
+Palm Springs,San Francisco,421,86,188
+Palm Springs,Seattle,987,164,149
+Panama City,Washington,769,129,162
+Pasco/Kennewick/Richland,Phoenix,977,150,133
+Pasco/Kennewick/Richland,Salt Lake City,521,99,192
+Pasco/Kennewick/Richland,Seattle,172,57,106
+Pensacola,Philadelphia,935,156,185
+Pensacola,Washington,812,138,174
+Peoria,Phoenix,1312,189,136
+Peoria,Punta Gorda,1045,160,117
+Peoria,Sanford,949,152,85
+Peoria,St. Petersburg,965,149,106
+Petersburg,Wrangell,31,28,149
+Philadelphia,Phoenix,2075,284,252
+Philadelphia,Pittsburgh,268,75,187
+Philadelphia,Portland,364,90,167
+Philadelphia,Providence,237,76,168
+Philadelphia,Raleigh/Durham,337,86,143
+Philadelphia,Richmond,198,67,211
+Philadelphia,Roanoke,311,82,162
+Philadelphia,Rochester,257,80,167
+Philadelphia,Salisbury,107,52,234
+Philadelphia,Salt Lake City,1927,270,244
+Philadelphia,San Diego,2370,319,239
+Philadelphia,San Francisco,2521,343,267
+Philadelphia,San Juan,1576,232,123
+Philadelphia,Sarasota/Bradenton,957,163,161
+Philadelphia,Savannah,629,118,173
+Philadelphia,Seattle,2378,327,227
+Philadelphia,St. Louis,814,140,200
+Philadelphia,State College,153,61,147
+Philadelphia,Syracuse,228,78,188
+Philadelphia,Tampa,920,153,128
+Philadelphia,Washington,127,59,209
+Philadelphia,Watertown,287,78,186
+Philadelphia,West Palm Beach/Palm Beach,951,162,177
+Philadelphia,Williamsport,129,49,68
+Philadelphia,Wilmington,413,93,166
+Phoenix,Pittsburgh,1814,252,220
+Phoenix,Portland,1009,160,180
+Phoenix,Provo,477,88,64
+Phoenix,Raleigh/Durham,1891,264,211
+Phoenix,Rapid City,873,140,139
+Phoenix,Reno,601,110,147
+Phoenix,Rockford,1373,195,114
+Phoenix,Sacramento,647,113,137
+Phoenix,Salt Lake City,507,100,152
+Phoenix,San Antonio,843,135,174
+Phoenix,San Diego,304,72,128
+Phoenix,San Francisco,651,117,110
+Phoenix,San Jose,621,109,118
+Phoenix,San Luis Obispo,509,106,144
+Phoenix,Santa Ana,338,75,118
+Phoenix,Santa Barbara,455,98,141
+Phoenix,Santa Maria,516,91,39
+Phoenix,Santa Rosa,699,131,168
+Phoenix,Seattle,1107,174,137
+Phoenix,Sioux Falls,1080,166,161
+Phoenix,South Bend,1501,208,149
+Phoenix,Spokane,1020,161,176
+Phoenix,Springfield,1066,161,151
+Phoenix,St. Cloud,1259,186,111
+Phoenix,St. George,262,69,150
+Phoenix,St. Louis,1262,184,188
+Phoenix,Stockton,625,108,51
+Phoenix,Tampa,1788,254,223
+Phoenix,Tucson,110,57,98
+Phoenix,Tulsa,935,146,170
+Phoenix,Washington,1967,272,216
+Phoenix,Wichita,861,133,144
+Phoenix,Yuma,160,61,154
+Pittsburgh,Punta Gorda,941,147,84
+Pittsburgh,Sanford,809,129,61
+Pittsburgh,Sarasota/Bradenton,912,142,131
+Pittsburgh,Savannah,579,98,121
+Pittsburgh,Seattle,2125,294,173
+Pittsburgh,St. Louis,554,94,160
+Pittsburgh,St. Petersburg,878,138,73
+Pittsburgh,Tampa,873,140,149
+Pittsburgh,Washington,184,62,145
+Pittsburgh,West Palm Beach/Palm Beach,952,152,139
+Plattsburgh,Sanford,1175,174,67
+Plattsburgh,St. Petersburg,1262,181,76
+Plattsburgh,Washington,444,99,52
+Pocatello,Salt Lake City,150,53,94
+Portland,Reno,444,98,125
+Portland,Sacramento,479,94,124
+Portland,Salt Lake City,630,112,167
+Portland,San Diego,933,147,151
+Portland,San Francisco,550,102,151
+Portland,San Jose,569,103,133
+Portland,Santa Ana,859,145,151
+Portland,Santa Barbara,784,126,149
+Portland,Santa Rosa,489,90,148
+Portland,Seattle,129,50,135
+Portland,Spokane,279,71,161
+Portland,St. Louis,1708,233,190
+Portland,Tucson,1119,175,158
+Portland,Washington,574,109,180
+Portsmouth,Punta Gorda,1279,190,79
+Portsmouth,Sanford,1144,172,69
+Presque Isle/Houlton,Washington,716,132,139
+Providence,Punta Gorda,1184,179,88
+Providence,Tampa,1136,175,142
+Providence,Washington,366,90,118
+Providence,West Palm Beach/Palm Beach,1148,174,177
+Pullman,Seattle,250,67,124
+Punta Gorda,Raleigh/Durham,645,114,53
+Punta Gorda,Rochester,1143,169,111
+Punta Gorda,Rockford,1127,168,114
+Punta Gorda,Sioux Falls,1415,201,111
+Punta Gorda,South Bend,1049,162,116
+Punta Gorda,Springfield,994,147,104
+Punta Gorda,St. Cloud,1447,213,138
+Punta Gorda,Syracuse,1164,174,78
+Punta Gorda,Toledo,1016,154,118
+Punta Gorda,Traverse City,1245,182,116
+Raleigh/Durham,Salt Lake City,1823,255,203
+Raleigh/Durham,San Juan,1433,208,123
+Raleigh/Durham,Sanford,510,91,37
+Raleigh/Durham,Seattle,2354,323,194
+Raleigh/Durham,St. Louis,667,113,148
+Raleigh/Durham,Tampa,587,104,140
+Raleigh/Durham,Washington,225,69,128
+Rapid City,Salt Lake City,508,108,212
+Redding,San Francisco,199,57,196
+Reno,Salt Lake City,422,90,183
+Reno,San Diego,488,86,133
+Reno,San Francisco,192,65,163
+Reno,Seattle,564,114,125
+Richmond,Sanford,643,118,45
+Richmond,Sarasota/Bradenton,760,130,109
+Richmond,St. Petersburg,731,125,61
+Richmond,Tampa,723,126,146
+Richmond,Washington,100,51,208
+Roanoke,Sanford,594,103,51
+Roanoke,St. Petersburg,668,113,56
+Roanoke,Washington,177,62,213
+Rochester,Tampa,1079,173,164
+Rochester,Washington,288,81,126
+Rockford,Sanford,1025,160,94
+Rockford,Sarasota/Bradenton,1085,162,87
+Rockford,St. Petersburg,1049,153,95
+Sacramento,Salt Lake City,532,100,154
+Sacramento,San Diego,480,85,148
+Sacramento,San Francisco,86,48,146
+Sacramento,Santa Ana,404,82,131
+Sacramento,Seattle,605,113,132
+Sacramento,Spokane,649,105,131
+Sacramento,St. Louis,1679,231,230
+Sacramento,Washington,2358,316,197
+Salt Lake City,San Antonio,1087,168,196
+Salt Lake City,San Diego,626,111,159
+Salt Lake City,San Francisco,599,113,161
+Salt Lake City,San Jose,584,112,166
+Salt Lake City,Santa Ana,588,110,199
+Salt Lake City,Seattle,689,123,144
+Salt Lake City,Spokane,546,102,177
+Salt Lake City,St. George,272,68,162
+Salt Lake City,St. Louis,1156,182,203
+Salt Lake City,Sun Valley/Hailey/Ketchum,222,64,174
+Salt Lake City,Tampa,1888,266,229
+Salt Lake City,Tucson,601,110,207
+Salt Lake City,Tulsa,926,154,203
+Salt Lake City,Twin Falls,175,55,127
+Salt Lake City,Washington,1842,258,240
+San Antonio,San Diego,1129,160,199
+San Antonio,Seattle,1774,246,159
+San Antonio,St. Louis,786,120,188
+San Antonio,Tampa,972,147,166
+San Antonio,Washington,1362,205,214
+San Diego,San Francisco,447,85,114
+San Diego,San Jose,417,77,122
+San Diego,Santa Rosa,508,93,140
+San Diego,Seattle,1050,165,133
+San Diego,Spokane,1027,164,135
+San Diego,St. Louis,1557,215,199
+San Diego,Washington,2253,304,227
+San Francisco,San Luis Obispo,190,56,173
+San Francisco,Santa Ana,372,84,120
+San Francisco,Santa Barbara,262,64,217
+San Francisco,Seattle,679,123,133
+San Francisco,Spokane,733,124,124
+San Francisco,Sun Valley/Hailey/Ketchum,587,117,259
+San Francisco,Tampa,2393,326,240
+San Francisco,Tucson,751,127,174
+San Francisco,Twin Falls,536,96,290
+San Francisco,Washington,2421,319,295
+San Jose,Santa Ana,342,72,134
+San Jose,Seattle,696,125,130
+San Jose,Spokane,742,127,131
+San Jose,St. Louis,1715,237,206
+San Juan,Tampa,1237,179,126
+San Juan,Washington,1563,223,192
+San Luis Obispo,Seattle,847,144,164
+Sanford,Sioux Falls,1334,197,108
+Sanford,South Bend,936,142,98
+Sanford,Springfield,914,148,90
+Sanford,State College,854,139,56
+Sanford,Syracuse,1029,154,83
+Sanford,Toledo,895,133,96
+Sanford,Traverse City,1126,165,107
+Sanford,Tulsa,995,153,74
+Santa Ana,Santa Rosa,433,88,146
+Santa Ana,Seattle,978,163,132
+Santa Barbara,Seattle,908,145,175
+Santa Rosa,Seattle,618,115,140
+Sarasota/Bradenton,South Bend,1009,156,121
+Sarasota/Bradenton,Syracuse,1142,175,125
+Sarasota/Bradenton,Washington,850,142,181
+Savannah,Washington,515,115,168
+Scranton/Wilkes-Barre,Washington,189,65,147
+Seattle,Spokane,224,64,113
+Seattle,St. Louis,1709,244,203
+Seattle,Sun Valley/Hailey/Ketchum,475,110,168
+Seattle,Tampa,2520,342,201
+Seattle,Tucson,1216,186,126
+Seattle,Walla Walla,213,60,96
+Seattle,Washington,2314,316,224
+Seattle,Wenatchee,99,44,132
+Seattle,Wichita,1430,213,169
+Seattle,Yakima,103,43,135
+Sioux Falls,St. Petersburg,1334,195,114
+South Bend,St. Petersburg,973,144,103
+Springfield,St. Petersburg,895,137,108
+St. Louis,Tampa,869,135,181
+St. Louis,Tulsa,351,70,125
+St. Louis,Washington,707,128,158
+St. Louis,Wichita,392,75,116
+St. Petersburg,State College,933,144,55
+St. Petersburg,Syracuse,1111,170,92
+St. Petersburg,Toledo,945,148,108
+St. Petersburg,Traverse City,1172,169,104
+St. Petersburg,Tulsa,961,148,49
+State College,Washington,133,58,276
+Staunton,Washington,91,52,11
+Syracuse,Tampa,1104,172,162
+Syracuse,Washington,296,85,158
+Tampa,Trenton,955,159,48
+Tampa,Washington,813,135,170
+Tampa,White Plains,1032,166,153
+Trenton,West Palm Beach/Palm Beach,985,166,71
+Valparaiso,Washington,789,134,173
+Washington,West Palm Beach/Palm Beach,858,145,188
+Washington,Wilmington,322,81,137
+West Palm Beach/Palm Beach,White Plains,1056,168,222

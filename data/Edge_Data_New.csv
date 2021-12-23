@@ -1,0 +1,2421 @@
+City1,City2,Distance,Time,Cost
+Aberdeen SD,Minneapolis MN,257,71,458
+Abilene TX,Dallas/Fort Worth TX,158,64,179
+Abilene TX,Houston TX,307,76,107
+Akron OH,Charlotte NC,394,100,155
+Akron OH,Chicago IL,343,83,163
+Akron OH,Fort Myers FL,991,152,143
+Akron OH,Orlando FL,861,136,103
+Akron OH,Philadelphia PA,335,81,189
+Akron OH,Tampa FL,894,141,155
+Akron OH,Washington DC,251,74,138
+Alamosa CO,Denver CO,179,59,7
+Albany GA,Atlanta GA,145,52,119
+Albany NY,Atlanta GA,853,141,202
+Albany NY,Baltimore MD,289,72,127
+Albany NY,Charlotte NC,646,128,181
+Albany NY,Chicago IL,721,132,159
+Albany NY,Denver CO,1610,226,189
+Albany NY,Detroit MI,489,98,198
+Albany NY,Fort Lauderdale FL,1204,185,177
+Albany NY,Newark NJ,143,66,196
+Albany NY,Orlando FL,1073,170,127
+Albany NY,Philadelphia PA,212,71,174
+Albany NY,Punta Gorda FL,1185,181,76
+Albany NY,St. Petersburg FL,1138,175,65
+Albany NY,Tampa FL,1130,173,179
+Albany NY,Washington DC,323,90,127
+Albuquerque NM,Atlanta GA,1269,184,224
+Albuquerque NM,Austin TX,619,104,132
+Albuquerque NM,Baltimore MD,1670,230,170
+Albuquerque NM,Chicago IL,1120,176,194
+Albuquerque NM,Dallas TX,580,101,154
+Albuquerque NM,Dallas/Fort Worth TX,569,114,158
+Albuquerque NM,Denver CO,349,77,124
+Albuquerque NM,Houston TX,751,129,179
+Albuquerque NM,Kansas City MO,718,110,146
+Albuquerque NM,Las Vegas NV,486,85,135
+Albuquerque NM,Los Angeles CA,677,115,171
+Albuquerque NM,New York NY,1826,262,188
+Albuquerque NM,Oakland CA,889,136,152
+Albuquerque NM,Phoenix AZ,328,75,146
+Albuquerque NM,Portland OR,1111,165,128
+Albuquerque NM,Salt Lake City UT,493,100,180
+Albuquerque NM,San Antonio TX,609,105,151
+Albuquerque NM,San Diego CA,628,99,136
+Albuquerque NM,San Francisco CA,896,144,174
+Albuquerque NM,Seattle WA,1180,176,136
+Alexandria LA,Atlanta GA,500,97,262
+Alexandria LA,Dallas/Fort Worth TX,285,78,203
+Alexandria LA,Houston TX,190,63,261
+Allentown/Bethlehem/Easton PA,Atlanta GA,692,119,192
+Allentown/Bethlehem/Easton PA,Charlotte NC,481,104,171
+Allentown/Bethlehem/Easton PA,Chicago IL,654,119,243
+Allentown/Bethlehem/Easton PA,Detroit MI,425,95,262
+Allentown/Bethlehem/Easton PA,Fort Lauderdale FL,1041,182,99
+Allentown/Bethlehem/Easton PA,Nashville TN,685,112,99
+Allentown/Bethlehem/Easton PA,Punta Gorda FL,1018,161,88
+Allentown/Bethlehem/Easton PA,Sanford FL,882,144,75
+Allentown/Bethlehem/Easton PA,Sarasota/Bradenton FL,1000,163,91
+Allentown/Bethlehem/Easton PA,St. Petersburg FL,970,155,78
+Allentown/Bethlehem/Easton PA,Washington DC,159,62,172
+Alpena MI,Detroit MI,198,60,173
+Amarillo TX,Dallas TX,323,67,133
+Amarillo TX,Dallas/Fort Worth TX,312,80,152
+Amarillo TX,Denver CO,359,85,170
+Amarillo TX,Houston TX,517,109,209
+Amarillo TX,Las Vegas NV,758,118,141
+Anchorage AK,Barrow AK,725,114,237
+Anchorage AK,Bethel AK,399,73,186
+Anchorage AK,Cold Bay AK,620,105,354
+Anchorage AK,Cordova AK,160,51,174
+Anchorage AK,Deadhorse AK,626,101,376
+Anchorage AK,Denver CO,2405,319,286
+Anchorage AK,Dillingham AK,329,64,274
+Anchorage AK,Fairbanks AK,261,61,155
+Anchorage AK,Honolulu HI,2777,365,319
+Anchorage AK,Juneau AK,571,102,223
+Anchorage AK,Kahului HI,2797,362,359
+Anchorage AK,King Salmon AK,288,68,275
+Anchorage AK,Kodiak AK,253,59,194
+Anchorage AK,Kona HI,2874,370,341
+Anchorage AK,Kotzebue AK,548,91,242
+Anchorage AK,Los Angeles CA,2345,316,239
+Anchorage AK,Minneapolis MN,2519,332,313
+Anchorage AK,Nome AK,539,94,228
+Anchorage AK,Phoenix AZ,2552,336,239
+Anchorage AK,Portland OR,1542,217,237
+Anchorage AK,Salt Lake City UT,2125,287,259
+Anchorage AK,Seattle WA,1448,208,230
+Appleton WI,Atlanta GA,765,131,225
+Appleton WI,Charlotte NC,742,139,192
+Appleton WI,Chicago IL,161,69,215
+Appleton WI,Detroit MI,296,81,202
+Appleton WI,Las Vegas NV,1510,217,149
+Appleton WI,Minneapolis MN,236,71,184
+Appleton WI,Nashville TN,570,96,100
+Appleton WI,Phoenix AZ,1452,200,153
+Appleton WI,Punta Gorda FL,1250,183,134
+Appleton WI,Sanford FL,1141,168,121
+Appleton WI,St. Petersburg FL,1173,173,120
+Arcata/Eureka CA,Los Angeles CA,577,106,193
+Arcata/Eureka CA,San Francisco CA,250,62,221
+Asheville NC,Atlanta GA,164,54,200
+Asheville NC,Baltimore MD,414,79,93
+Asheville NC,Boston MA,783,128,118
+Asheville NC,Charlotte NC,91,63,157
+Asheville NC,Chicago IL,536,115,157
+Asheville NC,Dallas/Fort Worth TX,848,143,195
+Asheville NC,Fort Lauderdale FL,660,113,79
+Asheville NC,Houston TX,843,133,138
+Asheville NC,Newark NJ,583,108,120
+Asheville NC,Philadelphia PA,504,98,172
+Asheville NC,Punta Gorda FL,588,98,60
+Asheville NC,Sanford FL,465,86,49
+Asheville NC,Sarasota/Bradenton FL,554,97,75
+Asheville NC,St. Petersburg FL,519,94,54
+Asheville NC,Washington DC,370,93,170
+Asheville NC,West Palm Beach/Palm Beach FL,620,108,92
+Ashland WV,Charlotte NC,235,82,67
+Ashland WV,Punta Gorda FL,790,117,74
+Ashland WV,Sanford FL,665,106,57
+Ashland WV,St. Petersburg FL,721,111,67
+Aspen CO,Chicago IL,1013,176,247
+Aspen CO,Dallas/Fort Worth TX,701,140,308
+Aspen CO,Denver CO,125,57,244
+Aspen CO,Houston TX,913,159,330
+Aspen CO,Los Angeles CA,737,127,256
+Aspen CO,Phoenix AZ,491,111,221
+Aspen CO,San Francisco CA,848,146,276
+Atlanta GA,Augusta GA,143,52,128
+Atlanta GA,Austin TX,813,131,162
+Atlanta GA,Baltimore MD,577,105,128
+Atlanta GA,Baton Rouge LA,448,87,226
+Atlanta GA,Birmingham AL,134,52,215
+Atlanta GA,Bloomington/Normal IL,533,101,227
+Atlanta GA,Boise ID,1838,255,242
+Atlanta GA,Boston MA,946,152,175
+Atlanta GA,Bozeman MT,1640,229,310
+Atlanta GA,Bristol/Johnson City/Kingsport TN,227,60,192
+Atlanta GA,Brunswick GA,238,62,167
+Atlanta GA,Buffalo NY,712,122,183
+Atlanta GA,Charleston SC,259,68,205
+Atlanta GA,Charleston/Dunbar WV,363,80,169
+Atlanta GA,Charlotte Amalie VI,1599,224,223
+Atlanta GA,Charlotte NC,226,69,148
+Atlanta GA,Charlottesville VA,457,90,203
+Atlanta GA,Chattanooga TN,106,44,166
+Atlanta GA,Chicago IL,600,116,139
+Atlanta GA,Christiansted VI,1638,233,166
+Atlanta GA,Cincinnati OH,373,83,224
+Atlanta GA,Cleveland OH,554,102,130
+Atlanta GA,Columbia SC,192,61,191
+Atlanta GA,Columbus GA,83,45,122
+Atlanta GA,Columbus MS,241,63,173
+Atlanta GA,Columbus OH,447,88,150
+Atlanta GA,Dallas TX,721,121,132
+Atlanta GA,Dallas/Fort Worth TX,731,133,132
+Atlanta GA,Dayton OH,432,92,224
+Atlanta GA,Daytona Beach FL,366,76,199
+Atlanta GA,Denver CO,1199,180,163
+Atlanta GA,Des Moines IA,743,126,212
+Atlanta GA,Detroit MI,594,112,172
+Atlanta GA,Dothan AL,170,55,135
+Atlanta GA,Eagle CO,1312,189,355
+Atlanta GA,El Paso TX,1282,183,228
+Atlanta GA,Evansville IN,350,78,182
+Atlanta GA,Fayetteville AR,589,106,250
+Atlanta GA,Fayetteville NC,331,75,222
+Atlanta GA,Fort Lauderdale FL,581,108,115
+Atlanta GA,Fort Myers FL,515,97,195
+Atlanta GA,Fort Wayne IN,508,101,200
+Atlanta GA,Gainesville FL,300,69,207
+Atlanta GA,Grand Rapids MI,640,114,204
+Atlanta GA,Green Bay WI,774,133,293
+Atlanta GA,Greensboro/High Point NC,306,75,162
+Atlanta GA,Greer SC,153,53,137
+Atlanta GA,Gulfport/Biloxi MS,352,76,219
+Atlanta GA,Harrisburg PA,620,111,242
+Atlanta GA,Hartford CT,859,137,201
+Atlanta GA,Hilton Head SC,238,71,161
+Atlanta GA,Honolulu HI,4502,548,496
+Atlanta GA,Houston TX,692,120,135
+Atlanta GA,Huntsville AL,151,53,196
+Atlanta GA,Indianapolis IN,432,87,156
+Atlanta GA,Jackson WY,1572,225,263
+Atlanta GA,Jackson/Vicksburg MS,341,75,249
+Atlanta GA,Jacksonville FL,270,65,142
+Atlanta GA,Jacksonville/Camp Lejeune NC,399,84,217
+Atlanta GA,Kansas City MO,692,121,171
+Atlanta GA,Key West FL,646,113,254
+Atlanta GA,Knoxville TN,152,52,174
+Atlanta GA,Lafayette LA,503,97,220
+Atlanta GA,Las Vegas NV,1747,241,164
+Atlanta GA,Lexington KY,304,80,210
+Atlanta GA,Little Rock AR,453,88,154
+Atlanta GA,Los Angeles CA,1947,266,214
+Atlanta GA,Louisville KY,321,79,149
+Atlanta GA,Madison WI,707,120,225
+Atlanta GA,Melbourne FL,442,86,188
+Atlanta GA,Memphis TN,332,74,151
+Atlanta GA,Miami FL,594,109,139
+Atlanta GA,Milwaukee WI,669,116,182
+Atlanta GA,Minneapolis MN,907,147,188
+Atlanta GA,Mobile AL,302,69,236
+Atlanta GA,Moline IL,633,111,228
+Atlanta GA,Monroe LA,448,90,258
+Atlanta GA,Montgomery AL,147,52,169
+Atlanta GA,Myrtle Beach SC,317,71,222
+Atlanta GA,Nashville TN,214,60,148
+Atlanta GA,New Orleans LA,425,84,118
+Atlanta GA,New York NY,761,128,163
+Atlanta GA,Newark NJ,746,126,160
+Atlanta GA,Norfolk VA,516,98,162
+Atlanta GA,Oklahoma City OK,761,123,183
+Atlanta GA,Omaha NE,821,135,176
+Atlanta GA,Ontario CA,1900,258,244
+Atlanta GA,Orlando FL,404,84,116
+Atlanta GA,Palm Springs CA,1840,250,237
+Atlanta GA,Panama City FL,240,63,191
+Atlanta GA,Pensacola FL,271,67,180
+Atlanta GA,Philadelphia PA,666,118,124
+Atlanta GA,Phoenix AZ,1587,225,248
+Atlanta GA,Pittsburgh PA,526,98,180
+Atlanta GA,Portland ME,1027,155,197
+Atlanta GA,Portland OR,2172,290,255
+Atlanta GA,Raleigh/Durham NC,356,78,133
+Atlanta GA,Reno NV,1993,273,213
+Atlanta GA,Richmond VA,481,93,152
+Atlanta GA,Roanoke VA,357,81,190
+Atlanta GA,Rochester NY,749,127,185
+Atlanta GA,Sacramento CA,2092,280,239
+Atlanta GA,Salt Lake City UT,1590,228,298
+Atlanta GA,San Antonio TX,874,140,191
+Atlanta GA,San Diego CA,1892,256,234
+Atlanta GA,San Francisco CA,2139,286,285
+Atlanta GA,San Juan PR,1547,218,153
+Atlanta GA,Santa Ana CA,1919,265,274
+Atlanta GA,Sarasota/Bradenton FL,444,90,162
+Atlanta GA,Savannah GA,214,61,196
+Atlanta GA,Seattle WA,2182,297,225
+Atlanta GA,Shreveport LA,551,100,259
+Atlanta GA,South Bend IN,566,110,224
+Atlanta GA,Spokane WA,1969,269,219
+Atlanta GA,Springfield MO,563,105,238
+Atlanta GA,St. Louis MO,484,93,160
+Atlanta GA,Syracuse NY,794,133,208
+Atlanta GA,Tallahassee FL,223,64,190
+Atlanta GA,Tampa FL,406,84,138
+Atlanta GA,Trenton NJ,701,123,40
+Atlanta GA,Tucson AZ,1541,218,235
+Atlanta GA,Tulsa OK,674,116,191
+Atlanta GA,Valdosta GA,208,62,137
+Atlanta GA,Valparaiso FL,250,67,209
+Atlanta GA,Washington DC,541,101,168
+Atlanta GA,West Palm Beach/Palm Beach FL,545,103,196
+Atlanta GA,Wichita KS,782,128,236
+Atlanta GA,Wilmington NC,377,80,235
+Atlantic City NJ,Fort Lauderdale FL,977,154,68
+Atlantic City NJ,Fort Myers FL,982,157,61
+Atlantic City NJ,Myrtle Beach SC,466,88,49
+Atlantic City NJ,Orlando FL,852,138,65
+Atlantic City NJ,Tampa FL,913,146,56
+Atlantic City NJ,West Palm Beach/Palm Beach FL,936,146,74
+Augusta GA,Charlotte NC,140,64,104
+Augusta GA,Dallas/Fort Worth TX,874,152,196
+Austin TX,Baltimore MD,1342,196,173
+Austin TX,Boston MA,1698,245,187
+Austin TX,Charlotte NC,1032,167,203
+Austin TX,Chicago IL,975,160,162
+Austin TX,Cincinnati OH,958,148,142
+Austin TX,Dallas TX,189,53,158
+Austin TX,Dallas/Fort Worth TX,190,70,153
+Austin TX,Denver CO,775,127,144
+Austin TX,Detroit MI,1149,181,201
+Austin TX,El Paso TX,528,89,166
+Austin TX,Fort Lauderdale FL,1105,166,116
+Austin TX,Harlingen/San Benito TX,273,66,140
+Austin TX,Houston TX,143,55,168
+Austin TX,Indianapolis IN,919,157,152
+Austin TX,Kansas City MO,650,112,165
+Austin TX,Knoxville TN,882,147,174
+Austin TX,Las Vegas NV,1090,162,130
+Austin TX,Long Beach CA,1226,175,110
+Austin TX,Los Angeles CA,1242,183,133
+Austin TX,Memphis TN,559,103,116
+Austin TX,Miami FL,1103,172,154
+Austin TX,Minneapolis MN,1042,162,195
+Austin TX,Nashville TN,756,124,163
+Austin TX,New Orleans LA,444,82,133
+Austin TX,New York NY,1521,227,226
+Austin TX,Newark NJ,1504,222,151
+Austin TX,Oakland CA,1497,212,163
+Austin TX,Orlando FL,994,155,118
+Austin TX,Phoenix AZ,872,139,190
+Austin TX,Raleigh/Durham NC,1162,166,160
+Austin TX,Sacramento CA,1481,207,180
+Austin TX,Salt Lake City UT,1086,168,222
+Austin TX,San Diego CA,1164,175,160
+Austin TX,San Francisco CA,1504,218,197
+Austin TX,San Jose CA,1476,217,165
+Austin TX,Seattle WA,1770,252,183
+Austin TX,St. Louis MO,721,122,153
+Austin TX,Tampa FL,928,144,177
+Austin TX,Washington DC,1298,201,206
+Bakersfield CA,Dallas/Fort Worth TX,1271,202,218
+Bakersfield CA,Denver CO,845,143,241
+Bakersfield CA,Phoenix AZ,425,100,133
+Bakersfield CA,San Francisco CA,238,61,206
+Baltimore MD,Birmingham AL,682,112,158
+Baltimore MD,Boston MA,369,80,120
+Baltimore MD,Buffalo NY,281,68,122
+Baltimore MD,Charleston SC,472,89,148
+Baltimore MD,Charlotte NC,361,86,111
+Baltimore MD,Chicago IL,615,114,124
+Baltimore MD,Cincinnati OH,430,89,130
+Baltimore MD,Cleveland OH,314,72,129
+Baltimore MD,Columbus OH,337,74,140
+Baltimore MD,Dallas TX,1209,177,155
+Baltimore MD,Dallas/Fort Worth TX,1217,191,143
+Baltimore MD,Denver CO,1491,214,145
+Baltimore MD,Detroit MI,409,89,134
+Baltimore MD,Fort Lauderdale FL,925,146,131
+Baltimore MD,Fort Myers FL,919,146,190
+Baltimore MD,Grand Rapids MI,528,98,136
+Baltimore MD,Greer SC,426,82,119
+Baltimore MD,Hartford CT,283,66,140
+Baltimore MD,Houston TX,1242,185,143
+Baltimore MD,Indianapolis IN,516,97,160
+Baltimore MD,Islip NY,220,65,132
+Baltimore MD,Jacksonville FL,663,110,174
+Baltimore MD,Kansas City MO,967,150,171
+Baltimore MD,Las Vegas NV,2106,285,156
+Baltimore MD,Los Angeles CA,2329,311,139
+Baltimore MD,Louisville KY,495,95,133
+Baltimore MD,Manchester NH,377,81,125
+Baltimore MD,Miami FL,946,151,137
+Baltimore MD,Milwaukee WI,641,110,155
+Baltimore MD,Minneapolis MN,936,149,160
+Baltimore MD,Myrtle Beach SC,399,78,78
+Baltimore MD,Nashville TN,587,103,150
+Baltimore MD,New Orleans LA,998,149,140
+Baltimore MD,Norfolk VA,159,51,134
+Baltimore MD,Oakland CA,2447,329,186
+Baltimore MD,Orlando FL,787,129,118
+Baltimore MD,Phoenix AZ,1999,272,199
+Baltimore MD,Pittsburgh PA,210,60,108
+Baltimore MD,Portland ME,452,88,123
+Baltimore MD,Providence RI,327,71,140
+Baltimore MD,Raleigh/Durham NC,255,61,134
+Baltimore MD,Rochester NY,277,70,125
+Baltimore MD,Salt Lake City UT,1865,263,210
+Baltimore MD,San Antonio TX,1407,202,201
+Baltimore MD,San Diego CA,2295,305,192
+Baltimore MD,San Juan PR,1565,239,139
+Baltimore MD,Sarasota/Bradenton FL,880,140,146
+Baltimore MD,Savannah GA,549,105,121
+Baltimore MD,Seattle WA,2335,320,195
+Baltimore MD,St. Louis MO,738,122,164
+Baltimore MD,Tampa FL,842,136,143
+Baltimore MD,West Palm Beach/Palm Beach FL,883,140,207
+Bangor ME,Charlotte NC,921,156,177
+Bangor ME,Philadelphia PA,473,107,164
+Bangor ME,Sanford FL,1299,189,104
+Bangor ME,St. Petersburg FL,1394,201,101
+Bangor ME,Washington DC,597,115,152
+Baton Rouge LA,Charlotte NC,675,129,215
+Baton Rouge LA,Dallas/Fort Worth TX,383,93,166
+Baton Rouge LA,Houston TX,253,69,237
+Beaumont/Port Arthur TX,Dallas/Fort Worth TX,270,81,148
+Belleville IL,Fort Lauderdale FL,1028,160,78
+Belleville IL,Phoenix AZ,1272,183,66
+Belleville IL,Punta Gorda FL,921,143,86
+Belleville IL,Sanford FL,835,132,75
+Belleville IL,Sarasota/Bradenton FL,876,136,74
+Belleville IL,St. Petersburg FL,841,131,78
+Belleville IL,Valparaiso FL,587,102,78
+Bellingham WA,Las Vegas NV,954,149,73
+Bellingham WA,Los Angeles CA,1047,162,128
+Bellingham WA,Oakland CA,764,123,84
+Bellingham WA,Palm Springs CA,1078,166,95
+Bellingham WA,Phoenix AZ,1208,178,113
+Bellingham WA,Seattle WA,93,40,121
+Bemidji MN,Minneapolis MN,199,60,246
+Bend/Redmond OR,Denver CO,898,155,200
+Bend/Redmond OR,Los Angeles CA,726,126,166
+Bend/Redmond OR,Phoenix AZ,895,154,142
+Bend/Redmond OR,Portland OR,116,45,174
+Bend/Redmond OR,Salt Lake City UT,525,101,165
+Bend/Redmond OR,San Diego CA,823,135,145
+Bend/Redmond OR,San Francisco CA,462,93,177
+Bend/Redmond OR,Seattle WA,228,66,105
+Billings MT,Dallas/Fort Worth TX,1081,177,207
+Billings MT,Denver CO,455,92,197
+Billings MT,Las Vegas NV,754,123,136
+Billings MT,Minneapolis MN,748,130,213
+Billings MT,Phoenix AZ,874,142,136
+Billings MT,Portland OR,679,117,151
+Billings MT,Salt Lake City UT,387,83,235
+Billings MT,Seattle WA,664,134,153
+Binghamton NY,Detroit MI,378,87,137
+Birmingham AL,Charlotte NC,350,95,189
+Birmingham AL,Chicago IL,578,113,142
+Birmingham AL,Dallas TX,587,98,125
+Birmingham AL,Dallas/Fort Worth TX,597,120,157
+Birmingham AL,Denver CO,1083,173,197
+Birmingham AL,Houston TX,562,107,175
+Birmingham AL,Las Vegas NV,1618,220,208
+Birmingham AL,Miami FL,661,120,192
+Birmingham AL,Orlando FL,479,88,164
+Birmingham AL,Tampa FL,459,81,176
+Bismarck/Mandan ND,Dallas/Fort Worth TX,977,171,217
+Bismarck/Mandan ND,Denver CO,516,108,253
+Bismarck/Mandan ND,Las Vegas NV,1048,165,118
+Bismarck/Mandan ND,Minneapolis MN,386,85,226
+Bismarck/Mandan ND,Phoenix AZ,1093,173,135
+Bismarck/Mandan ND,Sanford FL,1628,228,112
+Bloomington/Normal IL,Chicago IL,116,54,212
+Bloomington/Normal IL,Dallas/Fort Worth TX,690,139,177
+Bloomington/Normal IL,Denver CO,834,136,190
+Bloomington/Normal IL,Detroit MI,313,82,298
+Bloomington/Normal IL,Orlando FL,936,157,98
+Bloomington/Normal IL,Sanford FL,917,147,73
+Bloomington/Normal IL,St. Petersburg FL,936,147,97
+Boise ID,Chicago IL,1437,221,200
+Boise ID,Dallas/Fort Worth TX,1272,197,207
+Boise ID,Denver CO,649,114,167
+Boise ID,Houston TX,1482,220,220
+Boise ID,Las Vegas NV,519,99,132
+Boise ID,Los Angeles CA,674,124,109
+Boise ID,Minneapolis MN,1142,177,196
+Boise ID,Oakland CA,512,92,127
+Boise ID,Palm Springs CA,672,126,114
+Boise ID,Phoenix AZ,736,129,134
+Boise ID,Portland OR,344,80,146
+Boise ID,Sacramento CA,437,90,117
+Boise ID,Salt Lake City UT,290,71,208
+Boise ID,San Diego CA,749,131,139
+Boise ID,San Francisco CA,522,100,131
+Boise ID,San Jose CA,523,101,143
+Boise ID,Seattle WA,399,89,104
+Boise ID,Spokane WA,287,72,135
+Boston MA,Bozeman MT,1991,270,203
+Boston MA,Buffalo NY,395,79,137
+Boston MA,Charleston SC,818,134,187
+Boston MA,Charlotte Amalie VI,1693,242,234
+Boston MA,Charlotte NC,728,134,165
+Boston MA,Chicago IL,866,149,119
+Boston MA,Cincinnati OH,752,131,196
+Boston MA,Cleveland OH,563,109,156
+Boston MA,Dallas/Fort Worth TX,1562,236,200
+Boston MA,Denver CO,1754,245,207
+Boston MA,Detroit MI,632,117,182
+Boston MA,Fort Lauderdale FL,1237,191,142
+Boston MA,Fort Myers FL,1249,194,167
+Boston MA,Hayden CO,1871,268,190
+Boston MA,Honolulu HI,5095,630,402
+Boston MA,Houston TX,1597,233,213
+Boston MA,Jacksonville FL,1010,160,136
+Boston MA,Key West FL,1373,217,189
+Boston MA,Las Vegas NV,2381,320,197
+Boston MA,Los Angeles CA,2611,347,263
+Boston MA,Miami FL,1258,197,143
+Boston MA,Minneapolis MN,1124,173,212
+Boston MA,Montrose/Delta CO,1947,270,210
+Boston MA,Myrtle Beach SC,738,121,106
+Boston MA,Nashville TN,942,151,167
+Boston MA,New Orleans LA,1368,201,150
+Boston MA,New York NY,186,64,139
+Boston MA,Newark NJ,200,68,128
+Boston MA,Orlando FL,1121,177,117
+Boston MA,Palm Springs CA,2517,330,224
+Boston MA,Philadelphia PA,280,82,172
+Boston MA,Phoenix AZ,2300,312,230
+Boston MA,Pittsburgh PA,496,100,154
+Boston MA,Raleigh/Durham NC,612,117,154
+Boston MA,Richmond VA,474,97,125
+Boston MA,Rochester NY,343,75,138
+Boston MA,Salt Lake City UT,2105,293,252
+Boston MA,San Diego CA,2588,341,209
+Boston MA,San Francisco CA,2704,359,280
+Boston MA,San Juan PR,1674,241,157
+Boston MA,Sarasota/Bradenton FL,1220,190,149
+Boston MA,Savannah GA,901,147,183
+Boston MA,Seattle WA,2496,340,225
+Boston MA,St. Louis MO,1047,153,200
+Boston MA,Tampa FL,1185,183,135
+Boston MA,Valparaiso FL,1187,178,166
+Boston MA,Washington DC,402,88,129
+Boston MA,West Palm Beach/Palm Beach FL,1197,186,191
+Bozeman MT,Charlotte NC,1736,260,213
+Bozeman MT,Chicago IL,1186,190,236
+Bozeman MT,Dallas/Fort Worth TX,1163,187,246
+Bozeman MT,Denver CO,524,103,170
+Bozeman MT,Fort Lauderdale FL,2183,296,213
+Bozeman MT,Houston TX,1385,207,278
+Bozeman MT,Las Vegas NV,701,120,120
+Bozeman MT,Los Angeles CA,902,153,177
+Bozeman MT,Minneapolis MN,874,140,217
+Bozeman MT,Nashville TN,1435,207,139
+Bozeman MT,New York NY,1902,262,180
+Bozeman MT,Newark NJ,1882,267,341
+Bozeman MT,Pasco/Kennewick/Richland WA,385,81,144
+Bozeman MT,Phoenix AZ,861,137,144
+Bozeman MT,Portland OR,554,98,111
+Bozeman MT,Salt Lake City UT,347,79,160
+Bozeman MT,San Francisco CA,807,141,223
+Bozeman MT,Seattle WA,543,106,140
+Brainerd MN,Minneapolis MN,114,48,100
+Bristol/Johnson City/Kingsport TN,Charlotte NC,119,69,162
+Bristol/Johnson City/Kingsport TN,Dallas/Fort Worth TX,868,150,178
+Bristol/Johnson City/Kingsport TN,Sanford FL,535,91,46
+Brownsville TX,Dallas/Fort Worth TX,482,103,147
+Brownsville TX,Houston TX,308,79,157
+Buffalo NY,Charlotte NC,546,112,163
+Buffalo NY,Chicago IL,471,102,137
+Buffalo NY,Dallas/Fort Worth TX,1212,200,240
+Buffalo NY,Denver CO,1359,193,165
+Buffalo NY,Detroit MI,241,70,173
+Buffalo NY,Fort Lauderdale FL,1166,176,181
+Buffalo NY,Fort Myers FL,1144,176,164
+Buffalo NY,Las Vegas NV,1986,265,191
+Buffalo NY,Los Angeles CA,2218,301,194
+Buffalo NY,New York NY,301,81,167
+Buffalo NY,Newark NJ,282,80,154
+Buffalo NY,Orlando FL,1011,154,141
+Buffalo NY,Philadelphia PA,279,79,181
+Buffalo NY,Phoenix AZ,1912,268,206
+Buffalo NY,Tampa FL,1053,159,167
+Buffalo NY,Washington DC,283,77,140
+Burbank CA,Chicago IL,1740,241,183
+Burbank CA,Dallas TX,1243,187,171
+Burbank CA,Dallas/Fort Worth TX,1231,194,220
+Burbank CA,Denver CO,850,137,137
+Burbank CA,Houston TX,1389,196,143
+Burbank CA,Las Vegas NV,223,59,117
+Burbank CA,Nashville TN,1791,248,158
+Burbank CA,Oakland CA,325,67,130
+Burbank CA,Phoenix AZ,369,89,120
+Burbank CA,Portland OR,817,134,164
+Burbank CA,Sacramento CA,358,71,131
+Burbank CA,Salt Lake City UT,574,112,181
+Burbank CA,San Francisco CA,326,68,108
+Burbank CA,San Jose CA,296,61,125
+Burbank CA,Seattle WA,937,152,152
+Burlington VT,Charlotte NC,761,144,178
+Burlington VT,Chicago IL,763,143,265
+Burlington VT,Detroit MI,537,109,239
+Burlington VT,New York NY,266,70,150
+Burlington VT,Newark NJ,266,76,154
+Burlington VT,Orlando FL,1194,193,141
+Burlington VT,Philadelphia PA,335,89,145
+Burlington VT,Washington DC,441,100,202
+Butte MT,Salt Lake City UT,358,79,140
+Cape Girardeau MO,Chicago IL,339,89,0
+Casper WY,Denver CO,230,69,226
+Casper WY,Salt Lake City UT,320,78,130
+Cedar City UT,Salt Lake City UT,221,61,92
+Cedar Rapids/Iowa City IA,Charlotte NC,742,145,215
+Cedar Rapids/Iowa City IA,Chicago IL,196,70,208
+Cedar Rapids/Iowa City IA,Dallas/Fort Worth TX,685,133,215
+Cedar Rapids/Iowa City IA,Denver CO,692,129,142
+Cedar Rapids/Iowa City IA,Detroit MI,430,95,268
+Cedar Rapids/Iowa City IA,Las Vegas NV,1319,191,121
+Cedar Rapids/Iowa City IA,Minneapolis MN,220,70,205
+Cedar Rapids/Iowa City IA,Nashville TN,481,96,83
+Cedar Rapids/Iowa City IA,Phoenix AZ,1250,191,166
+Cedar Rapids/Iowa City IA,Punta Gorda FL,1170,178,129
+Cedar Rapids/Iowa City IA,Sanford FL,1078,170,111
+Cedar Rapids/Iowa City IA,St. Petersburg FL,1090,161,112
+Champaign/Urbana IL,Charlotte NC,522,118,141
+Champaign/Urbana IL,Chicago IL,135,62,215
+Champaign/Urbana IL,Dallas/Fort Worth TX,692,136,179
+Charleston SC,Charlotte NC,168,67,203
+Charleston SC,Chicago IL,754,133,163
+Charleston SC,Cincinnati OH,497,88,116
+Charleston SC,Columbus OH,503,100,125
+Charleston SC,Dallas TX,977,149,148
+Charleston SC,Dallas/Fort Worth TX,987,170,201
+Charleston SC,Denver CO,1449,221,179
+Charleston SC,Detroit MI,667,125,203
+Charleston SC,Fort Lauderdale FL,470,93,145
+Charleston SC,Houston TX,926,150,176
+Charleston SC,Los Angeles CA,2206,304,168
+Charleston SC,Miami FL,489,99,175
+Charleston SC,Nashville TN,439,83,134
+Charleston SC,New York NY,636,117,177
+Charleston SC,Newark NJ,628,117,161
+Charleston SC,Philadelphia PA,550,107,171
+Charleston SC,Pittsburgh PA,524,108,133
+Charleston SC,Punta Gorda FL,428,81,38
+Charleston SC,Seattle WA,2415,326,194
+Charleston SC,Washington DC,442,98,144
+Charleston/Dunbar WV,Charlotte NC,221,79,171
+Charleston/Dunbar WV,Chicago IL,416,100,291
+Charlotte Amalie VI,Charlotte NC,1520,221,184
+Charlotte Amalie VI,Chicago IL,2115,295,271
+Charlotte Amalie VI,Dallas/Fort Worth TX,2225,307,204
+Charlotte Amalie VI,Fort Lauderdale FL,1107,165,78
+Charlotte Amalie VI,Houston TX,2070,282,242
+Charlotte Amalie VI,Miami FL,1107,165,170
+Charlotte Amalie VI,Minneapolis MN,2449,331,252
+Charlotte Amalie VI,New York NY,1623,236,213
+Charlotte Amalie VI,Newark NJ,1634,242,220
+Charlotte Amalie VI,Orlando FL,1246,180,116
+Charlotte Amalie VI,Philadelphia PA,1605,236,201
+Charlotte Amalie VI,San Juan PR,68,34,134
+Charlotte Amalie VI,Washington DC,1606,235,317
+Charlotte NC,Charlottesville VA,245,79,128
+Charlotte NC,Chattanooga TN,241,84,172
+Charlotte NC,Chicago IL,597,116,155
+Charlotte NC,Christiansted VI,1562,228,202
+Charlotte NC,Cincinnati OH,335,95,170
+Charlotte NC,Cleveland OH,430,102,145
+Charlotte NC,Columbia SC,88,62,152
+Charlotte NC,Columbus OH,347,88,168
+Charlotte NC,Dallas TX,926,149,145
+Charlotte NC,Dallas/Fort Worth TX,936,158,204
+Charlotte NC,Dayton OH,370,97,172
+Charlotte NC,Daytona Beach FL,416,96,200
+Charlotte NC,Denver CO,1337,204,125
+Charlotte NC,Des Moines IA,815,154,202
+Charlotte NC,Detroit MI,500,107,143
+Charlotte NC,Erie PA,476,102,152
+Charlotte NC,Evansville IN,414,111,168
+Charlotte NC,Fayetteville AR,754,143,213
+Charlotte NC,Fayetteville NC,118,61,212
+Charlotte NC,Flint MI,555,122,140
+Charlotte NC,Florence SC,99,66,315
+Charlotte NC,Fort Lauderdale FL,632,119,131
+Charlotte NC,Fort Myers FL,600,115,167
+Charlotte NC,Fort Wayne IN,460,104,193
+Charlotte NC,Gainesville FL,388,91,156
+Charlotte NC,Grand Rapids MI,583,116,185
+Charlotte NC,Greensboro/High Point NC,83,60,138
+Charlotte NC,Greenville NC,203,81,139
+Charlotte NC,Greer SC,75,58,136
+Charlotte NC,Gulfport/Biloxi MS,577,116,165
+Charlotte NC,Harrisburg PA,413,103,175
+Charlotte NC,Hartford CT,644,121,181
+Charlotte NC,Hilton Head SC,207,74,139
+Charlotte NC,Houston TX,912,154,186
+Charlotte NC,Huntsville AL,333,93,169
+Charlotte NC,Indianapolis IN,427,103,183
+Charlotte NC,Ithaca/Cortland NY,557,138,167
+Charlotte NC,Jackson WY,1685,260,201
+Charlotte NC,Jackson/Vicksburg MS,562,121,177
+Charlotte NC,Jacksonville FL,328,86,169
+Charlotte NC,Jacksonville/Camp Lejeune NC,191,70,168
+Charlotte NC,Kansas City MO,808,146,208
+Charlotte NC,Key West FL,736,132,241
+Charlotte NC,Knoxville TN,177,73,191
+Charlotte NC,Las Vegas NV,1916,267,212
+Charlotte NC,Lexington KY,281,88,182
+Charlotte NC,Little Rock AR,640,131,183
+Charlotte NC,Los Angeles CA,2125,291,234
+Charlotte NC,Louisville KY,335,92,177
+Charlotte NC,Lynchburg VA,175,72,100
+Charlotte NC,Madison WI,708,140,189
+Charlotte NC,Manchester NH,737,141,160
+Charlotte NC,Melbourne FL,490,107,183
+Charlotte NC,Memphis TN,511,107,162
+Charlotte NC,Miami FL,650,118,161
+Charlotte NC,Milwaukee WI,651,131,191
+Charlotte NC,Minneapolis MN,930,155,198
+Charlotte NC,Mobile AL,526,113,157
+Charlotte NC,Montgomery AL,372,95,173
+Charlotte NC,Montrose/Delta CO,1505,228,209
+Charlotte NC,Myrtle Beach SC,157,67,182
+Charlotte NC,Nashville TN,328,87,141
+Charlotte NC,New Bern/Morehead/Beaufort NC,221,72,206
+Charlotte NC,New Orleans LA,651,120,148
+Charlotte NC,New York NY,543,108,148
+Charlotte NC,Newark NJ,529,108,133
+Charlotte NC,Newport News/Williamsburg VA,282,84,101
+Charlotte NC,Norfolk VA,290,78,135
+Charlotte NC,Oklahoma City OK,940,164,193
+Charlotte NC,Omaha NE,913,167,207
+Charlotte NC,Orlando FL,468,98,118
+Charlotte NC,Panama City FL,437,99,138
+Charlotte NC,Pensacola FL,488,109,138
+Charlotte NC,Peoria IL,607,125,163
+Charlotte NC,Philadelphia PA,449,96,146
+Charlotte NC,Phoenix AZ,1773,250,231
+Charlotte NC,Pittsburgh PA,366,91,153
+Charlotte NC,Portland ME,813,139,169
+Charlotte NC,Portland OR,2282,308,247
+Charlotte NC,Providence RI,683,124,171
+Charlotte NC,Raleigh/Durham NC,130,62,159
+Charlotte NC,Richmond VA,257,79,144
+Charlotte NC,Roanoke VA,155,76,143
+Charlotte NC,Rochester NY,573,120,168
+Charlotte NC,Sacramento CA,2244,303,241
+Charlotte NC,Salisbury MD,371,95,160
+Charlotte NC,Salt Lake City UT,1727,252,238
+Charlotte NC,San Antonio TX,1095,173,205
+Charlotte NC,San Diego CA,2077,289,250
+Charlotte NC,San Francisco CA,2296,313,261
+Charlotte NC,San Juan PR,1475,225,161
+Charlotte NC,Sarasota/Bradenton FL,547,111,176
+Charlotte NC,Savannah GA,213,72,127
+Charlotte NC,Scranton/Wilkes-Barre PA,509,112,173
+Charlotte NC,Seattle WA,2279,313,236
+Charlotte NC,Shreveport LA,764,146,218
+Charlotte NC,Sioux Falls SD,1021,181,179
+Charlotte NC,South Bend IN,534,110,181
+Charlotte NC,Springfield MO,708,140,190
+Charlotte NC,St. Louis MO,575,116,142
+Charlotte NC,Syracuse NY,603,125,175
+Charlotte NC,Tallahassee FL,386,90,127
+Charlotte NC,Tampa FL,507,100,157
+Charlotte NC,Toledo OH,466,108,147
+Charlotte NC,Tulsa OK,842,149,186
+Charlotte NC,Valparaiso FL,460,108,158
+Charlotte NC,Washington DC,327,85,130
+Charlotte NC,West Palm Beach/Palm Beach FL,590,111,290
+Charlotte NC,White Plains NY,564,111,182
+Charlotte NC,Wilmington NC,185,67,224
+Charlottesville VA,Washington DC,77,44,114
+Chattanooga TN,Chicago IL,500,106,284
+Chattanooga TN,Dallas/Fort Worth TX,695,129,205
+Chattanooga TN,Houston TX,686,123,181
+Chattanooga TN,Sanford FL,490,90,48
+Chattanooga TN,St. Petersburg FL,513,91,48
+Cheyenne WY,Denver CO,90,39,2
+Chicago IL,Cincinnati OH,261,77,126
+Chicago IL,Clarksburg/Fairmont WV,444,102,62
+Chicago IL,Cleveland OH,312,78,127
+Chicago IL,Colorado Springs CO,911,157,147
+Chicago IL,Columbia MO,315,88,154
+Chicago IL,Columbia SC,666,129,201
+Chicago IL,Columbus OH,292,77,141
+Chicago IL,Dallas TX,793,128,133
+Chicago IL,Dallas/Fort Worth TX,801,144,150
+Chicago IL,Dayton OH,240,76,164
+Chicago IL,Decatur IL,156,61,0
+Chicago IL,Denver CO,891,145,136
+Chicago IL,Des Moines IA,299,85,140
+Chicago IL,Detroit MI,234,79,154
+Chicago IL,Dubuque IA,147,64,199
+Chicago IL,Duluth MN,397,102,234
+Chicago IL,Eagle CO,1007,165,242
+Chicago IL,Eau Claire WI,269,77,1
+Chicago IL,El Paso TX,1236,195,195
+Chicago IL,Erie PA,398,96,245
+Chicago IL,Evansville IN,272,84,190
+Chicago IL,Fargo ND,557,121,283
+Chicago IL,Fayetteville AR,522,112,262
+Chicago IL,Flint MI,223,75,154
+Chicago IL,Fort Lauderdale FL,1177,184,140
+Chicago IL,Fort Myers FL,1113,173,207
+Chicago IL,Fort Wayne IN,157,68,139
+Chicago IL,Grand Rapids MI,137,61,128
+Chicago IL,Green Bay WI,174,67,191
+Chicago IL,Greensboro/High Point NC,589,117,228
+Chicago IL,Greer SC,577,115,161
+Chicago IL,Hancock/Houghton MI,360,91,14
+Chicago IL,Harrisburg PA,594,114,220
+Chicago IL,Hartford CT,781,140,188
+Chicago IL,Hayden CO,1009,174,163
+Chicago IL,Honolulu HI,4243,527,391
+Chicago IL,Houston TX,929,154,145
+Chicago IL,Huntsville AL,510,106,195
+Chicago IL,Indianapolis IN,177,69,139
+Chicago IL,Jackson WY,1162,187,249
+Chicago IL,Jacksonville FL,863,152,195
+Chicago IL,Johnstown PA,487,105,0
+Chicago IL,Kahului HI,4184,519,425
+Chicago IL,Kalamazoo MI,122,65,140
+Chicago IL,Kalispell MT,1352,224,242
+Chicago IL,Kansas City MO,404,91,140
+Chicago IL,Kearney NE,583,121,62
+Chicago IL,Key West FL,1251,196,274
+Chicago IL,Knoxville TN,475,104,150
+Chicago IL,La Crosse WI,215,76,169
+Chicago IL,Lansing MI,179,74,166
+Chicago IL,Las Vegas NV,1517,217,158
+Chicago IL,Lewisburg WV,489,104,70
+Chicago IL,Lexington KY,323,86,165
+Chicago IL,Lincoln NE,466,106,211
+Chicago IL,Little Rock AR,552,110,171
+Chicago IL,Los Angeles CA,1746,245,174
+Chicago IL,Louisville KY,282,79,126
+Chicago IL,Madison WI,109,58,155
+Chicago IL,Manchester NH,842,148,180
+Chicago IL,Marquette MI,303,88,184
+Chicago IL,Memphis TN,487,104,127
+Chicago IL,Miami FL,1195,185,169
+Chicago IL,Milwaukee WI,67,56,122
+Chicago IL,Minneapolis MN,338,89,142
+Chicago IL,Moline IL,139,63,181
+Chicago IL,Montrose/Delta CO,1081,182,179
+Chicago IL,Mosinee WI,213,78,211
+Chicago IL,Muskegon MI,119,59,0
+Chicago IL,Nashville TN,404,93,121
+Chicago IL,New Orleans LA,832,141,123
+Chicago IL,New York NY,732,133,148
+Chicago IL,Newark NJ,719,132,167
+Chicago IL,Norfolk VA,714,134,147
+Chicago IL,Oakland CA,1844,257,148
+Chicago IL,Ogdensburg NY,654,129,14
+Chicago IL,Oklahoma City OK,692,127,153
+Chicago IL,Omaha NE,418,96,132
+Chicago IL,Ontario CA,1706,241,209
+Chicago IL,Orlando FL,999,161,149
+Chicago IL,Paducah KY,342,87,33
+Chicago IL,Palm Springs CA,1652,246,257
+Chicago IL,Panama City FL,809,150,179
+Chicago IL,Pensacola FL,794,155,185
+Chicago IL,Peoria IL,130,65,311
+Chicago IL,Philadelphia PA,676,124,166
+Chicago IL,Phoenix AZ,1442,208,197
+Chicago IL,Pittsburgh PA,411,92,131
+Chicago IL,Portland ME,900,161,184
+Chicago IL,Portland OR,1742,250,200
+Chicago IL,Providence RI,847,149,176
+Chicago IL,Punta Gorda FL,1076,162,75
+Chicago IL,Raleigh/Durham NC,641,120,150
+Chicago IL,Rapid City SD,780,141,302
+Chicago IL,Richmond VA,642,127,155
+Chicago IL,Roanoke VA,530,113,238
+Chicago IL,Rochester MN,268,81,97
+Chicago IL,Rochester NY,528,110,154
+Chicago IL,Sacramento CA,1786,251,211
+Chicago IL,Saginaw/Bay City/Midland MI,222,72,272
+Chicago IL,Salina KS,559,117,24
+Chicago IL,Salt Lake City UT,1251,201,227
+Chicago IL,San Antonio TX,1041,171,194
+Chicago IL,San Diego CA,1725,243,170
+Chicago IL,San Francisco CA,1847,259,199
+Chicago IL,San Jose CA,1838,256,205
+Chicago IL,San Juan PR,2072,290,177
+Chicago IL,Santa Ana CA,1726,244,231
+Chicago IL,Sarasota/Bradenton FL,1050,176,203
+Chicago IL,Savannah GA,773,141,150
+Chicago IL,Scranton/Wilkes-Barre PA,632,127,221
+Chicago IL,Seattle WA,1723,253,142
+Chicago IL,Sioux City IA,436,98,155
+Chicago IL,Sioux Falls SD,463,104,239
+Chicago IL,South Bend IN,84,55,103
+Chicago IL,Springfield IL,174,65,96
+Chicago IL,Springfield MO,438,103,210
+Chicago IL,St. Louis MO,255,72,143
+Chicago IL,State College PA,528,111,240
+Chicago IL,Staunton VA,541,111,7
+Chicago IL,Sun Valley/Hailey/Ketchum ID,1341,218,333
+Chicago IL,Syracuse NY,607,130,193
+Chicago IL,Tampa FL,1005,158,154
+Chicago IL,Toledo OH,213,72,125
+Chicago IL,Traverse City MI,224,76,218
+Chicago IL,Tucson AZ,1437,218,220
+Chicago IL,Tulsa OK,585,116,159
+Chicago IL,Valparaiso FL,783,137,152
+Chicago IL,Washington DC,602,114,156
+Chicago IL,Waterloo IA,234,70,218
+Chicago IL,Watertown SD,507,106,0
+Chicago IL,West Palm Beach/Palm Beach FL,1143,183,222
+Chicago IL,Wichita KS,588,119,162
+Christiansted VI,Fort Lauderdale FL,1140,166,79
+Christiansted VI,Miami FL,1139,171,144
+Cincinnati OH,Dallas/Fort Worth TX,812,148,192
+Cincinnati OH,Denver CO,1069,169,129
+Cincinnati OH,Detroit MI,229,68,285
+Cincinnati OH,Fort Lauderdale FL,932,153,147
+Cincinnati OH,Fort Myers FL,879,143,180
+Cincinnati OH,Houston TX,875,148,178
+Cincinnati OH,Jacksonville FL,613,105,127
+Cincinnati OH,Las Vegas NV,1678,235,123
+Cincinnati OH,Los Angeles CA,1900,260,209
+Cincinnati OH,Miami FL,948,161,123
+Cincinnati OH,Minneapolis MN,596,111,243
+Cincinnati OH,New Orleans LA,701,120,123
+Cincinnati OH,New York NY,585,112,194
+Cincinnati OH,Newark NJ,569,116,160
+Cincinnati OH,Orlando FL,757,128,137
+Cincinnati OH,Philadelphia PA,507,105,197
+Cincinnati OH,Phoenix AZ,1564,225,138
+Cincinnati OH,Punta Gorda FL,850,135,94
+Cincinnati OH,Salt Lake City UT,1450,212,250
+Cincinnati OH,Sanford FL,735,125,73
+Cincinnati OH,Sarasota/Bradenton FL,812,131,106
+Cincinnati OH,Savannah GA,515,94,98
+Cincinnati OH,St. Petersburg FL,776,124,90
+Cincinnati OH,Tampa FL,773,129,150
+Cincinnati OH,Valparaiso FL,600,108,111
+Cincinnati OH,Washington DC,394,89,132
+Cincinnati OH,West Palm Beach/Palm Beach FL,892,140,141
+Clarksburg/Fairmont WV,Sanford FL,727,113,60
+Clarksburg/Fairmont WV,Washington DC,151,58,20
+Cleveland OH,Dallas TX,1015,149,187
+Cleveland OH,Dallas/Fort Worth TX,1021,174,221
+Cleveland OH,Denver CO,1201,182,157
+Cleveland OH,Detroit MI,95,50,261
+Cleveland OH,Fort Lauderdale FL,1062,165,116
+Cleveland OH,Fort Myers FL,1025,162,142
+Cleveland OH,Houston TX,1091,172,223
+Cleveland OH,Las Vegas NV,1824,252,135
+Cleveland OH,Los Angeles CA,2052,277,162
+Cleveland OH,Miami FL,1080,170,121
+Cleveland OH,Minneapolis MN,622,113,221
+Cleveland OH,Nashville TN,448,87,129
+Cleveland OH,New York NY,419,85,178
+Cleveland OH,Newark NJ,404,87,141
+Cleveland OH,Orlando FL,895,144,113
+Cleveland OH,Philadelphia PA,363,88,175
+Cleveland OH,Phoenix AZ,1737,243,182
+Cleveland OH,Punta Gorda FL,999,150,79
+Cleveland OH,Sarasota/Bradenton FL,967,153,124
+Cleveland OH,Savannah GA,641,112,105
+Cleveland OH,St. Louis MO,487,81,131
+Cleveland OH,Tampa FL,927,150,119
+Cleveland OH,Washington DC,295,74,142
+Cody WY,Denver CO,391,87,181
+College Station/Bryan TX,Dallas/Fort Worth TX,164,66,113
+College Station/Bryan TX,Houston TX,74,47,82
+Colorado Springs CO,Dallas/Fort Worth TX,592,119,155
+Colorado Springs CO,Denver CO,73,48,84
+Colorado Springs CO,Houston TX,809,143,206
+Colorado Springs CO,Las Vegas NV,604,112,94
+Colorado Springs CO,Phoenix AZ,551,104,101
+Colorado Springs CO,Salt Lake City UT,411,100,166
+Columbia MO,Dallas/Fort Worth TX,489,109,156
+Columbia SC,Dallas/Fort Worth TX,922,158,240
+Columbia SC,Washington DC,401,93,196
+Columbus OH,Dallas TX,919,143,146
+Columbus OH,Dallas/Fort Worth TX,926,161,183
+Columbus OH,Denver CO,1154,179,155
+Columbus OH,Detroit MI,155,58,212
+Columbus OH,Fort Lauderdale FL,971,152,129
+Columbus OH,Fort Myers FL,930,149,170
+Columbus OH,Houston TX,986,162,202
+Columbus OH,Las Vegas NV,1771,243,176
+Columbus OH,Miami FL,990,165,145
+Columbus OH,Minneapolis MN,626,114,198
+Columbus OH,Nashville TN,337,75,126
+Columbus OH,New York NY,479,95,181
+Columbus OH,Newark NJ,463,102,150
+Columbus OH,Orlando FL,802,128,133
+Columbus OH,Philadelphia PA,406,92,171
+Columbus OH,Phoenix AZ,1670,237,215
+Columbus OH,Punta Gorda FL,890,137,88
+Columbus OH,Sanford FL,767,130,67
+Columbus OH,Sarasota/Bradenton FL,856,137,147
+Columbus OH,Savannah GA,539,93,119
+Columbus OH,Seattle WA,2016,280,190
+Columbus OH,St. Louis MO,409,74,143
+Columbus OH,St. Petersburg FL,821,136,84
+Columbus OH,Tampa FL,829,131,164
+Columbus OH,Valparaiso FL,675,111,132
+Columbus OH,Washington DC,308,76,130
+Concord NC,Fort Lauderdale FL,643,118,65
+Concord NC,Punta Gorda FL,588,104,58
+Concord NC,Sanford FL,457,86,47
+Concord NC,St. Petersburg FL,528,96,60
+Cordova AK,Yakutat AK,213,54,261
+Corpus Christi TX,Dallas/Fort Worth TX,354,89,209
+Corpus Christi TX,Houston TX,195,58,141
+Dallas TX,Denver CO,651,112,137
+Dallas TX,Detroit MI,981,147,107
+Dallas TX,El Paso TX,562,96,163
+Dallas TX,Fort Lauderdale FL,1108,167,145
+Dallas TX,Fort Myers FL,1005,158,145
+Dallas TX,Hayden CO,779,134,165
+Dallas TX,Houston TX,239,59,165
+Dallas TX,Indianapolis IN,755,120,171
+Dallas TX,Kansas City MO,461,86,151
+Dallas TX,Las Vegas NV,1067,158,159
+Dallas TX,Little Rock AR,296,62,131
+Dallas TX,Los Angeles CA,1246,183,124
+Dallas TX,Louisville KY,725,116,141
+Dallas TX,Lubbock TX,293,65,146
+Dallas TX,Memphis TN,423,79,125
+Dallas TX,Midland/Odessa TX,319,67,148
+Dallas TX,Milwaukee WI,850,137,167
+Dallas TX,Montrose/Delta CO,733,123,142
+Dallas TX,Nashville TN,623,103,161
+Dallas TX,New Orleans LA,436,79,135
+Dallas TX,New York NY,1381,199,103
+Dallas TX,Oakland CA,1468,210,166
+Dallas TX,Omaha NE,586,98,147
+Dallas TX,Ontario CA,1200,175,166
+Dallas TX,Orlando FL,973,151,153
+Dallas TX,Panama City FL,674,109,167
+Dallas TX,Pensacola FL,592,98,156
+Dallas TX,Philadelphia PA,1295,190,188
+Dallas TX,Phoenix AZ,879,139,156
+Dallas TX,Pittsburgh PA,1060,154,157
+Dallas TX,Raleigh/Durham NC,1052,158,183
+Dallas TX,Reno NV,1356,197,166
+Dallas TX,Sacramento CA,1442,205,179
+Dallas TX,Salt Lake City UT,999,158,167
+Dallas TX,San Antonio TX,247,58,149
+Dallas TX,San Diego CA,1182,173,192
+Dallas TX,San Francisco CA,1476,216,168
+Dallas TX,San Jose CA,1450,206,175
+Dallas TX,Santa Ana CA,1216,177,176
+Dallas TX,Seattle WA,1670,240,159
+Dallas TX,St. Louis MO,546,96,166
+Dallas TX,Tampa FL,917,143,141
+Dallas TX,Tulsa OK,238,58,121
+Dallas TX,Washington DC,1184,173,181
+Dallas/Fort Worth TX,Dayton OH,861,152,199
+Dallas/Fort Worth TX,Daytona Beach FL,981,163,182
+Dallas/Fort Worth TX,Del Rio TX,335,84,151
+Dallas/Fort Worth TX,Denver CO,641,119,135
+Dallas/Fort Worth TX,Des Moines IA,624,125,164
+Dallas/Fort Worth TX,Detroit MI,986,164,141
+Dallas/Fort Worth TX,Durango CO,674,131,261
+Dallas/Fort Worth TX,Eagle CO,721,135,347
+Dallas/Fort Worth TX,El Paso TX,551,107,180
+Dallas/Fort Worth TX,Evansville IN,642,127,201
+Dallas/Fort Worth TX,Fargo ND,968,170,226
+Dallas/Fort Worth TX,Fayetteville AR,280,80,191
+Dallas/Fort Worth TX,Flagstaff AZ,853,154,178
+Dallas/Fort Worth TX,Fort Lauderdale FL,1119,177,135
+Dallas/Fort Worth TX,Fort Myers FL,1017,168,252
+Dallas/Fort Worth TX,Fort Smith AR,227,73,122
+Dallas/Fort Worth TX,Fort Wayne IN,859,153,214
+Dallas/Fort Worth TX,Fresno CA,1313,201,250
+Dallas/Fort Worth TX,Gainesville FL,900,157,176
+Dallas/Fort Worth TX,Garden City KS,404,90,203
+Dallas/Fort Worth TX,Grand Island NE,561,116,152
+Dallas/Fort Worth TX,Grand Junction CO,773,139,212
+Dallas/Fort Worth TX,Grand Rapids MI,931,164,214
+Dallas/Fort Worth TX,Greensboro/High Point NC,999,171,197
+Dallas/Fort Worth TX,Greer SC,862,153,208
+Dallas/Fort Worth TX,Gulfport/Biloxi MS,500,107,188
+Dallas/Fort Worth TX,Gunnison CO,678,130,215
+Dallas/Fort Worth TX,Harlingen/San Benito TX,461,96,138
+Dallas/Fort Worth TX,Harrisburg PA,1231,200,266
+Dallas/Fort Worth TX,Hartford CT,1471,221,245
+Dallas/Fort Worth TX,Hayden CO,769,140,199
+Dallas/Fort Worth TX,Honolulu HI,3784,464,422
+Dallas/Fort Worth TX,Houston TX,232,79,146
+Dallas/Fort Worth TX,Huntsville AL,603,122,170
+Dallas/Fort Worth TX,Indianapolis IN,761,138,196
+Dallas/Fort Worth TX,Jackson WY,1047,175,276
+Dallas/Fort Worth TX,Jackson/Vicksburg MS,408,92,188
+Dallas/Fort Worth TX,Jacksonville FL,918,154,211
+Dallas/Fort Worth TX,Joplin MO,327,88,120
+Dallas/Fort Worth TX,Kahului HI,3711,455,546
+Dallas/Fort Worth TX,Kansas City MO,460,103,150
+Dallas/Fort Worth TX,Key West FL,1089,173,259
+Dallas/Fort Worth TX,Killeen TX,134,65,223
+Dallas/Fort Worth TX,Knoxville TN,771,136,210
+Dallas/Fort Worth TX,Kona HI,3724,460,503
+Dallas/Fort Worth TX,Lafayette LA,351,90,196
+Dallas/Fort Worth TX,Lake Charles LA,295,80,171
+Dallas/Fort Worth TX,Laredo TX,396,89,178
+Dallas/Fort Worth TX,Las Vegas NV,1055,165,147
+Dallas/Fort Worth TX,Lawton/Fort Sill OK,140,63,185
+Dallas/Fort Worth TX,Lexington KY,785,142,204
+Dallas/Fort Worth TX,Little Rock AR,304,82,140
+Dallas/Fort Worth TX,Longview TX,140,62,182
+Dallas/Fort Worth TX,Los Angeles CA,1235,185,149
+Dallas/Fort Worth TX,Louisville KY,733,136,191
+Dallas/Fort Worth TX,Lubbock TX,282,79,150
+Dallas/Fort Worth TX,Madison WI,821,146,188
+Dallas/Fort Worth TX,Manhattan/Ft. Riley KS,431,99,155
+Dallas/Fort Worth TX,Memphis TN,431,103,139
+Dallas/Fort Worth TX,Miami FL,1121,176,196
+Dallas/Fort Worth TX,Midland/Odessa TX,309,80,163
+Dallas/Fort Worth TX,Milwaukee WI,853,154,218
+Dallas/Fort Worth TX,Minneapolis MN,852,151,153
+Dallas/Fort Worth TX,Mission/McAllen/Edinburg TX,469,102,158
+Dallas/Fort Worth TX,Missoula MT,1320,207,177
+Dallas/Fort Worth TX,Mobile AL,539,113,194
+Dallas/Fort Worth TX,Moline IL,691,133,164
+Dallas/Fort Worth TX,Monroe LA,293,79,178
+Dallas/Fort Worth TX,Monterey CA,1430,218,284
+Dallas/Fort Worth TX,Montgomery AL,622,124,190
+Dallas/Fort Worth TX,Montrose/Delta CO,722,131,219
+Dallas/Fort Worth TX,Myrtle Beach SC,1048,178,175
+Dallas/Fort Worth TX,Nashville TN,631,119,169
+Dallas/Fort Worth TX,New Orleans LA,447,97,133
+Dallas/Fort Worth TX,New York NY,1389,213,147
+Dallas/Fort Worth TX,Newark NJ,1372,215,176
+Dallas/Fort Worth TX,Norfolk VA,1212,198,213
+Dallas/Fort Worth TX,Oklahoma City OK,175,69,200
+Dallas/Fort Worth TX,Omaha NE,583,119,194
+Dallas/Fort Worth TX,Ontario CA,1188,185,202
+Dallas/Fort Worth TX,Orlando FL,985,164,146
+Dallas/Fort Worth TX,Palm Springs CA,1126,178,263
+Dallas/Fort Worth TX,Panama City FL,685,131,199
+Dallas/Fort Worth TX,Pensacola FL,604,120,183
+Dallas/Fort Worth TX,Peoria IL,672,126,151
+Dallas/Fort Worth TX,Philadelphia PA,1303,201,204
+Dallas/Fort Worth TX,Phoenix AZ,868,148,174
+Dallas/Fort Worth TX,Pittsburgh PA,1067,176,214
+Dallas/Fort Worth TX,Portland OR,1616,236,205
+Dallas/Fort Worth TX,Raleigh/Durham NC,1061,178,230
+Dallas/Fort Worth TX,Rapid City SD,835,142,214
+Dallas/Fort Worth TX,Reno NV,1345,206,213
+Dallas/Fort Worth TX,Richmond VA,1158,192,209
+Dallas/Fort Worth TX,Roswell NM,435,95,110
+Dallas/Fort Worth TX,Sacramento CA,1431,212,211
+Dallas/Fort Worth TX,Salt Lake City UT,989,164,222
+Dallas/Fort Worth TX,San Angelo TX,229,71,179
+Dallas/Fort Worth TX,San Antonio TX,247,73,173
+Dallas/Fort Worth TX,San Diego CA,1171,182,205
+Dallas/Fort Worth TX,San Francisco CA,1464,221,206
+Dallas/Fort Worth TX,San Jose CA,1438,217,225
+Dallas/Fort Worth TX,San Juan PR,2165,298,167
+Dallas/Fort Worth TX,San Luis Obispo CA,1360,209,225
+Dallas/Fort Worth TX,Santa Ana CA,1205,188,237
+Dallas/Fort Worth TX,Santa Barbara CA,1316,198,214
+Dallas/Fort Worth TX,Santa Fe NM,551,112,183
+Dallas/Fort Worth TX,Santa Rosa CA,1495,218,227
+Dallas/Fort Worth TX,Sarasota/Bradenton FL,945,172,224
+Dallas/Fort Worth TX,Savannah GA,925,159,205
+Dallas/Fort Worth TX,Seattle WA,1660,246,186
+Dallas/Fort Worth TX,Shreveport LA,190,71,187
+Dallas/Fort Worth TX,Sioux Falls SD,737,136,190
+Dallas/Fort Worth TX,South Bend IN,846,152,230
+Dallas/Fort Worth TX,Spokane WA,1477,228,212
+Dallas/Fort Worth TX,Springfield IL,630,126,146
+Dallas/Fort Worth TX,Springfield MO,364,93,172
+Dallas/Fort Worth TX,St. Louis MO,550,112,159
+Dallas/Fort Worth TX,Stillwater OK,225,68,161
+Dallas/Fort Worth TX,Tallahassee FL,767,141,197
+Dallas/Fort Worth TX,Tampa FL,929,155,156
+Dallas/Fort Worth TX,Texarkana AR,181,66,178
+Dallas/Fort Worth TX,Tucson AZ,813,136,204
+Dallas/Fort Worth TX,Tulsa OK,237,74,144
+Dallas/Fort Worth TX,Tyler TX,102,54,154
+Dallas/Fort Worth TX,Valparaiso FL,641,130,227
+Dallas/Fort Worth TX,Waco TX,89,50,148
+Dallas/Fort Worth TX,Washington DC,1184,187,221
+Dallas/Fort Worth TX,West Palm Beach/Palm Beach FL,1102,178,251
+Dallas/Fort Worth TX,Wichita Falls TX,113,61,140
+Dallas/Fort Worth TX,Wichita KS,328,83,195
+Dallas/Fort Worth TX,Wilmington NC,1106,183,195
+Dallas/Fort Worth TX,Yuma AZ,1022,167,180
+Dayton OH,Detroit MI,166,61,318
+Dayton OH,Miami FL,998,173,163
+Dayton OH,Philadelphia PA,477,100,164
+Dayton OH,Punta Gorda FL,904,144,83
+Dayton OH,St. Petersburg FL,831,134,75
+Dayton OH,Washington DC,374,90,165
+Daytona Beach FL,Philadelphia PA,808,142,149
+Denver CO,Des Moines IA,589,109,121
+Denver CO,Detroit MI,1123,178,150
+Denver CO,Devils Lake ND,638,120,61
+Denver CO,Dickinson ND,488,101,236
+Denver CO,Dodge City KS,292,74,10
+Denver CO,Durango CO,251,73,231
+Denver CO,Eagle CO,120,58,267
+Denver CO,El Paso TX,563,112,127
+Denver CO,Eugene OR,996,166,208
+Denver CO,Everett WA,1036,170,128
+Denver CO,Fargo ND,627,124,160
+Denver CO,Fayetteville AR,616,114,149
+Denver CO,Flagstaff AZ,503,98,216
+Denver CO,Fort Lauderdale FL,1703,242,162
+Denver CO,Fort Myers FL,1607,230,179
+Denver CO,Fresno CA,844,139,166
+Denver CO,Gillette WY,313,76,36
+Denver CO,Grand Junction CO,212,66,268
+Denver CO,Grand Rapids MI,1015,164,171
+Denver CO,Great Falls MT,623,113,298
+Denver CO,Green Bay WI,905,146,173
+Denver CO,Greer SC,1278,204,173
+Denver CO,Gunnison CO,152,58,180
+Denver CO,Harlingen/San Benito TX,1023,155,149
+Denver CO,Hartford CT,1671,236,222
+Denver CO,Hayden CO,141,56,120
+Denver CO,Hays KS,298,73,4
+Denver CO,Helena MT,594,111,283
+Denver CO,Honolulu HI,3365,424,357
+Denver CO,Houston TX,870,141,155
+Denver CO,Huntsville AL,1048,172,284
+Denver CO,Idaho Falls ID,458,98,236
+Denver CO,Indianapolis IN,977,156,154
+Denver CO,Jackson WY,406,93,287
+Denver CO,Jacksonville FL,1447,218,214
+Denver CO,Jamestown ND,573,108,60
+Denver CO,Kahului HI,3302,419,400
+Denver CO,Kalispell MT,752,133,258
+Denver CO,Kansas City MO,533,102,130
+Denver CO,Kearney NE,305,84,11
+Denver CO,Knoxville TN,1162,179,160
+Denver CO,Kona HI,3329,418,372
+Denver CO,Laramie WY,113,53,0
+Denver CO,Las Vegas NV,628,108,131
+Denver CO,Liberal KS,280,69,8
+Denver CO,Lincoln NE,423,97,165
+Denver CO,Little Rock AR,771,133,132
+Denver CO,Long Beach CA,854,136,96
+Denver CO,Los Angeles CA,862,137,126
+Denver CO,Louisville KY,1024,166,176
+Denver CO,Lubbock TX,456,90,176
+Denver CO,Madison WI,826,146,157
+Denver CO,Medford OR,964,156,194
+Denver CO,Memphis TN,872,147,136
+Denver CO,Miami FL,1709,243,153
+Denver CO,Midland/Odessa TX,563,110,219
+Denver CO,Milwaukee WI,896,149,144
+Denver CO,Minneapolis MN,680,119,125
+Denver CO,Minot ND,604,116,262
+Denver CO,Missoula MT,679,125,255
+Denver CO,Moab UT,283,71,5
+Denver CO,Monterey CA,959,152,171
+Denver CO,Montrose/Delta CO,196,58,105
+Denver CO,Nashville TN,1014,160,155
+Denver CO,New Orleans LA,1062,160,154
+Denver CO,New York NY,1622,231,193
+Denver CO,Newark NJ,1605,231,226
+Denver CO,Norfolk VA,1553,236,191
+Denver CO,North Platte NE,228,67,0
+Denver CO,Oakland CA,957,146,123
+Denver CO,Oklahoma City OK,495,97,122
+Denver CO,Omaha NE,472,94,120
+Denver CO,Ontario CA,819,129,116
+Denver CO,Orlando FL,1546,222,160
+Denver CO,Palm Springs CA,776,125,156
+Denver CO,Pasco/Kennewick/Richland WA,852,145,225
+Denver CO,Pensacola FL,1179,179,146
+Denver CO,Philadelphia PA,1558,223,142
+Denver CO,Phoenix AZ,602,106,152
+Denver CO,Pierre SD,385,84,30
+Denver CO,Pittsburgh PA,1290,189,200
+Denver CO,Portland OR,991,153,125
+Denver CO,Prescott AZ,557,103,65
+Denver CO,Provo UT,375,79,31
+Denver CO,Pueblo CO,109,51,0
+Denver CO,Raleigh/Durham NC,1436,210,152
+Denver CO,Rapid City SD,300,75,261
+Denver CO,Reno NV,804,134,171
+Denver CO,Richmond VA,1482,227,223
+Denver CO,Riverton/Lander WY,296,74,32
+Denver CO,Rochester MN,686,123,105
+Denver CO,Rock Springs WY,260,66,0
+Denver CO,Sacramento CA,909,141,129
+Denver CO,Salina KS,383,86,15
+Denver CO,Salt Lake City UT,391,87,123
+Denver CO,San Antonio TX,794,130,146
+Denver CO,San Diego CA,853,134,134
+Denver CO,San Francisco CA,967,150,156
+Denver CO,San Jose CA,948,148,169
+Denver CO,San Luis Obispo CA,931,154,237
+Denver CO,Santa Ana CA,846,134,137
+Denver CO,Santa Barbara CA,916,150,231
+Denver CO,Santa Fe NM,303,73,229
+Denver CO,Savannah GA,1414,214,212
+Denver CO,Scottsbluff NE,150,57,6
+Denver CO,Seattle WA,1024,164,116
+Denver CO,Sheridan WY,359,79,30
+Denver CO,Sioux City IA,466,99,36
+Denver CO,Sioux Falls SD,483,102,144
+Denver CO,Spokane WA,836,133,142
+Denver CO,Springfield MO,637,121,245
+Denver CO,St. George UT,517,99,77
+Denver CO,St. Louis MO,770,131,140
+Denver CO,Sun Valley/Hailey/Ketchum ID,557,112,252
+Denver CO,Tampa FL,1506,217,181
+Denver CO,Tucson AZ,639,113,143
+Denver CO,Tulsa OK,541,104,128
+Denver CO,Twin Falls ID,542,96,168
+Denver CO,Vernal UT,259,69,0
+Denver CO,Washington DC,1461,211,191
+Denver CO,Watertown SD,519,105,20
+Denver CO,Wichita KS,420,92,117
+Denver CO,Williston ND,582,118,270
+Des Moines IA,Detroit MI,534,106,233
+Des Moines IA,Houston TX,802,142,216
+Des Moines IA,Las Vegas NV,1216,176,142
+Des Moines IA,Miami FL,1327,209,205
+Des Moines IA,Minneapolis MN,232,67,206
+Des Moines IA,Orlando FL,1141,181,157
+Des Moines IA,Phoenix AZ,1148,178,167
+Des Moines IA,Punta Gorda FL,1206,177,134
+Des Moines IA,Sanford FL,1124,167,105
+Des Moines IA,Sarasota/Bradenton FL,1160,172,154
+Des Moines IA,St. Louis MO,259,59,127
+Des Moines IA,St. Petersburg FL,1126,160,118
+Detroit MI,Elmira/Corning NY,332,78,264
+Detroit MI,Escanaba MI,306,76,184
+Detroit MI,Evansville IN,363,85,239
+Detroit MI,Fort Lauderdale FL,1127,179,173
+Detroit MI,Fort Myers FL,1084,167,240
+Detroit MI,Fort Wayne IN,128,53,76
+Detroit MI,Grand Rapids MI,120,53,96
+Detroit MI,Green Bay WI,287,72,220
+Detroit MI,Greer SC,508,105,220
+Detroit MI,Harrisburg PA,371,89,230
+Detroit MI,Hartford CT,549,105,226
+Detroit MI,Houston TX,1075,172,144
+Detroit MI,Indianapolis IN,231,68,242
+Detroit MI,Iron Mountain/Kingsfd MI,344,82,135
+Detroit MI,Ithaca/Cortland NY,353,84,170
+Detroit MI,Jacksonville FL,813,138,183
+Detroit MI,Kalamazoo MI,113,54,61
+Detroit MI,Kansas City MO,629,122,189
+Detroit MI,Knoxville TN,443,91,259
+Detroit MI,La Crosse WI,416,87,221
+Detroit MI,Lansing MI,74,49,98
+Detroit MI,Las Vegas NV,1749,244,155
+Detroit MI,Lexington KY,296,76,220
+Detroit MI,Los Angeles CA,1979,273,196
+Detroit MI,Louisville KY,306,83,251
+Detroit MI,Madison WI,311,76,231
+Detroit MI,Marquette MI,349,85,157
+Detroit MI,Memphis TN,610,114,221
+Detroit MI,Miami FL,1145,178,197
+Detroit MI,Milwaukee WI,237,70,237
+Detroit MI,Minneapolis MN,528,104,211
+Detroit MI,Mosinee WI,363,84,199
+Detroit MI,Myrtle Beach SC,636,119,122
+Detroit MI,Nashville TN,456,95,159
+Detroit MI,New Orleans LA,926,147,124
+Detroit MI,New York NY,505,103,153
+Detroit MI,Newark NJ,488,102,167
+Detroit MI,Norfolk VA,529,107,174
+Detroit MI,Omaha NE,651,122,222
+Detroit MI,Orlando FL,957,155,158
+Detroit MI,Pellston MI,243,66,107
+Detroit MI,Philadelphia PA,453,99,147
+Detroit MI,Phoenix AZ,1671,237,216
+Detroit MI,Pittsburgh PA,201,66,202
+Detroit MI,Portland ME,668,117,214
+Detroit MI,Portland OR,1953,276,228
+Detroit MI,Raleigh/Durham NC,501,103,170
+Detroit MI,Richmond VA,456,104,184
+Detroit MI,Rochester NY,296,80,215
+Detroit MI,Saginaw/Bay City/Midland MI,98,51,73
+Detroit MI,Salt Lake City UT,1481,219,262
+Detroit MI,San Antonio TX,1214,187,231
+Detroit MI,San Diego CA,1956,270,230
+Detroit MI,San Francisco CA,2079,283,289
+Detroit MI,San Juan PR,1930,288,164
+Detroit MI,Sarasota/Bradenton FL,1022,167,239
+Detroit MI,Sault Ste. Marie MI,284,76,174
+Detroit MI,Seattle WA,1927,269,223
+Detroit MI,South Bend IN,157,61,189
+Detroit MI,St. Louis MO,440,95,181
+Detroit MI,State College PA,301,76,165
+Detroit MI,Syracuse NY,374,88,217
+Detroit MI,Tampa FL,983,156,178
+Detroit MI,Traverse City MI,207,67,143
+Detroit MI,Washington DC,392,88,139
+Detroit MI,West Palm Beach/Palm Beach FL,1086,173,252
+Devils Lake ND,Jamestown ND,83,45,0
+Dillingham AK,King Salmon AK,71,33,6
+Duluth MN,Minneapolis MN,144,60,75
+Durango CO,Phoenix AZ,351,85,191
+Eagle CO,Houston TX,934,155,332
+Eagle CO,Los Angeles CA,748,133,229
+Eagle CO,Miami FL,1810,258,366
+Eagle CO,New York NY,1746,254,267
+Eagle CO,Newark NJ,1725,249,319
+Eagle CO,Philadelphia PA,1678,254,283
+Eagle CO,Phoenix AZ,513,110,200
+Eagle CO,San Francisco CA,847,143,290
+El Paso TX,Houston TX,671,114,177
+El Paso TX,Las Vegas NV,583,97,131
+El Paso TX,Phoenix AZ,347,76,129
+El Paso TX,San Antonio TX,496,83,152
+El Paso TX,Seattle WA,1368,209,170
+Elko NV,Salt Lake City UT,200,58,187
+Elmira/Corning NY,Punta Gorda FL,1090,167,68
+Elmira/Corning NY,Sanford FL,954,149,79
+Elmira/Corning NY,St. Petersburg FL,1035,155,68
+Erie PA,Washington DC,259,76,181
+Escanaba MI,Minneapolis MN,304,71,86
+Eugene OR,Las Vegas NV,700,114,117
+Eugene OR,Los Angeles CA,748,129,123
+Eugene OR,Oakland CA,445,84,81
+Eugene OR,Palm Springs CA,796,130,114
+Eugene OR,Phoenix AZ,954,162,136
+Eugene OR,Salt Lake City UT,618,113,157
+Eugene OR,San Francisco CA,451,92,249
+Eugene OR,Seattle WA,234,64,112
+Evansville IN,Sanford FL,734,115,79
+Everett WA,Las Vegas NV,894,149,127
+Everett WA,Palm Springs CA,1017,166,156
+Everett WA,Phoenix AZ,1133,176,161
+Everett WA,San Diego CA,1080,166,140
+Everett WA,Santa Ana CA,1008,165,162
+Fairbanks AK,Seattle WA,1533,218,230
+Fargo ND,Las Vegas NV,1205,177,154
+Fargo ND,Minneapolis MN,223,66,245
+Fargo ND,Nashville TN,910,140,109
+Fargo ND,Phoenix AZ,1223,186,159
+Fargo ND,Sanford FL,1508,222,116
+Fayetteville AR,Houston TX,438,100,219
+Fayetteville AR,Las Vegas NV,1163,171,136
+Fayetteville AR,Nashville TN,426,76,134
+Fayetteville AR,Phoenix AZ,1006,150,166
+Fayetteville AR,Sanford FL,920,138,86
+Flagstaff AZ,Phoenix AZ,119,55,171
+Flint MI,Nashville TN,497,94,80
+Flint MI,Punta Gorda FL,1111,172,123
+Flint MI,Sanford FL,988,160,110
+Flint MI,Sarasota/Bradenton FL,1075,172,118
+Flint MI,St. Petersburg FL,1040,162,111
+Fort Lauderdale FL,Greer SC,620,113,136
+Fort Lauderdale FL,Hartford CT,1173,178,125
+Fort Lauderdale FL,Hayden CO,1843,277,218
+Fort Lauderdale FL,Houston TX,963,152,137
+Fort Lauderdale FL,Indianapolis IN,1005,159,139
+Fort Lauderdale FL,Islip NY,1092,169,196
+Fort Lauderdale FL,Jacksonville FL,319,71,135
+Fort Lauderdale FL,Kansas City MO,1242,185,171
+Fort Lauderdale FL,Knoxville TN,708,123,119
+Fort Lauderdale FL,Las Vegas NV,2173,295,110
+Fort Lauderdale FL,Latrobe PA,980,154,69
+Fort Lauderdale FL,Lexington KY,865,138,130
+Fort Lauderdale FL,Los Angeles CA,2343,314,189
+Fort Lauderdale FL,Louisville KY,895,153,142
+Fort Lauderdale FL,Memphis TN,851,137,159
+Fort Lauderdale FL,Milwaukee WI,1243,186,157
+Fort Lauderdale FL,Minneapolis MN,1487,218,137
+Fort Lauderdale FL,Myrtle Beach SC,529,102,84
+Fort Lauderdale FL,Nashville TN,793,132,110
+Fort Lauderdale FL,New Orleans LA,674,114,94
+Fort Lauderdale FL,New York NY,1072,167,165
+Fort Lauderdale FL,Newark NJ,1065,170,162
+Fort Lauderdale FL,Norfolk VA,781,131,154
+Fort Lauderdale FL,Orlando FL,177,55,90
+Fort Lauderdale FL,Philadelphia PA,992,158,137
+Fort Lauderdale FL,Phoenix AZ,1972,271,175
+Fort Lauderdale FL,Pittsburgh PA,994,157,111
+Fort Lauderdale FL,Portland OR,2694,359,179
+Fort Lauderdale FL,Providence RI,1188,182,135
+Fort Lauderdale FL,Raleigh/Durham NC,680,120,105
+Fort Lauderdale FL,Richmond VA,805,131,104
+Fort Lauderdale FL,Salt Lake City UT,2084,289,218
+Fort Lauderdale FL,San Antonio TX,1145,170,170
+Fort Lauderdale FL,San Diego CA,2269,306,178
+Fort Lauderdale FL,San Francisco CA,2584,345,254
+Fort Lauderdale FL,San Juan PR,1046,155,108
+Fort Lauderdale FL,Seattle WA,2717,365,174
+Fort Lauderdale FL,St. Louis MO,1057,161,206
+Fort Lauderdale FL,Syracuse NY,1197,183,158
+Fort Lauderdale FL,Tampa FL,197,57,93
+Fort Lauderdale FL,Washington DC,900,149,182
+Fort Lauderdale FL,White Plains NY,1097,171,185
+Fort Myers FL,Grand Rapids MI,1147,174,181
+Fort Myers FL,Hartford CT,1180,185,139
+Fort Myers FL,Houston TX,858,140,185
+Fort Myers FL,Indianapolis IN,945,149,178
+Fort Myers FL,Islip NY,1101,177,96
+Fort Myers FL,Kansas City MO,1155,176,189
+Fort Myers FL,Latrobe PA,956,154,77
+Fort Myers FL,Los Angeles CA,2238,308,259
+Fort Myers FL,Louisville KY,835,146,167
+Fort Myers FL,Milwaukee WI,1183,181,180
+Fort Myers FL,Minneapolis MN,1416,206,223
+Fort Myers FL,Nashville TN,722,122,167
+Fort Myers FL,New York NY,1075,169,171
+Fort Myers FL,Newark NJ,1068,172,178
+Fort Myers FL,Orlando FL,133,46,114
+Fort Myers FL,Philadelphia PA,993,165,148
+Fort Myers FL,Pittsburgh PA,966,152,149
+Fort Myers FL,Portland ME,1343,195,120
+Fort Myers FL,Providence RI,1200,186,153
+Fort Myers FL,Raleigh/Durham NC,667,123,148
+Fort Myers FL,Rochester NY,1166,185,190
+Fort Myers FL,Seattle WA,2623,353,206
+Fort Myers FL,St. Louis MO,979,150,186
+Fort Myers FL,Syracuse NY,1186,185,160
+Fort Myers FL,Trenton NJ,1028,164,61
+Fort Myers FL,Washington DC,891,146,195
+Fort Myers FL,White Plains NY,1102,177,187
+Fort Wayne IN,Philadelphia PA,530,114,255
+Fort Wayne IN,Phoenix AZ,1546,214,166
+Fort Wayne IN,Punta Gorda FL,986,150,135
+Fort Wayne IN,Sanford FL,870,137,102
+Fort Wayne IN,Sarasota/Bradenton FL,948,144,121
+Fort Wayne IN,St. Petersburg FL,912,139,104
+Fresno CA,Las Vegas NV,259,62,83
+Fresno CA,Los Angeles CA,209,60,143
+Fresno CA,Phoenix AZ,493,106,175
+Fresno CA,Portland OR,626,123,140
+Fresno CA,Salt Lake City UT,501,97,224
+Fresno CA,San Diego CA,314,69,151
+Fresno CA,San Francisco CA,158,51,156
+Fresno CA,Seattle WA,748,130,141
+Grand Forks ND,Las Vegas NV,1230,179,121
+Grand Forks ND,Minneapolis MN,284,72,201
+Grand Forks ND,Phoenix AZ,1260,183,120
+Grand Island NE,Las Vegas NV,971,145,80
+Grand Island NE,Phoenix AZ,905,139,110
+Grand Junction CO,Las Vegas NV,420,80,93
+Grand Junction CO,Phoenix AZ,438,94,110
+Grand Junction CO,Salt Lake City UT,216,63,150
+Grand Rapids MI,Las Vegas NV,1642,229,164
+Grand Rapids MI,Miami FL,1214,197,208
+Grand Rapids MI,Minneapolis MN,408,87,197
+Grand Rapids MI,Nashville TN,470,86,114
+Grand Rapids MI,Orlando FL,1024,160,145
+Grand Rapids MI,Philadelphia PA,573,123,175
+Grand Rapids MI,Phoenix AZ,1571,228,185
+Grand Rapids MI,Punta Gorda FL,1118,168,139
+Grand Rapids MI,Sanford FL,1001,156,115
+Grand Rapids MI,Sarasota/Bradenton FL,1080,164,151
+Grand Rapids MI,Savannah GA,778,125,145
+Grand Rapids MI,St. Petersburg FL,1044,158,111
+Grand Rapids MI,Tampa FL,1041,161,162
+Grand Rapids MI,Washington DC,524,112,152
+Great Falls MT,Las Vegas NV,811,127,108
+Great Falls MT,Minneapolis MN,887,143,208
+Great Falls MT,Phoenix AZ,978,144,110
+Great Falls MT,Salt Lake City UT,463,92,173
+Great Falls MT,Seattle WA,512,110,146
+Green Bay WI,Minneapolis MN,252,67,213
+Green Bay WI,Orlando FL,1169,181,151
+Greensboro/High Point NC,Miami FL,710,128,149
+Greensboro/High Point NC,Philadelphia PA,365,86,153
+Greensboro/High Point NC,Sanford FL,510,101,39
+Greensboro/High Point NC,St. Petersburg FL,587,101,38
+Greensboro/High Point NC,Washington DC,239,70,164
+Greer SC,Houston TX,841,139,183
+Greer SC,Philadelphia PA,515,106,176
+Greer SC,Sanford FL,425,78,40
+Greer SC,St. Petersburg FL,482,83,42
+Greer SC,Washington DC,384,93,135
+Guam TT,Honolulu HI,3801,440,1049
+Guam TT,Saipan TT,129,44,149
+Gulfport/Biloxi MS,Houston TX,376,88,206
+Gulfport/Biloxi MS,Sanford FL,485,96,44
+Gunnison CO,Houston TX,886,153,258
+Hagerstown MD,Sanford FL,780,125,65
+Harlingen/San Benito TX,Houston TX,288,69,149
+Harrisburg PA,Orlando FL,851,146,126
+Harrisburg PA,Philadelphia PA,84,49,105
+Harrisburg PA,Punta Gorda FL,963,151,84
+Harrisburg PA,Sanford FL,827,140,68
+Harrisburg PA,Sarasota/Bradenton FL,942,146,123
+Harrisburg PA,St. Petersburg FL,912,143,81
+Harrisburg PA,Washington DC,94,50,205
+Hartford CT,Las Vegas NV,2297,312,185
+Hartford CT,Los Angeles CA,2527,339,202
+Hartford CT,Miami FL,1194,183,134
+Hartford CT,Minneapolis MN,1050,164,212
+Hartford CT,Orlando FL,1050,165,124
+Hartford CT,Philadelphia PA,196,68,219
+Hartford CT,San Francisco CA,2625,340,183
+Hartford CT,San Juan PR,1666,232,176
+Hartford CT,St. Louis MO,957,140,193
+Hartford CT,Tampa FL,1111,171,143
+Hartford CT,Washington DC,326,80,136
+Hartford CT,West Palm Beach/Palm Beach FL,1133,173,183
+Hattiesburg/Laurel MS,Houston TX,372,80,82
+Hayden CO,Houston TX,985,166,225
+Hayden CO,Los Angeles CA,763,130,200
+Hayden CO,New York NY,1749,254,172
+Hayden CO,Newark NJ,1728,254,243
+Hayden CO,San Diego CA,769,126,157
+Hayden CO,San Francisco CA,838,137,175
+Hayden CO,Seattle WA,891,145,147
+Hayden CO,Washington DC,1582,254,214
+Helena MT,Salt Lake City UT,402,85,174
+Helena MT,Seattle WA,491,110,149
+Hibbing MN,Minneapolis MN,174,55,157
+Hilo HI,Honolulu HI,216,53,79
+Hobbs NM,Houston TX,501,102,129
+Honolulu HI,Hoolehua HI,54,29,38
+Honolulu HI,Houston TX,3904,494,418
+Honolulu HI,Kahului HI,100,39,83
+Honolulu HI,Kona HI,163,45,86
+Honolulu HI,Lanai HI,72,32,39
+Honolulu HI,Las Vegas NV,2762,356,267
+Honolulu HI,Lihue HI,102,37,98
+Honolulu HI,Long Beach CA,2569,341,214
+Honolulu HI,Los Angeles CA,2556,334,256
+Honolulu HI,Minneapolis MN,3972,492,388
+Honolulu HI,New York NY,4983,615,429
+Honolulu HI,Newark NJ,4962,600,424
+Honolulu HI,Oakland CA,2409,316,197
+Honolulu HI,Phoenix AZ,2917,376,282
+Honolulu HI,Portland OR,2603,349,245
+Honolulu HI,Sacramento CA,2462,324,229
+Honolulu HI,Salt Lake City UT,2994,380,295
+Honolulu HI,San Diego CA,2614,344,212
+Honolulu HI,San Francisco CA,2398,311,274
+Honolulu HI,San Jose CA,2417,319,192
+Honolulu HI,Seattle WA,2677,361,288
+Houston TX,Huntsville AL,595,117,173
+Houston TX,Indianapolis IN,848,141,193
+Houston TX,Jackson WY,1265,192,291
+Houston TX,Jackson/Vicksburg MS,351,84,218
+Houston TX,Jacksonville FL,817,136,193
+Houston TX,Kansas City MO,651,120,175
+Houston TX,Key West FL,915,167,252
+Houston TX,Killeen TX,166,64,161
+Houston TX,Knoxville TN,772,136,177
+Houston TX,Lafayette LA,201,66,226
+Houston TX,Lake Charles LA,127,53,270
+Houston TX,Laredo TX,301,79,259
+Houston TX,Las Vegas NV,1226,181,157
+Houston TX,Little Rock AR,374,87,138
+Houston TX,Los Angeles CA,1382,199,157
+Houston TX,Louisville KY,788,139,195
+Houston TX,Lubbock TX,458,99,157
+Houston TX,Memphis TN,472,99,133
+Houston TX,Meridian MS,422,85,75
+Houston TX,Miami FL,961,154,146
+Houston TX,Midland/Odessa TX,433,86,166
+Houston TX,Milwaukee WI,985,167,193
+Houston TX,Minneapolis MN,1034,169,199
+Houston TX,Mission/McAllen/Edinburg TX,316,76,160
+Houston TX,Mobile AL,427,93,282
+Houston TX,Monroe LA,262,67,210
+Houston TX,Montrose/Delta CO,927,153,250
+Houston TX,Nashville TN,664,118,166
+Houston TX,New Orleans LA,304,68,140
+Houston TX,New York NY,1416,212,175
+Houston TX,Newark NJ,1400,209,170
+Houston TX,Oakland CA,1642,230,174
+Houston TX,Oklahoma City OK,405,83,146
+Houston TX,Omaha NE,789,135,179
+Houston TX,Ontario CA,1335,195,207
+Houston TX,Orlando FL,852,139,145
+Houston TX,Palm Springs CA,1269,193,246
+Houston TX,Panama City FL,572,107,172
+Houston TX,Pensacola FL,489,96,147
+Houston TX,Philadelphia PA,1325,205,204
+Houston TX,Phoenix AZ,1014,158,189
+Houston TX,Pittsburgh PA,1117,176,215
+Houston TX,Portland OR,1825,256,228
+Houston TX,Punta Gorda FL,831,133,40
+Houston TX,Raleigh/Durham NC,1042,167,196
+Houston TX,Reno NV,1531,224,219
+Houston TX,Richmond VA,1157,189,212
+Houston TX,Sacramento CA,1610,231,216
+Houston TX,Salt Lake City UT,1199,188,227
+Houston TX,San Antonio TX,191,58,171
+Houston TX,San Diego CA,1307,190,192
+Houston TX,San Francisco CA,1635,233,246
+Houston TX,San Jose CA,1608,231,218
+Houston TX,San Juan PR,2007,270,199
+Houston TX,Santa Ana CA,1349,196,219
+Houston TX,Savannah GA,851,142,183
+Houston TX,Seattle WA,1874,267,229
+Houston TX,Shreveport LA,192,65,212
+Houston TX,St. Louis MO,675,122,176
+Houston TX,Tallahassee FL,658,118,151
+Houston TX,Tampa FL,785,130,150
+Houston TX,Tucson AZ,940,147,190
+Houston TX,Tulsa OK,438,90,144
+Houston TX,Valparaiso FL,528,113,176
+Houston TX,Victoria TX,123,50,10
+Houston TX,Washington DC,1198,184,222
+Houston TX,West Palm Beach/Palm Beach FL,956,162,212
+Houston TX,Wichita KS,542,110,201
+Huntsville AL,Orlando FL,535,104,165
+Huntsville AL,Washington DC,601,120,218
+Idaho Falls ID,Las Vegas NV,538,97,86
+Idaho Falls ID,Phoenix AZ,704,119,133
+Idaho Falls ID,Salt Lake City UT,188,61,161
+Indianapolis IN,Las Vegas NV,1590,221,141
+Indianapolis IN,Miami FL,1020,165,167
+Indianapolis IN,Minneapolis MN,503,101,243
+Indianapolis IN,New York NY,660,120,201
+Indianapolis IN,Newark NJ,645,120,200
+Indianapolis IN,Orlando FL,829,137,137
+Indianapolis IN,Philadelphia PA,588,114,210
+Indianapolis IN,Phoenix AZ,1488,214,223
+Indianapolis IN,Punta Gorda FL,916,146,121
+Indianapolis IN,Salt Lake City UT,1355,221,239
+Indianapolis IN,Sanford FL,807,134,76
+Indianapolis IN,Sarasota/Bradenton FL,876,140,145
+Indianapolis IN,Seattle WA,1866,260,214
+Indianapolis IN,St. Petersburg FL,840,139,96
+Indianapolis IN,Tampa FL,837,133,164
+Indianapolis IN,Washington DC,485,99,147
+Indianapolis IN,West Palm Beach/Palm Beach FL,967,152,157
+International Falls MN,Minneapolis MN,255,66,178
+Iron Mountain/Kingsfd MI,Minneapolis MN,257,63,126
+Islip NY,Miami FL,1113,180,90
+Islip NY,Orlando FL,971,156,131
+Islip NY,Philadelphia PA,130,66,174
+Islip NY,Tampa FL,1034,171,116
+Islip NY,West Palm Beach/Palm Beach FL,1052,165,159
+Ithaca/Cortland NY,Philadelphia PA,192,69,154
+Jackson WY,Los Angeles CA,784,143,206
+Jackson WY,Minneapolis MN,872,147,210
+Jackson WY,New York NY,1887,332,217
+Jackson WY,Newark NJ,1874,267,324
+Jackson WY,Salt Lake City UT,205,69,211
+Jackson WY,San Diego CA,828,148,169
+Jackson WY,San Francisco CA,737,140,299
+Jackson WY,San Jose CA,729,139,168
+Jackson WY,Seattle WA,621,125,186
+Jacksonville FL,Miami FL,335,77,163
+Jacksonville FL,Nashville TN,483,88,141
+Jacksonville FL,New York NY,828,138,167
+Jacksonville FL,Newark NJ,820,137,167
+Jacksonville FL,Orlando FL,144,52,13
+Jacksonville FL,Philadelphia PA,742,132,149
+Jacksonville FL,Pittsburgh PA,694,114,125
+Jacksonville FL,Washington DC,631,119,160
+Juneau AK,Ketchikan AK,234,64,169
+Juneau AK,Petersburg AK,123,47,144
+Juneau AK,Seattle WA,909,146,224
+Juneau AK,Sitka AK,95,44,127
+Juneau AK,Yakutat AK,198,57,116
+Kahului HI,Kona HI,84,34,87
+Kahului HI,Lihue HI,201,48,127
+Kahului HI,Los Angeles CA,2486,325,296
+Kahului HI,Oakland CA,2349,306,221
+Kahului HI,Phoenix AZ,2845,363,322
+Kahului HI,Portland OR,2562,343,306
+Kahului HI,Sacramento CA,2404,316,269
+Kahului HI,Salt Lake City UT,2935,378,343
+Kahului HI,San Diego CA,2541,340,251
+Kahului HI,San Francisco CA,2338,309,321
+Kahului HI,San Jose CA,2355,308,208
+Kahului HI,Seattle WA,2640,356,349
+Kalamazoo MI,Minneapolis MN,426,102,232
+Kalispell MT,Las Vegas NV,845,139,125
+Kalispell MT,Minneapolis MN,1026,172,212
+Kalispell MT,Phoenix AZ,1044,160,152
+Kalispell MT,Salt Lake City UT,531,102,181
+Kalispell MT,Seattle WA,379,92,182
+Kansas City MO,Las Vegas NV,1139,166,164
+Kansas City MO,Los Angeles CA,1363,197,154
+Kansas City MO,Miami FL,1251,196,199
+Kansas City MO,Milwaukee WI,436,84,149
+Kansas City MO,Minneapolis MN,393,88,225
+Kansas City MO,Nashville TN,491,91,144
+Kansas City MO,New York NY,1107,178,205
+Kansas City MO,Newark NJ,1092,177,219
+Kansas City MO,Oakland CA,1489,210,198
+Kansas City MO,Orlando FL,1072,165,142
+Kansas City MO,Philadelphia PA,1038,166,223
+Kansas City MO,Phoenix AZ,1044,159,225
+Kansas City MO,Portland OR,1482,206,150
+Kansas City MO,Punta Gorda FL,1125,169,87
+Kansas City MO,Salt Lake City UT,920,151,212
+Kansas City MO,San Diego CA,1334,187,191
+Kansas City MO,Seattle WA,1489,220,189
+Kansas City MO,St. Louis MO,237,58,113
+Kansas City MO,St. Petersburg FL,1045,158,89
+Kansas City MO,Tampa FL,1048,160,200
+Kansas City MO,Washington DC,926,152,181
+Ketchikan AK,Seattle WA,680,116,247
+Ketchikan AK,Wrangell AK,82,42,127
+Key West FL,Miami FL,126,49,182
+Key West FL,New York NY,1207,192,217
+Key West FL,Newark NJ,1196,193,230
+Key West FL,Orlando FL,268,65,131
+Key West FL,Philadelphia PA,1121,179,252
+Key West FL,Tampa FL,240,63,138
+Key West FL,Washington DC,1023,171,249
+Knoxville TN,Las Vegas NV,1739,236,184
+Knoxville TN,Newark NJ,631,130,153
+Knoxville TN,Philadelphia PA,554,111,166
+Knoxville TN,Punta Gorda FL,624,103,75
+Knoxville TN,Roanoke VA,247,55,224
+Knoxville TN,Sanford FL,511,94,65
+Knoxville TN,St. Petersburg FL,550,95,68
+Knoxville TN,Washington DC,420,99,180
+Kona HI,Los Angeles CA,2504,326,332
+Kona HI,Oakland CA,2378,309,187
+Kona HI,Phoenix AZ,2860,369,302
+Kona HI,Portland OR,2607,348,264
+Kona HI,San Diego CA,2556,335,230
+Kona HI,San Francisco CA,2367,313,356
+Kona HI,San Jose CA,2384,310,206
+Kona HI,Seattle WA,2688,361,305
+La Crosse WI,Minneapolis MN,119,53,181
+Laredo TX,Las Vegas NV,1092,159,122
+Las Vegas NV,Little Rock AR,1294,180,169
+Las Vegas NV,Long Beach CA,231,58,90
+Las Vegas NV,Los Angeles CA,236,63,98
+Las Vegas NV,Louisville KY,1624,224,187
+Las Vegas NV,Lubbock TX,775,120,171
+Las Vegas NV,Medford OR,600,114,109
+Las Vegas NV,Memphis TN,1416,203,156
+Las Vegas NV,Miami FL,2174,291,165
+Las Vegas NV,Midland/Odessa TX,795,124,182
+Las Vegas NV,Milwaukee WI,1524,212,181
+Las Vegas NV,Minneapolis MN,1299,188,150
+Las Vegas NV,Minot ND,1098,160,123
+Las Vegas NV,Mission/McAllen/Edinburg TX,1210,177,147
+Las Vegas NV,Missoula MT,750,128,119
+Las Vegas NV,Moline IL,1376,199,116
+Las Vegas NV,Monterey CA,375,76,56
+Las Vegas NV,Nashville TN,1587,222,164
+Las Vegas NV,New Orleans LA,1500,207,144
+Las Vegas NV,New York NY,2248,309,221
+Las Vegas NV,Newark NJ,2227,299,161
+Las Vegas NV,Oakland CA,407,82,102
+Las Vegas NV,Oklahoma City OK,986,146,154
+Las Vegas NV,Omaha NE,1099,163,158
+Las Vegas NV,Ontario CA,197,52,106
+Las Vegas NV,Orlando FL,2039,278,136
+Las Vegas NV,Pasco/Kennewick/Richland WA,732,126,123
+Las Vegas NV,Peoria IL,1413,200,117
+Las Vegas NV,Philadelphia PA,2176,292,143
+Las Vegas NV,Phoenix AZ,256,66,111
+Las Vegas NV,Pittsburgh PA,1910,263,175
+Las Vegas NV,Portland OR,763,128,128
+Las Vegas NV,Raleigh/Durham NC,2026,272,169
+Las Vegas NV,Rapid City SD,843,126,134
+Las Vegas NV,Reno NV,345,73,118
+Las Vegas NV,Richmond VA,2086,279,179
+Las Vegas NV,Rockford IL,1455,204,84
+Las Vegas NV,Sacramento CA,397,80,117
+Las Vegas NV,Salt Lake City UT,368,79,139
+Las Vegas NV,San Antonio TX,1069,157,167
+Las Vegas NV,San Diego CA,258,63,102
+Las Vegas NV,San Francisco CA,414,86,110
+Las Vegas NV,San Jose CA,386,77,122
+Las Vegas NV,Santa Ana CA,226,59,101
+Las Vegas NV,Santa Maria CA,310,74,57
+Las Vegas NV,Seattle WA,867,148,117
+Las Vegas NV,Shreveport LA,1243,181,146
+Las Vegas NV,Sioux Falls SD,1104,162,127
+Las Vegas NV,South Bend IN,1594,226,128
+Las Vegas NV,Spokane WA,806,132,131
+Las Vegas NV,Springfield MO,1209,174,138
+Las Vegas NV,St. Louis MO,1371,195,171
+Las Vegas NV,Stockton CA,359,73,71
+Las Vegas NV,Tampa FL,1984,269,149
+Las Vegas NV,Tucson AZ,365,72,121
+Las Vegas NV,Tulsa OK,1076,158,152
+Las Vegas NV,Washington DC,2065,280,236
+Las Vegas NV,Wichita KS,986,145,126
+Latrobe PA,Orlando FL,823,136,55
+Latrobe PA,Tampa FL,866,136,36
+Lewiston ID,Salt Lake City UT,461,90,181
+Lexington KY,Miami FL,880,155,144
+Lexington KY,Philadelphia PA,520,111,229
+Lexington KY,Punta Gorda FL,781,123,94
+Lexington KY,Sanford FL,667,112,77
+Lexington KY,St. Petersburg FL,707,116,80
+Lihue HI,Los Angeles CA,2615,340,322
+Lihue HI,San Francisco CA,2447,325,325
+Lihue HI,Seattle WA,2701,353,302
+Little Rock AR,Phoenix AZ,1136,173,172
+Little Rock AR,Sanford FL,765,128,83
+Little Rock AR,St. Louis MO,296,63,114
+Long Beach CA,Oakland CA,353,73,118
+Long Beach CA,Phoenix AZ,355,80,87
+Long Beach CA,Reno NV,402,81,82
+Long Beach CA,Sacramento CA,387,76,114
+Long Beach CA,Salt Lake City UT,588,110,164
+Long Beach CA,San Jose CA,324,67,92
+Los Angeles CA,Medford OR,630,113,128
+Los Angeles CA,Memphis TN,1619,227,216
+Los Angeles CA,Miami FL,2342,309,250
+Los Angeles CA,Minneapolis MN,1535,218,176
+Los Angeles CA,Missoula MT,923,162,168
+Los Angeles CA,Monterey CA,266,67,215
+Los Angeles CA,Montrose/Delta CO,666,123,141
+Los Angeles CA,Nashville TN,1797,246,174
+Los Angeles CA,New Orleans LA,1670,227,151
+Los Angeles CA,New York NY,2475,331,285
+Los Angeles CA,Newark NJ,2454,322,246
+Los Angeles CA,Oakland CA,337,70,94
+Los Angeles CA,Oklahoma City OK,1187,190,203
+Los Angeles CA,Orlando FL,2218,297,171
+Los Angeles CA,Palm Springs CA,110,48,104
+Los Angeles CA,Philadelphia PA,2402,321,198
+Los Angeles CA,Phoenix AZ,370,80,106
+Los Angeles CA,Pittsburgh PA,2136,287,224
+Los Angeles CA,Portland OR,834,138,151
+Los Angeles CA,Prescott AZ,346,73,40
+Los Angeles CA,Provo UT,569,100,47
+Los Angeles CA,Raleigh/Durham NC,2239,300,191
+Los Angeles CA,Reno NV,391,86,113
+Los Angeles CA,Richmond VA,2305,310,189
+Los Angeles CA,Sacramento CA,373,80,124
+Los Angeles CA,Salt Lake City UT,590,112,151
+Los Angeles CA,San Antonio TX,1211,177,196
+Los Angeles CA,San Diego CA,109,47,189
+Los Angeles CA,San Francisco CA,337,75,114
+Los Angeles CA,San Jose CA,308,69,107
+Los Angeles CA,San Luis Obispo CA,156,50,132
+Los Angeles CA,Santa Rosa CA,400,84,135
+Los Angeles CA,Seattle WA,954,157,123
+Los Angeles CA,Spokane WA,945,157,140
+Los Angeles CA,Springfield MO,1423,195,166
+Los Angeles CA,St. Louis MO,1592,221,225
+Los Angeles CA,Sun Valley/Hailey/Ketchum ID,696,132,281
+Los Angeles CA,Tampa FL,2158,291,225
+Los Angeles CA,Tucson AZ,451,89,158
+Los Angeles CA,Tulsa OK,1283,184,166
+Los Angeles CA,Twin Falls ID,626,134,171
+Los Angeles CA,Washington DC,2300,308,213
+Los Angeles CA,West Palm Beach/Palm Beach FL,2330,320,244
+Louisville KY,Miami FL,910,155,169
+Louisville KY,Minneapolis MN,604,119,200
+Louisville KY,Orlando FL,719,122,146
+Louisville KY,Philadelphia PA,576,120,194
+Louisville KY,Phoenix AZ,1506,216,191
+Louisville KY,Punta Gorda FL,806,135,88
+Louisville KY,Sanford FL,698,124,70
+Louisville KY,Sarasota/Bradenton FL,765,134,128
+Louisville KY,St. Petersburg FL,729,120,84
+Louisville KY,Tampa FL,727,122,164
+Louisville KY,Washington DC,451,102,145
+Lubbock TX,Phoenix AZ,588,112,198
+Madison WI,Minneapolis MN,228,64,163
+Madison WI,Orlando FL,1109,178,133
+Madison WI,Phoenix AZ,1396,205,239
+Manchester NH,Orlando FL,1142,177,170
+Manchester NH,Philadelphia PA,289,84,149
+Manchester NH,Tampa FL,1204,189,161
+Marquette MI,Minneapolis MN,300,77,164
+Medford OR,Phoenix AZ,854,147,181
+Medford OR,Portland OR,222,60,168
+Medford OR,Salt Lake City UT,575,107,197
+Medford OR,San Francisco CA,329,78,213
+Medford OR,Seattle WA,352,81,95
+Memphis TN,Miami FL,859,146,167
+Memphis TN,Minneapolis MN,700,125,243
+Memphis TN,Orlando FL,684,118,145
+Memphis TN,Phoenix AZ,1264,192,187
+Memphis TN,Punta Gorda FL,733,120,48
+Memphis TN,Salt Lake City UT,1262,185,231
+Memphis TN,Sanford FL,671,114,55
+Memphis TN,St. Petersburg FL,653,108,53
+Memphis TN,Tampa FL,655,109,158
+Miami FL,Milwaukee WI,1258,201,154
+Miami FL,Minneapolis MN,1501,221,177
+Miami FL,Nashville TN,806,138,122
+Miami FL,New Orleans LA,675,118,125
+Miami FL,New York NY,1093,171,185
+Miami FL,Newark NJ,1085,175,178
+Miami FL,Norfolk VA,802,139,175
+Miami FL,Omaha NE,1393,211,193
+Miami FL,Orlando FL,192,61,121
+Miami FL,Pensacola FL,530,105,194
+Miami FL,Philadelphia PA,1013,161,172
+Miami FL,Phoenix AZ,1972,275,228
+Miami FL,Pittsburgh PA,1013,163,140
+Miami FL,Portland ME,1353,212,135
+Miami FL,Raleigh/Durham NC,700,126,118
+Miami FL,Richmond VA,825,146,136
+Miami FL,Rochester NY,1203,193,174
+Miami FL,Salt Lake City UT,2088,284,228
+Miami FL,San Diego CA,2267,301,214
+Miami FL,San Francisco CA,2585,347,228
+Miami FL,San Juan PR,1045,157,158
+Miami FL,Savannah GA,440,89,155
+Miami FL,Seattle WA,2724,361,179
+Miami FL,St. Louis MO,1068,166,149
+Miami FL,Tallahassee FL,402,82,187
+Miami FL,Tampa FL,204,58,121
+Miami FL,Washington DC,920,151,217
+Midland/Odessa TX,Phoenix AZ,581,109,185
+Milwaukee WI,Minneapolis MN,297,75,198
+Milwaukee WI,Nashville TN,475,92,126
+Milwaukee WI,Orlando FL,1066,167,161
+Milwaukee WI,Philadelphia PA,690,126,190
+Milwaukee WI,Phoenix AZ,1460,210,227
+Milwaukee WI,Seattle WA,1694,247,201
+Milwaukee WI,St. Louis MO,317,73,127
+Milwaukee WI,Tampa FL,1075,165,163
+Milwaukee WI,Washington DC,634,102,167
+Minneapolis MN,Minot ND,449,93,237
+Minneapolis MN,Missoula MT,1013,166,195
+Minneapolis MN,Mosinee WI,175,62,122
+Minneapolis MN,Nashville TN,695,127,178
+Minneapolis MN,New Orleans LA,1039,155,168
+Minneapolis MN,New York NY,1024,161,194
+Minneapolis MN,Newark NJ,1008,162,187
+Minneapolis MN,Oklahoma City OK,694,121,214
+Minneapolis MN,Omaha NE,282,75,248
+Minneapolis MN,Orlando FL,1310,196,140
+Minneapolis MN,Palm Springs CA,1454,210,218
+Minneapolis MN,Pasco/Kennewick/Richland WA,1254,198,230
+Minneapolis MN,Philadelphia PA,980,160,203
+Minneapolis MN,Phoenix AZ,1276,188,170
+Minneapolis MN,Pittsburgh PA,726,128,220
+Minneapolis MN,Portland OR,1426,204,172
+Minneapolis MN,Raleigh/Durham NC,980,163,218
+Minneapolis MN,Rapid City SD,489,97,244
+Minneapolis MN,Rhinelander WI,190,56,136
+Minneapolis MN,Rochester MN,76,46,94
+Minneapolis MN,Sacramento CA,1517,217,206
+Minneapolis MN,Salt Lake City UT,991,159,243
+Minneapolis MN,San Antonio TX,1097,171,192
+Minneapolis MN,San Diego CA,1532,219,155
+Minneapolis MN,San Francisco CA,1589,228,201
+Minneapolis MN,Santa Ana CA,1522,220,218
+Minneapolis MN,Sarasota/Bradenton FL,1342,201,178
+Minneapolis MN,Sault Ste. Marie MI,435,92,149
+Minneapolis MN,Seattle WA,1399,208,170
+Minneapolis MN,Sioux Falls SD,196,66,264
+Minneapolis MN,Spokane WA,1175,175,202
+Minneapolis MN,St. Louis MO,448,92,168
+Minneapolis MN,Tampa FL,1306,193,165
+Minneapolis MN,Tucson AZ,1298,191,171
+Minneapolis MN,Washington DC,919,151,171
+Minneapolis MN,West Palm Beach/Palm Beach FL,1451,222,218
+Minneapolis MN,Wichita KS,545,105,248
+Minot ND,Phoenix AZ,1164,170,143
+Mission/McAllen/Edinburg TX,Sanford FL,1059,164,94
+Missoula MT,Phoenix AZ,948,145,143
+Missoula MT,Portland OR,418,94,198
+Missoula MT,Salt Lake City UT,436,92,181
+Missoula MT,Seattle WA,389,95,153
+Moline IL,Phoenix AZ,1288,182,141
+Moline IL,Punta Gorda FL,1113,165,111
+Moline IL,Sanford FL,1018,156,95
+Moline IL,St. Petersburg FL,1033,155,106
+Monterey CA,Phoenix AZ,598,115,164
+Monterey CA,San Diego CA,375,76,159
+Montrose/Delta CO,New York NY,1810,292,214
+Montrose/Delta CO,Newark NJ,1795,254,304
+Montrose/Delta CO,Phoenix AZ,419,96,117
+Montrose/Delta CO,San Francisco CA,791,131,201
+Myrtle Beach SC,New York NY,563,100,88
+Myrtle Beach SC,Newark NJ,550,100,69
+Myrtle Beach SC,Orlando FL,388,78,150
+Myrtle Beach SC,Philadelphia PA,473,98,115
+Nantucket MA,New York NY,199,60,230
+Nashville TN,New Orleans LA,471,86,137
+Nashville TN,New York NY,764,131,175
+Nashville TN,Newark NJ,748,134,133
+Nashville TN,Norfolk VA,585,107,138
+Nashville TN,Oakland CA,1959,265,181
+Nashville TN,Oklahoma City OK,616,102,145
+Nashville TN,Orlando FL,616,109,126
+Nashville TN,Panama City FL,401,76,147
+Nashville TN,Pensacola FL,391,77,137
+Nashville TN,Peoria IL,353,82,97
+Nashville TN,Philadelphia PA,675,121,137
+Nashville TN,Phoenix AZ,1449,208,198
+Nashville TN,Pittsburgh PA,462,88,117
+Nashville TN,Punta Gorda FL,692,118,62
+Nashville TN,Raleigh/Durham NC,442,87,135
+Nashville TN,Richmond VA,527,96,140
+Nashville TN,Salt Lake City UT,1404,210,212
+Nashville TN,San Antonio TX,822,131,172
+Nashville TN,San Diego CA,1751,238,191
+Nashville TN,San Jose CA,1947,264,168
+Nashville TN,Sanford FL,598,106,42
+Nashville TN,Santa Ana CA,1772,243,190
+Nashville TN,Sarasota/Bradenton FL,648,111,126
+Nashville TN,Seattle WA,1978,277,174
+Nashville TN,St. Louis MO,272,63,156
+Nashville TN,St. Petersburg FL,612,103,57
+Nashville TN,Syracuse NY,741,130,131
+Nashville TN,Tampa FL,612,104,166
+Nashville TN,Washington DC,555,102,153
+New Haven CT,Philadelphia PA,157,59,114
+New Orleans LA,New York NY,1182,180,205
+New Orleans LA,Newark NJ,1167,182,168
+New Orleans LA,Orlando FL,551,100,111
+New Orleans LA,Philadelphia PA,1089,176,144
+New Orleans LA,Phoenix AZ,1300,190,185
+New Orleans LA,Raleigh/Durham NC,779,122,138
+New Orleans LA,Salt Lake City UT,1428,206,229
+New Orleans LA,San Antonio TX,494,82,138
+New Orleans LA,Seattle WA,2086,284,153
+New Orleans LA,St. Louis MO,604,100,153
+New Orleans LA,Tampa FL,488,90,118
+New Orleans LA,Washington DC,960,153,177
+New York NY,Orlando FL,947,152,138
+New York NY,Palm Springs CA,2378,326,217
+New York NY,Phoenix AZ,2153,299,247
+New York NY,Pittsburgh PA,335,79,173
+New York NY,Portland ME,269,72,136
+New York NY,Portland OR,2454,330,237
+New York NY,Raleigh/Durham NC,429,88,147
+New York NY,Reno NV,2411,326,183
+New York NY,Richmond VA,292,72,151
+New York NY,Rochester NY,264,76,158
+New York NY,Sacramento CA,2521,336,220
+New York NY,Salt Lake City UT,1990,278,285
+New York NY,San Diego CA,2446,332,241
+New York NY,San Francisco CA,2586,347,252
+New York NY,San Juan PR,1598,226,195
+New York NY,Sarasota/Bradenton FL,1046,169,178
+New York NY,Savannah GA,718,122,178
+New York NY,Seattle WA,2422,332,243
+New York NY,St. Louis MO,888,141,187
+New York NY,Syracuse NY,209,71,183
+New York NY,Tampa FL,1007,160,149
+New York NY,Washington DC,217,65,144
+New York NY,West Palm Beach/Palm Beach FL,1033,163,227
+Newark NJ,Norfolk VA,284,79,133
+Newark NJ,Orlando FL,937,155,139
+Newark NJ,Phoenix AZ,2133,288,233
+Newark NJ,Pittsburgh PA,319,80,149
+Newark NJ,Portland ME,284,78,121
+Newark NJ,Portland OR,2434,325,236
+Newark NJ,Presque Isle/Houlton ME,515,117,186
+Newark NJ,Providence RI,160,69,314
+Newark NJ,Raleigh/Durham NC,416,90,125
+Newark NJ,Richmond VA,277,78,168
+Newark NJ,Rochester NY,246,77,165
+Newark NJ,Salt Lake City UT,1969,275,278
+Newark NJ,San Diego CA,2425,323,236
+Newark NJ,San Francisco CA,2565,336,248
+Newark NJ,San Juan PR,1608,232,158
+Newark NJ,Sarasota/Bradenton FL,1034,173,171
+Newark NJ,Savannah GA,708,128,151
+Newark NJ,Seattle WA,2402,328,233
+Newark NJ,St. Louis MO,872,147,204
+Newark NJ,Syracuse NY,195,74,157
+Newark NJ,Tampa FL,997,160,146
+Newark NJ,Valparaiso FL,988,160,143
+Newark NJ,Washington DC,208,68,210
+Newark NJ,West Palm Beach/Palm Beach FL,1023,164,213
+Newburgh/Poughkeepsie NY,Philadelphia PA,127,62,120
+Newburgh/Poughkeepsie NY,Punta Gorda FL,1101,175,98
+Newburgh/Poughkeepsie NY,Sanford FL,965,194,86
+Newburgh/Poughkeepsie NY,St. Petersburg FL,1055,167,80
+Newport News/Williamsburg VA,Philadelphia PA,201,62,5
+Niagara Falls NY,Punta Gorda FL,1129,164,82
+Niagara Falls NY,Sanford FL,996,150,54
+Niagara Falls NY,St. Petersburg FL,1069,164,78
+Norfolk VA,Orlando FL,655,113,127
+Norfolk VA,Philadelphia PA,212,66,178
+Norfolk VA,Sanford FL,631,106,47
+Norfolk VA,St. Petersburg FL,726,122,62
+Norfolk VA,Washington DC,150,58,139
+North Bend/Coos Bay OR,San Francisco CA,412,88,227
+Oakland CA,Ontario CA,362,72,145
+Oakland CA,Palm Springs CA,418,81,131
+Oakland CA,Phoenix AZ,646,110,122
+Oakland CA,Portland OR,543,96,134
+Oakland CA,Reno NV,181,56,118
+Oakland CA,Salt Lake City UT,588,109,137
+Oakland CA,San Diego CA,446,82,145
+Oakland CA,Santa Ana CA,371,79,121
+Oakland CA,Seattle WA,672,120,120
+Oakland CA,Spokane WA,723,118,118
+Oakland CA,St. Louis MO,1725,232,192
+Ogden UT,Phoenix AZ,544,95,53
+Ogdensburg NY,Washington DC,409,97,22
+Oklahoma City OK,Orlando FL,1069,174,179
+Oklahoma City OK,Phoenix AZ,833,138,186
+Oklahoma City OK,Salt Lake City UT,866,145,211
+Oklahoma City OK,Seattle WA,1519,228,165
+Oklahoma City OK,St. Louis MO,462,83,135
+Omaha NE,Orlando FL,1211,176,151
+Omaha NE,Phoenix AZ,1036,162,171
+Omaha NE,Punta Gorda FL,1269,189,95
+Omaha NE,Salt Lake City UT,840,147,230
+Omaha NE,Sanford FL,1195,179,81
+Omaha NE,Seattle WA,1368,214,166
+Omaha NE,St. Louis MO,342,68,138
+Omaha NE,St. Petersburg FL,1188,167,98
+Omaha NE,Washington DC,1012,154,189
+Ontario CA,Phoenix AZ,325,78,114
+Ontario CA,Portland OR,838,135,151
+Ontario CA,Sacramento CA,390,74,139
+Ontario CA,Salt Lake City UT,558,104,135
+Ontario CA,San Francisco CA,363,77,146
+Ontario CA,San Jose CA,333,65,123
+Ontario CA,Seattle WA,956,157,124
+Orlando FL,Philadelphia PA,861,144,122
+Orlando FL,Phoenix AZ,1849,262,205
+Orlando FL,Pittsburgh PA,834,135,127
+Orlando FL,Portland ME,1214,190,105
+Orlando FL,Portland OR,2534,339,184
+Orlando FL,Providence RI,1072,165,115
+Orlando FL,Raleigh/Durham NC,534,98,102
+Orlando FL,Richmond VA,667,116,105
+Orlando FL,Rochester NY,1033,156,172
+Orlando FL,Salt Lake City UT,1931,268,196
+Orlando FL,San Antonio TX,1041,157,177
+Orlando FL,San Diego CA,2149,298,192
+Orlando FL,San Francisco CA,2446,330,191
+Orlando FL,San Juan PR,1189,172,128
+Orlando FL,Seattle WA,2554,347,200
+Orlando FL,St. Louis MO,882,138,153
+Orlando FL,Syracuse NY,1053,166,117
+Orlando FL,Trenton NJ,896,152,54
+Orlando FL,Washington DC,759,130,133
+Orlando FL,White Plains NY,972,162,155
+Owensboro KY,Sanford FL,706,114,53
+Palm Springs CA,Philadelphia PA,2304,309,182
+Palm Springs CA,Phoenix AZ,261,70,98
+Palm Springs CA,Portland OR,873,146,167
+Palm Springs CA,Reno NV,431,89,122
+Palm Springs CA,Salt Lake City UT,541,101,195
+Palm Springs CA,San Francisco CA,421,86,188
+Palm Springs CA,Seattle WA,987,164,149
+Panama City FL,Washington DC,769,129,162
+Pasco/Kennewick/Richland WA,Phoenix AZ,977,150,133
+Pasco/Kennewick/Richland WA,Salt Lake City UT,521,99,192
+Pasco/Kennewick/Richland WA,Seattle WA,172,57,106
+Pensacola FL,Philadelphia PA,935,156,185
+Pensacola FL,Washington DC,812,138,174
+Peoria IL,Phoenix AZ,1312,189,136
+Peoria IL,Punta Gorda FL,1045,160,117
+Peoria IL,Sanford FL,949,152,85
+Peoria IL,St. Petersburg FL,965,149,106
+Petersburg AK,Wrangell AK,31,28,149
+Philadelphia PA,Phoenix AZ,2075,284,252
+Philadelphia PA,Pittsburgh PA,268,75,187
+Philadelphia PA,Portland ME,364,90,168
+Philadelphia PA,Providence RI,237,76,168
+Philadelphia PA,Raleigh/Durham NC,337,86,143
+Philadelphia PA,Richmond VA,198,67,211
+Philadelphia PA,Roanoke VA,311,82,162
+Philadelphia PA,Rochester NY,257,80,168
+Philadelphia PA,Salisbury MD,107,52,234
+Philadelphia PA,Salt Lake City UT,1927,270,244
+Philadelphia PA,San Diego CA,2370,319,239
+Philadelphia PA,San Francisco CA,2521,343,267
+Philadelphia PA,San Juan PR,1576,232,123
+Philadelphia PA,Sarasota/Bradenton FL,957,163,161
+Philadelphia PA,Savannah GA,629,118,173
+Philadelphia PA,Seattle WA,2378,327,227
+Philadelphia PA,St. Louis MO,814,140,200
+Philadelphia PA,State College PA,153,61,147
+Philadelphia PA,Syracuse NY,228,78,188
+Philadelphia PA,Tampa FL,920,153,128
+Philadelphia PA,Washington DC,127,59,209
+Philadelphia PA,Watertown NY,287,78,192
+Philadelphia PA,West Palm Beach/Palm Beach FL,951,162,177
+Philadelphia PA,Williamsport PA,129,49,68
+Philadelphia PA,Wilmington NC,413,93,166
+Phoenix AZ,Pittsburgh PA,1814,252,220
+Phoenix AZ,Portland OR,1009,160,178
+Phoenix AZ,Provo UT,477,88,64
+Phoenix AZ,Raleigh/Durham NC,1891,264,211
+Phoenix AZ,Rapid City SD,873,140,139
+Phoenix AZ,Reno NV,601,110,147
+Phoenix AZ,Rockford IL,1373,195,114
+Phoenix AZ,Sacramento CA,647,113,137
+Phoenix AZ,Salt Lake City UT,507,100,152
+Phoenix AZ,San Antonio TX,843,135,174
+Phoenix AZ,San Diego CA,304,72,128
+Phoenix AZ,San Francisco CA,651,117,110
+Phoenix AZ,San Jose CA,621,109,118
+Phoenix AZ,San Luis Obispo CA,509,106,144
+Phoenix AZ,Santa Ana CA,338,75,118
+Phoenix AZ,Santa Barbara CA,455,98,141
+Phoenix AZ,Santa Maria CA,516,91,39
+Phoenix AZ,Santa Rosa CA,699,131,168
+Phoenix AZ,Seattle WA,1107,174,137
+Phoenix AZ,Sioux Falls SD,1080,166,161
+Phoenix AZ,South Bend IN,1501,208,149
+Phoenix AZ,Spokane WA,1020,161,176
+Phoenix AZ,Springfield MO,1066,161,147
+Phoenix AZ,St. Cloud MN,1259,186,111
+Phoenix AZ,St. George UT,262,69,150
+Phoenix AZ,St. Louis MO,1262,184,188
+Phoenix AZ,Stockton CA,625,108,51
+Phoenix AZ,Tampa FL,1788,254,223
+Phoenix AZ,Tucson AZ,110,57,98
+Phoenix AZ,Tulsa OK,935,146,170
+Phoenix AZ,Washington DC,1967,272,216
+Phoenix AZ,Wichita KS,861,133,144
+Phoenix AZ,Yuma AZ,160,61,154
+Pittsburgh PA,Punta Gorda FL,941,147,84
+Pittsburgh PA,Sanford FL,809,129,61
+Pittsburgh PA,Sarasota/Bradenton FL,912,142,131
+Pittsburgh PA,Savannah GA,579,98,121
+Pittsburgh PA,Seattle WA,2125,294,173
+Pittsburgh PA,St. Louis MO,554,94,160
+Pittsburgh PA,St. Petersburg FL,878,138,73
+Pittsburgh PA,Tampa FL,873,140,149
+Pittsburgh PA,Washington DC,184,62,145
+Pittsburgh PA,West Palm Beach/Palm Beach FL,952,152,139
+Plattsburgh NY,Sanford FL,1175,174,67
+Plattsburgh NY,St. Petersburg FL,1262,181,76
+Plattsburgh NY,Washington DC,444,99,52
+Pocatello ID,Salt Lake City UT,150,53,94
+Portland ME,Washington DC,489,99,127
+Portland OR,Reno NV,444,98,118
+Portland OR,Sacramento CA,479,94,121
+Portland OR,Salt Lake City UT,630,112,164
+Portland OR,San Diego CA,933,147,148
+Portland OR,San Francisco CA,550,102,141
+Portland OR,San Jose CA,569,103,133
+Portland OR,Santa Ana CA,859,145,150
+Portland OR,Santa Barbara CA,784,126,148
+Portland OR,Santa Rosa CA,489,90,148
+Portland OR,Seattle WA,129,50,112
+Portland OR,Spokane WA,279,71,160
+Portland OR,St. Louis MO,1708,233,188
+Portland OR,Tucson AZ,1119,175,154
+Portland OR,Washington DC,2327,308,200
+Portsmouth NH,Punta Gorda FL,1279,190,79
+Portsmouth NH,Sanford FL,1144,172,69
+Presque Isle/Houlton ME,Washington DC,716,132,139
+Providence RI,Punta Gorda FL,1184,179,88
+Providence RI,Tampa FL,1136,175,142
+Providence RI,Washington DC,366,90,118
+Providence RI,West Palm Beach/Palm Beach FL,1148,174,177
+Pullman WA,Seattle WA,250,67,124
+Punta Gorda FL,Raleigh/Durham NC,645,114,53
+Punta Gorda FL,Rochester NY,1143,169,111
+Punta Gorda FL,Rockford IL,1127,168,114
+Punta Gorda FL,Sioux Falls SD,1415,201,111
+Punta Gorda FL,South Bend IN,1049,162,116
+Punta Gorda FL,Springfield IL,994,147,104
+Punta Gorda FL,St. Cloud MN,1447,213,138
+Punta Gorda FL,Syracuse NY,1164,174,78
+Punta Gorda FL,Toledo OH,1016,154,118
+Punta Gorda FL,Traverse City MI,1245,182,116
+Raleigh/Durham NC,Salt Lake City UT,1823,255,203
+Raleigh/Durham NC,San Juan PR,1433,208,123
+Raleigh/Durham NC,Sanford FL,510,91,37
+Raleigh/Durham NC,Seattle WA,2354,323,194
+Raleigh/Durham NC,St. Louis MO,667,113,148
+Raleigh/Durham NC,Tampa FL,587,104,140
+Raleigh/Durham NC,Washington DC,225,69,128
+Rapid City SD,Salt Lake City UT,508,108,212
+Redding CA,San Francisco CA,199,57,196
+Reno NV,Salt Lake City UT,422,90,183
+Reno NV,San Diego CA,488,86,133
+Reno NV,San Francisco CA,192,65,163
+Reno NV,Seattle WA,564,114,125
+Richmond VA,Sanford FL,643,118,45
+Richmond VA,Sarasota/Bradenton FL,760,130,109
+Richmond VA,St. Petersburg FL,731,125,61
+Richmond VA,Tampa FL,723,126,146
+Richmond VA,Washington DC,100,51,208
+Roanoke VA,Sanford FL,594,103,51
+Roanoke VA,St. Petersburg FL,668,113,56
+Roanoke VA,Washington DC,177,62,213
+Rochester NY,Tampa FL,1079,173,167
+Rochester NY,Washington DC,288,81,115
+Rockford IL,Sanford FL,1025,160,94
+Rockford IL,Sarasota/Bradenton FL,1085,162,87
+Rockford IL,St. Petersburg FL,1049,153,95
+Sacramento CA,Salt Lake City UT,532,100,154
+Sacramento CA,San Diego CA,480,85,148
+Sacramento CA,San Francisco CA,86,48,146
+Sacramento CA,Santa Ana CA,404,82,131
+Sacramento CA,Seattle WA,605,113,132
+Sacramento CA,Spokane WA,649,105,131
+Sacramento CA,St. Louis MO,1679,231,230
+Sacramento CA,Washington DC,2358,316,197
+Salt Lake City UT,San Antonio TX,1087,168,196
+Salt Lake City UT,San Diego CA,626,111,159
+Salt Lake City UT,San Francisco CA,599,113,161
+Salt Lake City UT,San Jose CA,584,112,166
+Salt Lake City UT,Santa Ana CA,588,110,199
+Salt Lake City UT,Seattle WA,689,123,144
+Salt Lake City UT,Spokane WA,546,102,177
+Salt Lake City UT,St. George UT,272,68,162
+Salt Lake City UT,St. Louis MO,1156,182,203
+Salt Lake City UT,Sun Valley/Hailey/Ketchum ID,222,64,174
+Salt Lake City UT,Tampa FL,1888,266,229
+Salt Lake City UT,Tucson AZ,601,110,207
+Salt Lake City UT,Tulsa OK,926,154,203
+Salt Lake City UT,Twin Falls ID,175,55,127
+Salt Lake City UT,Washington DC,1842,258,240
+San Antonio TX,San Diego CA,1129,160,199
+San Antonio TX,Seattle WA,1774,246,159
+San Antonio TX,St. Louis MO,786,120,188
+San Antonio TX,Tampa FL,972,147,166
+San Antonio TX,Washington DC,1362,205,214
+San Diego CA,San Francisco CA,447,85,114
+San Diego CA,San Jose CA,417,77,122
+San Diego CA,Santa Rosa CA,508,93,140
+San Diego CA,Seattle WA,1050,165,133
+San Diego CA,Spokane WA,1027,164,135
+San Diego CA,St. Louis MO,1557,215,199
+San Diego CA,Washington DC,2253,304,227
+San Francisco CA,San Luis Obispo CA,190,56,173
+San Francisco CA,Santa Ana CA,372,84,120
+San Francisco CA,Santa Barbara CA,262,64,217
+San Francisco CA,Seattle WA,679,123,133
+San Francisco CA,Spokane WA,733,124,124
+San Francisco CA,Sun Valley/Hailey/Ketchum ID,587,117,259
+San Francisco CA,Tampa FL,2393,326,240
+San Francisco CA,Tucson AZ,751,127,174
+San Francisco CA,Twin Falls ID,536,96,290
+San Francisco CA,Washington DC,2421,319,295
+San Jose CA,Santa Ana CA,342,72,134
+San Jose CA,Seattle WA,696,125,130
+San Jose CA,Spokane WA,742,127,131
+San Jose CA,St. Louis MO,1715,237,206
+San Juan PR,Tampa FL,1237,179,126
+San Juan PR,Washington DC,1563,223,192
+San Luis Obispo CA,Seattle WA,847,144,164
+Sanford FL,Sioux Falls SD,1334,197,108
+Sanford FL,South Bend IN,936,142,98
+Sanford FL,Springfield MO,914,148,90
+Sanford FL,State College PA,854,139,56
+Sanford FL,Syracuse NY,1029,154,83
+Sanford FL,Toledo OH,895,133,96
+Sanford FL,Traverse City MI,1126,165,107
+Sanford FL,Tulsa OK,995,153,74
+Santa Ana CA,Santa Rosa CA,433,88,146
+Santa Ana CA,Seattle WA,978,163,132
+Santa Barbara CA,Seattle WA,908,145,175
+Santa Rosa CA,Seattle WA,618,115,140
+Sarasota/Bradenton FL,South Bend IN,1009,156,121
+Sarasota/Bradenton FL,Syracuse NY,1142,175,125
+Sarasota/Bradenton FL,Washington DC,850,142,181
+Savannah GA,Washington DC,515,115,168
+Scranton/Wilkes-Barre PA,Washington DC,189,65,147
+Seattle WA,Spokane WA,224,64,113
+Seattle WA,St. Louis MO,1709,244,203
+Seattle WA,Sun Valley/Hailey/Ketchum ID,475,110,168
+Seattle WA,Tampa FL,2520,342,201
+Seattle WA,Tucson AZ,1216,186,126
+Seattle WA,Walla Walla WA,213,60,96
+Seattle WA,Washington DC,2314,316,224
+Seattle WA,Wenatchee WA,99,44,132
+Seattle WA,Wichita KS,1430,213,169
+Seattle WA,Yakima WA,103,43,135
+Sioux Falls SD,St. Petersburg FL,1334,195,114
+South Bend IN,St. Petersburg FL,973,144,103
+Springfield MO,St. Petersburg FL,895,137,108
+St. Louis MO,Tampa FL,869,135,181
+St. Louis MO,Tulsa OK,351,70,125
+St. Louis MO,Washington DC,707,128,158
+St. Louis MO,Wichita KS,392,75,116
+St. Petersburg FL,State College PA,933,144,55
+St. Petersburg FL,Syracuse NY,1111,170,92
+St. Petersburg FL,Toledo OH,945,148,108
+St. Petersburg FL,Traverse City MI,1172,169,104
+St. Petersburg FL,Tulsa OK,961,148,49
+State College PA,Washington DC,133,58,276
+Staunton VA,Washington DC,91,52,11
+Syracuse NY,Tampa FL,1104,172,162
+Syracuse NY,Washington DC,296,85,158
+Tampa FL,Trenton NJ,955,159,48
+Tampa FL,Washington DC,813,135,170
+Tampa FL,White Plains NY,1032,166,153
+Trenton NJ,West Palm Beach/Palm Beach FL,985,166,71
+Valparaiso FL,Washington DC,789,134,173
+Washington DC,West Palm Beach/Palm Beach FL,858,145,188
+Washington DC,Wilmington NC,322,81,137
+West Palm Beach/Palm Beach FL,White Plains NY,1056,168,222

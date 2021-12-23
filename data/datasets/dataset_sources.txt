@@ -1,0 +1,3 @@
+Latitude and Longitude Dataset (airports.csv) comes from OpenFlights: https://github.com/jpatokal/openflights/blob/master/data/airports.dat
+
+The two airports that are outdated on OpenFlights' coordinates were found manually through Wikipedia.
